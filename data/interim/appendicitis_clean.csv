@@ -1,0 +1,1501 @@
+Age,Gender,BMI,Is_Pregnant,Duration_of_Symptoms_Hours,Pain_Migration,Abdominal_Pain_Location,Nausea_Vomiting,Loss_of_Appetite,Fever_Temp_C,Rebound_Tenderness,McBurney_Sign,Rovsing_Sign,Psoas_Sign,WBC_Count_k_uL,Neutrophil_Percentage,CRP_Level_mg_L,Ultrasound_Findings,Final_Diagnosis,target_bin
+32,Female,23.4,0,17,0,RLQ,0,0,37.7,0,0,0,0,11.5,77.8,63.2,Non-visualized,Appendicitis,1
+5,Male,19.4,0,31,0,RLQ,0,0,38.2,0,0,0,0,12.6,74.7,89.1,Target Sign,Appendicitis,1
+28,Female,27.5,0,49,0,RLQ,0,0,37.7,0,0,0,0,16.2,77.0,92.9,Periappendiceal Fluid,Appendicitis,1
+20,Male,28.7,0,32,0,RLQ,0,0,37.5,0,0,0,0,19.1,88.3,12.7,Periappendiceal Fluid,Appendicitis,1
+12,Female,22.0,0,47,0,RLQ,0,0,37.3,0,0,0,0,12.2,65.0,8.8,Normal,Other (Ectopic Pregnancy (if pregnant)),0
+21,Female,20.4,0,43,0,RLQ,0,0,37.5,0,0,0,0,11.3,81.5,34.8,Appendicolith Seen,Appendicitis,1
+57,Male,28.9,0,19,0,Generalized,0,0,38.7,0,0,0,0,11.2,78.8,28.0,Enlarged (>6mm),Appendicitis,1
+41,Female,28.7,0,28,0,Generalized,0,0,38.5,0,0,0,0,16.9,87.5,70.6,Periappendiceal Fluid,Appendicitis,1
+21,Female,26.3,0,8,0,Generalized,0,0,37.9,0,0,0,0,14.4,82.9,199.8,Target Sign,Appendicitis,1
+5,Female,20.6,0,29,0,RLQ,0,0,38.0,0,0,0,0,20.9,79.1,42.0,Enlarged (>6mm),Appendicitis,1
+7,Male,29.6,0,35,0,RLQ,0,0,36.9,0,0,0,0,11.0,78.7,71.7,Periappendiceal Fluid,Appendicitis,1
+23,Female,20.3,0,4,0,RLQ,0,0,37.1,0,0,0,0,10.1,54.7,8.1,Normal,Other (Ectopic Pregnancy (if pregnant)),0
+23,Male,22.1,0,28,0,RLQ,0,0,37.8,0,0,0,0,15.1,77.3,75.9,Appendicolith Seen,Appendicitis,1
+53,Male,21.3,0,40,0,RLQ,0,0,37.8,0,0,0,0,16.3,85.1,38.5,Periappendiceal Fluid,Appendicitis,1
+33,Female,24.6,0,35,0,RLQ,0,0,38.3,0,0,0,0,12.9,72.7,15.2,Appendicolith Seen,Appendicitis,1
+41,Male,31.8,0,3,0,Generalized,0,0,38.0,0,0,0,0,18.7,83.4,102.3,Enlarged (>6mm),Appendicitis,1
+34,Male,16.0,0,47,0,Generalized,0,0,37.8,0,0,0,0,15.1,79.9,24.9,Periappendiceal Fluid,Appendicitis,1
+28,Female,31.3,0,18,0,RLQ,0,0,38.2,0,0,0,0,10.4,80.9,62.1,Enlarged (>6mm),Appendicitis,1
+9,Male,27.3,0,36,0,RLQ,0,0,38.4,0,0,0,0,14.7,70.6,23.9,Enlarged (>6mm),Appendicitis,1
+33,Female,21.2,0,23,0,Generalized,0,0,37.4,0,0,0,0,12.7,76.7,26.0,Enlarged (>6mm),Appendicitis,1
+50,Male,18.0,0,48,0,RLQ,0,0,38.1,0,0,0,0,18.6,83.6,28.1,Enlarged (>6mm),Appendicitis,1
+43,Male,25.4,0,8,0,RLQ,0,0,39.1,0,0,0,0,12.6,78.6,40.3,Target Sign,Appendicitis,1
+63,Female,24.8,0,78,0,RLQ,0,0,38.0,0,0,0,0,15.9,82.8,76.3,Enlarged (>6mm),Appendicitis,1
+17,Male,33.4,0,26,0,RLQ,0,0,37.3,0,0,0,0,17.7,81.5,41.4,Target Sign,Appendicitis,1
+6,Male,19.4,0,14,0,RLQ,0,0,38.1,0,0,0,0,19.8,87.2,60.4,Appendicolith Seen,Appendicitis,1
+32,Male,25.2,0,15,0,RLQ,0,0,37.7,0,0,0,0,10.9,91.9,67.2,Target Sign,Appendicitis,1
+5,Male,26.4,0,25,0,RLQ,0,0,38.7,0,0,0,0,16.9,81.9,55.8,Appendicolith Seen,Appendicitis,1
+31,Male,22.3,0,47,0,LLQ,0,0,37.5,0,0,0,0,10.9,47.9,5.3,Normal,Other (UTI),0
+40,Male,21.7,0,22,0,RLQ,0,0,38.3,0,0,0,0,16.0,84.0,139.6,Enlarged (>6mm),Appendicitis,1
+18,Female,16.0,0,49,0,RLQ,0,0,38.2,0,0,0,0,12.0,86.6,59.7,Periappendiceal Fluid,Appendicitis,1
+32,Male,29.0,0,33,0,RLQ,0,0,38.1,0,0,0,0,8.3,61.6,4.0,Non-visualized,Other (UTI),0
+16,Male,29.3,0,19,0,RLQ,0,0,39.2,0,0,0,0,10.1,76.4,91.7,Enlarged (>6mm),Appendicitis,1
+43,Male,26.7,0,18,0,Periumbilical,0,0,37.8,0,0,0,0,16.1,77.2,13.7,Non-visualized,Appendicitis,1
+34,Female,23.7,0,10,0,RLQ,0,0,37.7,0,0,0,0,9.7,53.1,12.5,Normal,Other (Gastroenteritis),0
+13,Female,23.3,0,28,0,RLQ,0,0,37.9,0,0,0,0,13.7,69.5,133.8,Target Sign,Appendicitis,1
+6,Female,18.4,0,24,0,RLQ,0,0,37.5,0,0,0,0,14.6,84.9,32.3,Enlarged (>6mm),Appendicitis,1
+28,Male,25.0,0,71,0,RLQ,0,0,37.0,0,0,0,0,9.8,89.5,77.3,Target Sign,Appendicitis,1
+5,Male,23.8,0,85,0,RLQ,0,0,37.9,0,0,0,0,10.7,58.8,6.8,Other Mild Inflammation,Other (Gastroenteritis),0
+24,Male,29.4,0,13,0,RLQ,0,0,37.5,0,0,0,0,13.5,70.9,108.6,Periappendiceal Fluid,Appendicitis,1
+10,Male,23.1,0,5,0,RLQ,0,0,37.9,0,0,0,0,8.7,56.6,16.2,Normal,Other (Kidney Stones),0
+24,Female,31.1,0,51,0,RLQ,0,0,36.9,0,0,0,0,15.0,86.9,14.1,Appendicolith Seen,Appendicitis,1
+34,Male,25.7,0,34,0,RLQ,0,0,38.1,0,0,0,0,13.9,78.9,95.9,Target Sign,Appendicitis,1
+9,Female,29.1,0,31,0,RLQ,0,0,38.5,0,0,0,0,14.7,89.3,103.7,Target Sign,Appendicitis,1
+14,Female,22.2,0,11,0,RLQ,0,0,38.9,0,0,0,0,11.3,76.0,137.3,Periappendiceal Fluid,Appendicitis,1
+59,Male,21.3,0,27,0,Epigastric,0,0,36.5,0,0,0,0,12.6,67.7,6.5,Normal,Other (Kidney Stones),0
+19,Female,23.5,0,36,0,RLQ,0,0,38.7,0,0,0,0,13.9,78.2,51.8,Enlarged (>6mm),Appendicitis,1
+25,Female,28.1,0,36,0,RLQ,0,0,37.8,0,0,0,0,15.5,88.2,29.4,Enlarged (>6mm),Appendicitis,1
+23,Male,30.3,0,21,0,RLQ,0,0,38.2,0,0,0,0,11.9,80.6,111.5,Enlarged (>6mm),Appendicitis,1
+32,Female,21.6,0,14,0,RLQ,0,0,39.2,0,0,0,0,12.8,81.3,84.0,Periappendiceal Fluid,Appendicitis,1
+6,Female,27.3,0,5,0,Generalized,0,0,37.7,0,0,0,0,12.8,92.3,72.1,Target Sign,Appendicitis,1
+22,Male,19.3,0,8,0,Generalized,0,0,37.9,0,0,0,0,12.8,87.3,34.1,Target Sign,Appendicitis,1
+5,Female,25.3,0,46,0,Periumbilical,0,0,38.0,0,0,0,0,17.0,75.1,29.9,Periappendiceal Fluid,Appendicitis,1
+5,Female,19.6,0,44,0,RLQ,0,0,38.1,0,0,0,0,18.3,94.7,74.9,Target Sign,Appendicitis,1
+21,Male,23.1,0,20,0,RLQ,0,0,37.3,0,0,0,0,8.4,70.0,72.3,Enlarged (>6mm),Appendicitis,1
+32,Male,22.3,0,65,0,Epigastric,0,0,37.3,0,0,0,0,12.8,57.9,39.9,Normal,Other (UTI),0
+5,Female,21.5,0,32,0,Generalized,0,0,38.2,0,0,0,0,13.6,71.6,109.0,Enlarged (>6mm),Appendicitis,1
+41,Male,21.2,0,30,0,RLQ,0,0,36.5,0,0,0,0,8.1,71.8,8.3,Normal,Other (Gastroenteritis),0
+43,Female,28.4,0,28,0,RLQ,0,0,37.9,0,0,0,0,13.1,91.7,23.0,Appendicolith Seen,Appendicitis,1
+5,Male,26.0,0,28,0,RLQ,0,0,38.0,0,0,0,0,14.2,83.1,49.0,Non-visualized,Appendicitis,1
+27,Female,27.4,0,20,0,Generalized,0,0,39.1,0,0,0,0,15.1,81.2,93.7,Enlarged (>6mm),Appendicitis,1
+5,Female,28.7,0,71,0,RLQ,0,0,36.7,0,0,0,0,23.9,82.5,51.3,Enlarged (>6mm),Appendicitis,1
+7,Female,24.7,0,10,0,Generalized,0,0,38.2,0,0,0,0,12.8,58.4,14.9,Non-visualized,Other (PID),0
+27,Male,20.1,0,28,0,RLQ,0,0,37.9,0,0,0,0,11.7,79.4,55.0,Appendicolith Seen,Appendicitis,1
+32,Male,18.8,0,17,0,Epigastric,0,0,37.7,0,0,0,0,6.0,62.2,15.3,Normal,Other (Kidney Stones),0
+31,Male,21.2,0,39,0,RLQ,0,0,37.6,0,0,0,0,9.9,78.9,102.2,Enlarged (>6mm),Appendicitis,1
+41,Male,30.9,0,29,0,Periumbilical,0,0,37.7,0,0,0,0,10.4,73.0,43.0,Periappendiceal Fluid,Appendicitis,1
+5,Male,24.4,0,25,0,Periumbilical,0,0,38.2,0,0,0,0,15.7,86.7,26.1,Enlarged (>6mm),Appendicitis,1
+27,Male,33.9,0,15,0,RLQ,0,0,37.3,0,0,0,0,15.8,70.0,32.1,Target Sign,Appendicitis,1
+43,Female,31.1,0,40,0,RLQ,0,0,38.2,0,0,0,0,14.9,81.3,62.0,Appendicolith Seen,Appendicitis,1
+23,Female,23.7,0,55,0,Periumbilical,0,0,37.0,0,0,0,0,16.4,74.6,124.3,Enlarged (>6mm),Appendicitis,1
+21,Female,30.1,0,44,0,Periumbilical,0,0,38.8,0,0,0,0,16.5,75.0,35.9,Enlarged (>6mm),Appendicitis,1
+51,Male,27.2,0,14,0,RLQ,0,0,37.2,0,0,0,0,13.3,84.7,74.7,Periappendiceal Fluid,Appendicitis,1
+43,Male,25.9,0,37,0,RLQ,0,0,37.4,0,0,0,0,10.3,64.0,26.3,Other Mild Inflammation,Other (Mesenteric Adenitis),0
+21,Male,24.4,0,56,0,Generalized,0,0,37.5,0,0,0,0,18.1,85.6,83.3,Enlarged (>6mm),Appendicitis,1
+44,Female,25.8,0,63,0,Epigastric,0,0,38.4,0,0,0,0,13.3,54.7,6.3,Ovarian Cyst,Other (Ovarian Cyst Rupture),0
+17,Female,21.0,0,20,0,RLQ,0,0,38.4,0,0,0,0,15.6,81.1,141.0,Non-visualized,Appendicitis,1
+19,Male,21.6,0,42,0,LLQ,0,0,37.4,0,0,0,0,11.1,73.1,9.8,Normal,Other (Kidney Stones),0
+37,Female,20.3,0,34,0,RLQ,0,0,37.3,0,0,0,0,10.2,86.3,18.2,Periappendiceal Fluid,Appendicitis,1
+19,Female,17.2,0,29,0,RLQ,0,0,38.9,0,0,0,0,12.0,89.3,179.9,Non-visualized,Appendicitis,1
+41,Female,21.4,0,23,0,RLQ,0,0,38.0,0,0,0,0,20.1,80.6,18.8,Non-visualized,Appendicitis,1
+10,Male,18.4,0,32,0,RLQ,0,0,37.3,0,0,0,0,14.1,90.3,42.9,Enlarged (>6mm),Appendicitis,1
+49,Female,22.2,0,22,0,RLQ,0,0,37.9,0,0,0,0,13.6,81.9,138.6,Enlarged (>6mm),Appendicitis,1
+13,Male,16.9,0,7,0,LLQ,0,0,36.8,0,0,0,0,7.7,58.5,62.0,Normal,Other (Kidney Stones),0
+20,Male,25.1,0,30,0,RLQ,0,0,37.6,0,0,0,0,18.8,85.9,17.9,Periappendiceal Fluid,Appendicitis,1
+20,Male,24.9,0,31,0,Generalized,0,0,38.1,0,0,0,0,13.0,57.9,16.3,Normal,Other (Kidney Stones),0
+26,Male,20.1,0,28,0,Generalized,0,0,38.0,0,0,0,0,10.2,80.8,85.9,Enlarged (>6mm),Appendicitis,1
+19,Male,22.4,0,59,0,Epigastric,0,0,37.3,0,0,0,0,6.0,74.5,9.1,Non-visualized,Other (UTI),0
+63,Male,25.2,0,8,0,RLQ,0,0,38.0,0,0,0,0,17.7,91.8,30.2,Appendicolith Seen,Appendicitis,1
+48,Female,26.1,0,35,0,RLQ,0,0,36.8,0,0,0,0,8.2,76.7,17.0,Other Mild Inflammation,Other (Ovarian Cyst Rupture),0
+17,Female,26.5,0,6,0,RLQ,0,0,38.7,0,0,0,0,7.7,81.5,32.0,Periappendiceal Fluid,Appendicitis,1
+27,Female,25.3,0,73,0,RLQ,0,0,37.5,0,0,0,0,8.0,72.6,22.3,Non-visualized,Other (Ectopic Pregnancy (if pregnant)),0
+50,Female,21.8,0,24,0,RLQ,0,0,37.0,0,0,0,0,9.9,83.4,32.5,Target Sign,Appendicitis,1
+46,Female,22.9,0,12,0,Generalized,0,0,37.5,0,0,0,0,16.9,67.0,58.4,Target Sign,Appendicitis,1
+5,Male,27.9,0,2,0,RLQ,0,0,38.5,0,0,0,0,5.4,60.4,23.5,Other Mild Inflammation,Other (Mesenteric Adenitis),0
+24,Female,28.3,0,36,0,RLQ,0,0,38.2,0,0,0,0,14.9,80.4,29.8,Target Sign,Appendicitis,1
+11,Female,26.0,0,40,0,RLQ,0,0,37.9,0,0,0,0,15.2,77.5,52.3,Enlarged (>6mm),Appendicitis,1
+16,Male,24.4,0,71,0,Periumbilical,0,0,37.6,0,0,0,0,16.1,81.2,71.4,Enlarged (>6mm),Appendicitis,1
+37,Female,20.1,0,26,0,RLQ,0,0,38.9,0,0,0,0,14.0,91.7,97.5,Enlarged (>6mm),Appendicitis,1
+24,Male,19.4,0,20,0,RLQ,0,0,37.3,0,0,0,0,16.6,72.8,38.2,Enlarged (>6mm),Appendicitis,1
+5,Male,26.6,0,9,0,RLQ,0,0,38.3,0,0,0,0,11.9,76.5,181.0,Target Sign,Appendicitis,1
+54,Male,28.5,0,71,0,RLQ,0,0,38.2,0,0,0,0,16.4,81.3,37.0,Periappendiceal Fluid,Appendicitis,1
+7,Male,20.4,0,53,0,RLQ,0,0,37.6,0,0,0,0,13.5,88.8,42.8,Periappendiceal Fluid,Appendicitis,1
+59,Female,24.8,0,14,0,RLQ,0,0,37.8,0,0,0,0,17.4,85.1,72.6,Enlarged (>6mm),Appendicitis,1
+35,Female,25.4,0,14,0,RLQ,0,0,38.6,0,0,0,0,13.6,80.7,34.1,Non-visualized,Appendicitis,1
+5,Male,20.9,0,4,0,Periumbilical,0,0,37.8,0,0,0,0,11.9,63.9,64.1,Target Sign,Appendicitis,1
+27,Male,27.4,0,25,0,Epigastric,0,0,37.6,0,0,0,0,4.6,65.1,6.1,Non-visualized,Other (Mesenteric Adenitis),0
+10,Male,33.8,0,29,0,RLQ,0,0,37.8,0,0,0,0,9.5,65.6,17.4,Other Mild Inflammation,Other (Gastroenteritis),0
+16,Female,27.9,0,29,0,RLQ,0,0,37.9,0,0,0,0,8.3,46.6,2.0,Normal,Other (Gastroenteritis),0
+28,Male,18.7,0,41,0,RLQ,0,0,38.4,0,0,0,0,13.5,88.0,171.2,Non-visualized,Appendicitis,1
+32,Male,24.7,0,38,0,RLQ,0,0,38.0,0,0,0,0,15.6,80.0,34.8,Target Sign,Appendicitis,1
+21,Male,18.8,0,42,0,RLQ,0,0,39.1,0,0,0,0,9.8,83.9,87.2,Appendicolith Seen,Appendicitis,1
+27,Female,32.5,0,10,0,RLQ,0,0,38.3,0,0,0,0,11.7,76.6,115.3,Enlarged (>6mm),Appendicitis,1
+5,Male,23.9,0,33,0,Periumbilical,0,0,38.1,0,0,0,0,17.8,83.8,57.4,Enlarged (>6mm),Appendicitis,1
+35,Female,25.1,0,14,0,RLQ,0,0,37.5,0,0,0,0,18.5,85.2,67.5,Enlarged (>6mm),Appendicitis,1
+33,Female,25.7,0,35,0,RLQ,0,0,37.7,0,0,0,0,25.0,77.6,12.0,Enlarged (>6mm),Appendicitis,1
+28,Female,16.6,0,14,0,Pelvic,0,0,38.1,0,0,0,0,10.9,78.6,17.8,Normal,Other (UTI),0
+11,Female,18.7,0,25,0,LLQ,0,0,36.6,0,0,0,0,9.0,68.5,21.1,Normal,Other (PID),0
+31,Female,28.2,0,68,0,RLQ,0,0,37.7,0,0,0,0,21.8,81.0,99.3,Enlarged (>6mm),Appendicitis,1
+47,Female,22.1,0,18,0,RLQ,0,0,36.6,0,0,0,0,9.3,62.4,1.1,Normal,Other (Gastroenteritis),0
+59,Female,24.7,0,20,0,RLQ,0,0,37.4,0,0,0,0,13.4,81.6,42.5,Enlarged (>6mm),Appendicitis,1
+29,Female,22.2,0,31,0,RLQ,0,0,37.8,0,0,0,0,20.1,68.0,50.4,Enlarged (>6mm),Appendicitis,1
+45,Female,24.7,0,34,0,RLQ,0,0,38.1,0,0,0,0,14.0,79.4,15.9,Periappendiceal Fluid,Appendicitis,1
+14,Male,18.9,0,32,0,RLQ,0,0,37.7,0,0,0,0,14.4,82.7,40.3,Periappendiceal Fluid,Appendicitis,1
+10,Male,20.8,0,14,0,RLQ,0,0,38.0,0,0,0,0,15.8,93.2,36.0,Target Sign,Appendicitis,1
+5,Female,32.5,0,11,0,RLQ,0,0,37.9,0,0,0,0,10.2,73.7,128.4,Periappendiceal Fluid,Appendicitis,1
+48,Female,29.7,0,32,0,RLQ,0,0,38.4,0,0,0,0,15.4,85.2,171.3,Enlarged (>6mm),Appendicitis,1
+10,Male,16.5,0,2,0,Periumbilical,0,0,37.9,0,0,0,0,13.3,78.4,131.3,Periappendiceal Fluid,Appendicitis,1
+41,Female,28.0,0,26,0,Pelvic,0,0,37.2,0,0,0,0,4.0,64.8,7.3,Normal,Other (UTI),0
+51,Male,19.9,0,29,0,RLQ,0,0,38.1,0,0,0,0,23.3,88.3,115.4,Non-visualized,Appendicitis,1
+17,Male,24.3,0,8,0,LLQ,0,0,36.5,0,0,0,0,9.0,56.0,51.0,Ovarian Cyst,Other (Gastroenteritis),0
+13,Male,29.9,0,5,0,RLQ,0,0,38.2,0,0,0,0,17.9,78.0,160.0,Enlarged (>6mm),Appendicitis,1
+9,Female,25.0,0,14,0,RLQ,0,0,38.0,0,0,0,0,16.4,93.6,48.4,Target Sign,Appendicitis,1
+36,Female,28.4,0,32,0,RLQ,0,0,37.8,0,0,0,0,17.7,79.7,46.2,Target Sign,Appendicitis,1
+14,Male,23.9,0,8,0,RLQ,0,0,37.9,0,0,0,0,14.2,82.0,62.2,Periappendiceal Fluid,Appendicitis,1
+35,Female,30.0,0,31,0,RLQ,0,0,38.2,0,0,0,0,9.5,69.0,158.8,Appendicolith Seen,Appendicitis,1
+29,Female,30.3,0,36,0,RLQ,0,0,37.3,0,0,0,0,15.7,71.4,124.0,Target Sign,Appendicitis,1
+30,Female,30.4,0,36,0,RLQ,0,0,39.3,0,0,0,0,17.2,81.1,14.9,Periappendiceal Fluid,Appendicitis,1
+44,Male,23.2,0,33,0,RLQ,0,0,37.1,0,0,0,0,15.9,83.7,28.3,Non-visualized,Appendicitis,1
+34,Male,28.2,0,25,0,Generalized,0,0,37.9,0,0,0,0,11.4,80.8,106.7,Periappendiceal Fluid,Appendicitis,1
+25,Male,29.4,0,7,0,Periumbilical,0,0,38.5,0,0,0,0,10.3,88.7,45.5,Target Sign,Appendicitis,1
+28,Male,26.6,0,55,0,RLQ,0,0,37.8,0,0,0,0,15.0,80.9,36.0,Target Sign,Appendicitis,1
+5,Female,24.9,0,66,0,RLQ,0,0,37.8,0,0,0,0,10.9,78.1,23.2,Other Mild Inflammation,Other (UTI),0
+11,Female,28.0,0,23,0,Generalized,0,0,37.9,0,0,0,0,8.5,59.7,5.3,Normal,Other (Mesenteric Adenitis),0
+14,Female,23.6,0,19,0,RLQ,0,0,37.5,0,0,0,0,13.0,83.2,20.3,Enlarged (>6mm),Appendicitis,1
+29,Female,27.4,0,28,0,RLQ,0,0,38.9,0,0,0,0,14.2,79.0,17.5,Target Sign,Appendicitis,1
+47,Female,25.4,0,56,0,RLQ,0,0,38.7,0,0,0,0,17.3,82.3,51.2,Appendicolith Seen,Appendicitis,1
+45,Female,24.4,0,44,0,RLQ,0,0,38.1,0,0,0,0,13.9,86.4,39.1,Target Sign,Appendicitis,1
+27,Male,17.3,0,16,0,RLQ,0,0,37.2,0,0,0,0,16.6,86.5,57.4,Appendicolith Seen,Appendicitis,1
+39,Female,29.8,0,19,0,RLQ,0,0,37.5,0,0,0,0,20.6,86.5,79.6,Enlarged (>6mm),Appendicitis,1
+38,Male,30.2,0,29,0,RLQ,0,0,38.1,0,0,0,0,13.8,76.0,34.0,Enlarged (>6mm),Appendicitis,1
+6,Female,21.6,0,17,0,Periumbilical,0,0,37.4,0,0,0,0,8.4,79.4,27.4,Non-visualized,Appendicitis,1
+5,Male,23.1,0,41,0,RLQ,0,0,38.2,0,0,0,0,13.9,87.0,131.9,Periappendiceal Fluid,Appendicitis,1
+10,Male,23.4,0,25,0,Periumbilical,0,0,37.4,0,0,0,0,10.6,92.9,109.2,Enlarged (>6mm),Appendicitis,1
+11,Female,24.8,0,20,0,Periumbilical,0,0,37.9,0,0,0,0,10.2,86.2,69.2,Appendicolith Seen,Appendicitis,1
+39,Female,25.6,0,26,0,RLQ,0,0,39.0,0,0,0,0,13.1,84.7,61.3,Periappendiceal Fluid,Appendicitis,1
+7,Female,24.8,0,34,0,RLQ,0,0,38.9,0,0,0,0,14.1,80.9,26.0,Enlarged (>6mm),Appendicitis,1
+31,Female,22.2,0,41,0,RLQ,0,0,38.3,0,0,0,0,11.2,85.2,47.6,Target Sign,Appendicitis,1
+31,Male,17.0,0,16,0,Epigastric,0,0,37.2,0,0,0,0,4.0,61.0,5.9,Normal,Other (UTI),0
+21,Female,30.5,0,41,0,RLQ,0,0,37.7,0,0,0,0,13.9,86.6,7.5,Enlarged (>6mm),Appendicitis,1
+47,Male,21.2,0,20,0,RLQ,0,0,38.0,0,0,0,0,10.6,68.5,75.6,Enlarged (>6mm),Appendicitis,1
+43,Female,23.2,0,35,0,RLQ,0,0,37.5,0,0,0,0,13.4,81.5,37.4,Enlarged (>6mm),Appendicitis,1
+5,Female,30.0,0,3,0,Periumbilical,0,0,38.5,0,0,0,0,16.4,81.3,31.6,Enlarged (>6mm),Appendicitis,1
+11,Female,24.0,0,57,0,RLQ,0,0,37.6,0,0,0,0,15.4,76.8,148.8,Enlarged (>6mm),Appendicitis,1
+5,Female,27.1,0,36,0,RLQ,0,0,37.8,0,0,0,0,12.5,72.1,3.2,Other Mild Inflammation,Other (UTI),0
+52,Female,22.5,0,25,0,RLQ,0,0,38.9,0,0,0,0,13.4,72.0,42.8,Enlarged (>6mm),Appendicitis,1
+29,Male,34.0,0,25,0,RLQ,0,0,38.4,0,0,0,0,13.4,84.2,40.1,Target Sign,Appendicitis,1
+6,Female,23.8,0,19,0,RLQ,0,0,38.7,0,0,0,0,18.3,83.0,113.5,Non-visualized,Appendicitis,1
+5,Female,27.5,0,36,0,RLQ,0,0,37.9,0,0,0,0,15.1,81.5,41.2,Enlarged (>6mm),Appendicitis,1
+5,Male,26.3,0,28,0,Periumbilical,0,0,36.9,0,0,0,0,17.3,67.6,34.9,Enlarged (>6mm),Appendicitis,1
+23,Male,27.9,0,59,0,RLQ,0,0,37.4,0,0,0,0,13.5,81.0,54.7,Non-visualized,Appendicitis,1
+13,Female,21.1,0,35,0,RLQ,0,0,38.6,0,0,0,0,14.6,91.4,85.4,Appendicolith Seen,Appendicitis,1
+5,Male,28.0,0,38,0,Periumbilical,0,0,38.4,0,0,0,0,15.1,71.4,86.2,Non-visualized,Appendicitis,1
+24,Male,21.1,0,88,0,Generalized,0,0,37.5,0,0,0,0,12.9,76.0,33.3,Periappendiceal Fluid,Appendicitis,1
+25,Male,30.0,0,13,0,RLQ,0,0,38.5,0,0,0,0,11.4,88.1,56.3,Enlarged (>6mm),Appendicitis,1
+29,Male,16.0,0,11,0,RLQ,0,0,38.4,0,0,0,0,14.1,85.2,126.7,Enlarged (>6mm),Appendicitis,1
+44,Female,28.8,0,21,0,RUQ,0,0,37.0,0,0,0,0,13.4,86.4,47.8,Enlarged (>6mm),Appendicitis,1
+21,Male,23.8,0,54,0,RLQ,0,0,38.1,0,0,0,0,16.2,79.9,12.3,Enlarged (>6mm),Appendicitis,1
+33,Female,24.8,0,27,0,Periumbilical,0,0,38.0,0,0,0,0,17.3,86.5,79.4,Enlarged (>6mm),Appendicitis,1
+21,Female,22.0,0,27,0,RLQ,0,0,37.8,0,0,0,0,14.4,82.8,20.0,Enlarged (>6mm),Appendicitis,1
+17,Female,32.0,0,24,0,Generalized,0,0,37.4,0,0,0,0,19.8,87.0,30.0,Enlarged (>6mm),Appendicitis,1
+16,Female,32.3,0,66,0,RLQ,0,0,38.3,0,0,0,0,17.3,80.9,103.2,Enlarged (>6mm),Appendicitis,1
+32,Male,23.3,0,27,0,RLQ,0,0,37.0,0,0,0,0,10.3,85.4,22.0,Target Sign,Appendicitis,1
+14,Male,22.8,0,17,0,RLQ,0,0,37.8,0,0,0,0,17.6,72.8,11.8,Enlarged (>6mm),Appendicitis,1
+37,Female,19.5,0,41,0,RLQ,0,0,36.8,0,0,0,0,17.3,86.7,35.6,Enlarged (>6mm),Appendicitis,1
+40,Female,26.2,0,23,0,RLQ,0,0,37.8,0,0,0,0,9.1,82.1,19.2,Appendicolith Seen,Appendicitis,1
+16,Male,17.8,0,77,0,RLQ,0,0,36.6,0,0,0,0,6.4,78.3,2.7,Normal,Other (UTI),0
+26,Male,24.3,0,10,0,Generalized,0,0,37.1,0,0,0,0,15.3,78.6,58.7,Appendicolith Seen,Appendicitis,1
+31,Male,24.6,0,23,0,RLQ,0,0,39.3,0,0,0,0,15.5,87.2,101.4,Enlarged (>6mm),Appendicitis,1
+21,Female,31.2,0,30,0,RLQ,0,0,39.5,0,0,0,0,15.9,87.2,95.8,Appendicolith Seen,Appendicitis,1
+20,Male,24.3,0,17,0,RLQ,0,0,38.1,0,0,0,0,18.6,74.5,13.5,Target Sign,Appendicitis,1
+22,Female,23.6,0,73,0,Periumbilical,0,0,37.4,0,0,0,0,16.9,73.5,45.4,Enlarged (>6mm),Appendicitis,1
+18,Male,25.3,0,61,0,RLQ,0,0,38.1,0,0,0,0,16.9,79.3,115.9,Target Sign,Appendicitis,1
+21,Female,30.0,0,56,0,Generalized,0,0,36.8,0,0,0,0,6.3,50.8,5.0,Normal,Other (Mesenteric Adenitis),0
+32,Male,25.1,0,45,0,RLQ,0,0,38.1,0,0,0,0,10.1,54.7,10.7,Normal,Other (Mesenteric Adenitis),0
+48,Female,24.3,0,7,0,RLQ,0,0,36.9,0,0,0,0,9.1,75.4,22.5,Normal,Other (Mesenteric Adenitis),0
+15,Male,26.7,0,34,0,Epigastric,0,0,37.7,0,0,0,0,7.9,70.0,59.4,Ovarian Cyst,Other (Gastroenteritis),0
+44,Female,28.7,0,54,0,RLQ,0,0,38.3,0,0,0,0,15.6,92.0,111.3,Enlarged (>6mm),Appendicitis,1
+17,Male,26.0,0,23,0,Epigastric,0,0,37.1,0,0,0,0,7.7,64.9,9.0,Normal,Other (Gastroenteritis),0
+21,Male,24.7,0,12,0,RLQ,0,0,37.4,0,0,0,0,17.7,82.4,242.0,Enlarged (>6mm),Appendicitis,1
+54,Male,23.5,0,5,0,RLQ,0,0,37.6,0,0,0,0,15.9,78.6,120.0,Appendicolith Seen,Appendicitis,1
+25,Male,19.9,0,19,0,RLQ,0,0,39.4,0,0,0,0,22.1,84.7,114.2,Periappendiceal Fluid,Appendicitis,1
+27,Male,32.4,0,16,0,RLQ,0,0,38.3,0,0,0,0,9.3,78.2,26.5,Enlarged (>6mm),Appendicitis,1
+79,Male,25.0,0,10,0,RLQ,0,0,37.2,0,0,0,0,17.3,71.0,56.3,Non-visualized,Appendicitis,1
+8,Female,20.4,0,36,0,RLQ,0,0,38.3,0,0,0,0,15.1,84.2,92.9,Enlarged (>6mm),Appendicitis,1
+15,Male,17.7,0,28,0,RLQ,0,0,37.6,0,0,0,0,7.2,87.2,41.1,Appendicolith Seen,Appendicitis,1
+27,Male,22.0,0,21,0,RLQ,0,0,37.1,0,0,0,0,19.4,84.3,49.0,Target Sign,Appendicitis,1
+35,Male,24.3,0,56,0,RLQ,0,0,37.2,0,0,0,0,15.1,82.9,103.4,Non-visualized,Appendicitis,1
+5,Male,20.2,0,27,0,RLQ,0,0,37.9,0,0,0,0,9.9,86.7,68.3,Enlarged (>6mm),Appendicitis,1
+36,Male,26.5,0,53,0,RLQ,0,0,38.0,0,0,0,0,10.8,72.3,31.9,Target Sign,Appendicitis,1
+20,Male,21.7,0,69,0,RLQ,0,0,38.6,0,0,0,0,10.8,81.7,123.8,Target Sign,Appendicitis,1
+12,Male,17.5,0,17,0,RLQ,0,0,37.1,0,0,0,0,10.6,75.3,92.0,Enlarged (>6mm),Appendicitis,1
+24,Male,29.8,0,38,0,RLQ,0,0,37.3,0,0,0,0,9.6,88.5,24.4,Periappendiceal Fluid,Appendicitis,1
+18,Female,30.9,0,22,0,Generalized,0,0,37.4,0,0,0,0,11.9,84.7,9.6,Appendicolith Seen,Appendicitis,1
+39,Female,23.2,0,14,0,RLQ,0,0,37.6,0,0,0,0,10.7,82.4,45.7,Enlarged (>6mm),Appendicitis,1
+5,Female,22.5,0,6,0,Generalized,0,0,38.0,0,0,0,0,17.4,69.9,54.7,Periappendiceal Fluid,Appendicitis,1
+20,Female,19.8,0,73,0,Periumbilical,0,0,36.7,0,0,0,0,13.8,84.6,57.2,Appendicolith Seen,Appendicitis,1
+53,Female,25.4,0,21,0,Periumbilical,0,0,37.7,0,0,0,0,15.0,89.6,4.8,Enlarged (>6mm),Appendicitis,1
+10,Male,24.2,0,20,0,Generalized,0,0,36.6,0,0,0,0,5.0,69.9,39.8,Normal,Other (UTI),0
+13,Female,19.0,0,13,0,Pelvic,0,0,37.8,0,0,0,0,4.0,54.4,10.6,Normal,Other (PID),0
+5,Female,22.6,0,65,0,RLQ,0,0,38.6,0,0,0,0,11.8,81.5,11.2,Periappendiceal Fluid,Appendicitis,1
+36,Male,27.7,0,17,0,RLQ,0,0,36.9,0,0,0,0,11.2,77.8,71.9,Enlarged (>6mm),Appendicitis,1
+35,Female,28.6,0,72,0,RLQ,0,0,39.5,0,0,0,0,14.9,79.3,34.5,Target Sign,Appendicitis,1
+27,Male,27.7,0,65,0,RLQ,0,0,37.1,0,0,0,0,14.5,88.7,49.9,Enlarged (>6mm),Appendicitis,1
+27,Male,20.4,0,17,0,RLQ,0,0,38.2,0,0,0,0,18.0,84.8,35.7,Target Sign,Appendicitis,1
+5,Male,29.8,0,5,0,RLQ,0,0,37.9,0,0,0,0,11.3,83.6,9.4,Non-visualized,Appendicitis,1
+27,Female,21.3,0,36,0,RLQ,0,0,37.9,0,0,0,0,11.3,89.7,106.0,Enlarged (>6mm),Appendicitis,1
+6,Female,24.0,0,22,0,RLQ,0,0,37.5,0,0,0,0,10.3,67.6,63.7,Normal,Other (Ovarian Cyst Rupture),0
+28,Female,22.7,0,31,0,Periumbilical,0,0,38.8,0,0,0,0,16.7,87.1,126.1,Enlarged (>6mm),Appendicitis,1
+42,Female,19.4,0,38,0,Pelvic,0,0,37.5,0,0,0,0,10.1,67.3,2.9,Normal,Other (Mesenteric Adenitis),0
+17,Male,24.5,0,43,0,RLQ,0,0,37.5,0,0,0,0,9.5,84.9,39.5,Enlarged (>6mm),Appendicitis,1
+6,Male,20.9,0,22,0,LLQ,0,0,37.3,0,0,0,0,6.7,61.0,6.1,Normal,Other (UTI),0
+42,Female,28.6,0,53,0,Periumbilical,0,0,38.7,0,0,0,0,15.2,91.1,39.1,Target Sign,Appendicitis,1
+5,Female,25.5,0,12,0,RLQ,0,0,38.4,0,0,0,0,17.1,85.9,31.9,Target Sign,Appendicitis,1
+21,Female,25.7,0,26,0,Periumbilical,0,0,38.9,0,0,0,0,13.6,77.5,33.1,Enlarged (>6mm),Appendicitis,1
+21,Male,22.6,0,22,0,RLQ,0,0,37.9,0,0,0,0,18.1,78.3,42.8,Periappendiceal Fluid,Appendicitis,1
+31,Female,29.2,0,15,0,RLQ,0,0,37.6,0,0,0,0,18.8,75.0,32.7,Target Sign,Appendicitis,1
+59,Male,20.5,0,20,0,Epigastric,0,0,37.7,0,0,0,0,12.0,55.2,18.3,Other Mild Inflammation,Other (UTI),0
+9,Male,23.3,0,29,0,Epigastric,0,0,36.9,0,0,0,0,9.5,55.6,19.1,Other Mild Inflammation,Other (Gastroenteritis),0
+22,Male,21.2,0,13,0,RLQ,0,0,38.4,0,0,0,0,14.6,86.4,15.4,Non-visualized,Appendicitis,1
+21,Male,21.7,0,12,0,RLQ,0,0,36.9,0,0,0,0,5.8,72.6,2.7,Normal,Other (Mesenteric Adenitis),0
+32,Female,25.2,0,17,0,RLQ,0,0,37.5,0,0,0,0,14.6,85.7,31.6,Periappendiceal Fluid,Appendicitis,1
+5,Female,28.3,0,11,0,RLQ,0,0,38.5,0,0,0,0,15.3,77.1,73.7,Non-visualized,Appendicitis,1
+30,Male,22.6,0,31,0,RLQ,0,0,38.3,0,0,0,0,11.8,85.3,100.8,Enlarged (>6mm),Appendicitis,1
+23,Male,24.3,0,31,0,Periumbilical,0,0,37.6,0,0,0,0,12.9,75.9,46.3,Target Sign,Appendicitis,1
+23,Male,16.0,0,17,0,RLQ,0,0,37.8,0,0,0,0,17.7,96.3,78.8,Periappendiceal Fluid,Appendicitis,1
+21,Male,19.0,0,53,0,RLQ,0,0,37.3,0,0,0,0,15.2,71.0,30.8,Appendicolith Seen,Appendicitis,1
+23,Male,26.2,0,28,0,RLQ,0,0,38.6,0,0,0,0,9.3,81.8,46.0,Periappendiceal Fluid,Appendicitis,1
+28,Male,31.0,0,32,0,RLQ,0,0,37.7,0,0,0,0,17.4,78.1,11.3,Non-visualized,Appendicitis,1
+30,Female,25.3,0,36,0,RLQ,0,0,37.7,0,0,0,0,12.1,94.6,46.9,Enlarged (>6mm),Appendicitis,1
+5,Female,23.0,0,42,0,RLQ,0,0,36.9,0,0,0,0,12.4,82.3,41.1,Enlarged (>6mm),Appendicitis,1
+39,Male,26.6,0,28,0,RLQ,0,0,37.8,0,0,0,0,4.6,74.5,7.3,Normal,Other (UTI),0
+44,Female,16.6,0,31,0,RLQ,0,0,39.0,0,0,0,0,14.3,88.6,23.6,Appendicolith Seen,Appendicitis,1
+5,Male,23.3,0,47,0,RLQ,0,0,37.4,0,0,0,0,5.5,71.3,2.7,Other Mild Inflammation,Other (Kidney Stones),0
+45,Male,24.8,0,27,0,RLQ,0,0,37.5,0,0,0,0,11.3,76.5,101.8,Enlarged (>6mm),Appendicitis,1
+46,Male,24.7,0,71,0,Periumbilical,0,0,39.7,0,0,0,0,14.1,78.6,60.3,Enlarged (>6mm),Appendicitis,1
+6,Female,28.5,0,23,0,RLQ,0,0,36.9,0,0,0,0,9.8,68.9,5.6,Other Mild Inflammation,Other (Ectopic Pregnancy (if pregnant)),0
+31,Female,30.4,0,81,0,Periumbilical,0,0,38.4,0,0,0,0,24.3,82.1,15.8,Non-visualized,Appendicitis,1
+6,Female,26.9,0,21,0,RLQ,0,0,37.6,0,0,0,0,5.0,58.5,9.9,Ovarian Cyst,Other (PID),0
+54,Female,16.7,0,27,0,RLQ,0,0,38.3,0,0,0,0,12.1,80.5,80.7,Enlarged (>6mm),Appendicitis,1
+21,Female,26.2,0,25,0,RLQ,0,0,37.8,0,0,0,0,19.0,88.6,136.9,Periappendiceal Fluid,Appendicitis,1
+36,Male,19.1,0,28,0,RLQ,0,0,37.7,0,0,0,0,11.7,93.4,85.7,Periappendiceal Fluid,Appendicitis,1
+23,Female,22.9,0,43,0,RLQ,0,0,37.1,0,0,0,0,17.3,71.5,47.8,Enlarged (>6mm),Appendicitis,1
+16,Male,18.5,0,26,0,Generalized,0,0,37.4,0,0,0,0,6.8,67.8,2.5,Normal,Other (Mesenteric Adenitis),0
+20,Male,26.3,0,17,0,RLQ,0,0,37.7,0,0,0,0,16.1,89.2,57.8,Periappendiceal Fluid,Appendicitis,1
+36,Male,25.3,0,25,0,RLQ,0,0,37.5,0,0,0,0,22.2,86.8,79.6,Enlarged (>6mm),Appendicitis,1
+39,Male,20.0,0,9,0,RLQ,0,0,37.7,0,0,0,0,8.9,83.4,70.0,Enlarged (>6mm),Appendicitis,1
+19,Female,24.9,0,7,0,RLQ,0,0,37.5,0,0,0,0,14.9,71.7,86.2,Non-visualized,Appendicitis,1
+43,Male,23.3,0,13,0,RLQ,0,0,37.5,0,0,0,0,10.6,69.8,3.5,Normal,Other (Mesenteric Adenitis),0
+39,Male,24.8,0,17,0,Epigastric,0,0,38.0,0,0,0,0,5.2,64.9,1.2,Normal,Other (Gastroenteritis),0
+18,Male,27.3,0,5,0,RLQ,0,0,38.4,0,0,0,0,18.1,79.8,24.5,Non-visualized,Appendicitis,1
+11,Female,18.7,0,51,0,Periumbilical,0,0,38.4,0,0,0,0,11.2,86.0,29.1,Non-visualized,Appendicitis,1
+41,Male,21.9,0,37,0,RLQ,0,0,39.2,0,0,0,0,13.7,73.0,104.7,Enlarged (>6mm),Appendicitis,1
+19,Male,20.8,0,12,0,RLQ,0,0,38.1,0,0,0,0,13.1,83.3,104.8,Periappendiceal Fluid,Appendicitis,1
+5,Female,21.2,0,12,0,Periumbilical,0,0,37.4,0,0,0,0,13.5,84.0,86.2,Enlarged (>6mm),Appendicitis,1
+38,Male,22.9,0,33,0,Periumbilical,0,0,36.7,0,0,0,0,15.6,82.4,40.1,Enlarged (>6mm),Appendicitis,1
+11,Male,26.6,0,11,0,RLQ,0,0,38.5,0,0,0,0,14.3,82.1,69.3,Enlarged (>6mm),Appendicitis,1
+11,Female,30.7,0,7,0,RLQ,0,0,38.8,0,0,0,0,13.4,77.8,14.7,Enlarged (>6mm),Appendicitis,1
+27,Male,28.4,0,4,0,Periumbilical,0,0,37.1,0,0,0,0,15.4,77.7,58.5,Periappendiceal Fluid,Appendicitis,1
+13,Female,27.5,0,10,0,Periumbilical,0,0,37.7,0,0,0,0,14.0,71.4,25.7,Enlarged (>6mm),Appendicitis,1
+31,Male,25.4,0,10,0,RLQ,0,0,37.8,0,0,0,0,15.5,81.4,12.9,Appendicolith Seen,Appendicitis,1
+17,Male,19.9,0,46,0,LLQ,0,0,37.2,0,0,0,0,7.5,61.0,8.1,Normal,Other (UTI),0
+29,Male,23.2,0,2,0,RLQ,0,0,38.1,0,0,0,0,16.3,76.4,62.1,Enlarged (>6mm),Appendicitis,1
+21,Male,22.4,0,8,0,RLQ,0,0,37.3,0,0,0,0,11.1,84.4,64.6,Appendicolith Seen,Appendicitis,1
+52,Female,22.4,0,10,0,RLQ,0,0,37.1,0,0,0,0,15.6,80.6,17.6,Appendicolith Seen,Appendicitis,1
+30,Male,24.7,0,15,0,RLQ,0,0,37.8,0,0,0,0,20.9,72.7,77.1,Enlarged (>6mm),Appendicitis,1
+34,Male,26.5,0,24,0,RLQ,0,0,38.6,0,0,0,0,13.0,70.1,8.7,Enlarged (>6mm),Appendicitis,1
+15,Male,26.6,0,17,0,RLQ,0,0,37.6,0,0,0,0,10.0,83.2,49.7,Target Sign,Appendicitis,1
+31,Male,28.0,0,4,0,RLQ,0,0,37.2,0,0,0,0,9.8,59.6,5.9,Normal,Other (Mesenteric Adenitis),0
+40,Female,27.4,0,12,0,RLQ,0,0,38.1,0,0,0,0,10.9,81.4,150.2,Appendicolith Seen,Appendicitis,1
+30,Male,22.1,0,37,0,LLQ,0,0,38.0,0,0,0,0,4.0,77.8,33.4,Normal,Other (Kidney Stones),0
+33,Male,32.2,0,17,0,Periumbilical,0,0,37.3,0,0,0,0,17.7,76.2,3.7,Periappendiceal Fluid,Appendicitis,1
+5,Male,16.1,0,37,0,RLQ,0,0,38.4,0,0,0,0,16.9,81.5,122.9,Target Sign,Appendicitis,1
+5,Female,25.6,0,25,0,RLQ,0,0,38.3,0,0,0,0,15.8,87.0,6.7,Enlarged (>6mm),Appendicitis,1
+10,Female,22.6,0,43,0,RLQ,0,0,39.0,0,0,0,0,12.6,83.1,6.8,Enlarged (>6mm),Appendicitis,1
+34,Female,21.4,0,4,0,RLQ,0,0,38.6,0,0,0,0,8.8,78.6,58.6,Non-visualized,Appendicitis,1
+44,Female,24.4,0,17,0,LLQ,0,0,37.4,0,0,0,0,10.3,76.9,29.8,Normal,Other (PID),0
+8,Female,27.9,0,27,0,RLQ,0,0,37.6,0,0,0,0,13.5,83.1,36.3,Enlarged (>6mm),Appendicitis,1
+31,Female,22.6,0,26,0,RLQ,0,0,38.4,0,0,0,0,9.6,84.7,43.6,Target Sign,Appendicitis,1
+29,Female,23.0,0,32,0,RLQ,0,0,37.2,0,0,0,0,7.2,81.2,81.5,Enlarged (>6mm),Appendicitis,1
+12,Male,21.6,0,31,0,RLQ,0,0,37.0,0,0,0,0,16.5,78.5,15.9,Periappendiceal Fluid,Appendicitis,1
+5,Female,22.6,0,38,0,RLQ,0,0,37.5,0,0,0,0,13.6,74.6,29.3,Target Sign,Appendicitis,1
+39,Female,21.4,0,55,0,RLQ,0,0,37.6,0,0,0,0,11.6,79.3,9.4,Periappendiceal Fluid,Appendicitis,1
+13,Male,20.7,0,48,0,RLQ,0,0,38.3,0,0,0,0,7.0,81.1,63.1,Enlarged (>6mm),Appendicitis,1
+40,Male,20.9,0,42,0,RLQ,0,0,38.2,0,0,0,0,4.3,80.9,18.0,Normal,Other (Gastroenteritis),0
+15,Female,26.7,0,25,0,RLQ,0,0,38.3,0,0,0,0,12.5,83.9,104.7,Periappendiceal Fluid,Appendicitis,1
+26,Female,17.5,0,35,0,RLQ,0,0,37.0,0,0,0,0,7.9,66.4,9.2,Normal,Other (Ovarian Cyst Rupture),0
+11,Female,18.6,0,32,0,RLQ,0,0,37.9,0,0,0,0,12.7,79.7,45.9,Enlarged (>6mm),Appendicitis,1
+49,Female,26.5,0,33,0,RLQ,0,0,39.2,0,0,0,0,16.0,76.0,85.2,Target Sign,Appendicitis,1
+32,Male,18.0,0,20,0,RLQ,0,0,38.7,0,0,0,0,9.7,83.4,16.9,Target Sign,Appendicitis,1
+28,Male,25.6,0,7,0,RLQ,0,0,38.6,0,0,0,0,12.3,73.4,32.7,Enlarged (>6mm),Appendicitis,1
+26,Male,26.4,0,27,0,RLQ,0,0,38.4,0,0,0,0,13.3,84.3,85.1,Non-visualized,Appendicitis,1
+64,Female,26.4,0,95,0,LLQ,0,0,37.1,0,0,0,0,8.1,66.5,18.4,Normal,Other (PID),0
+31,Female,27.6,0,25,0,RLQ,0,0,37.4,0,0,0,0,13.8,82.7,29.5,Appendicolith Seen,Appendicitis,1
+6,Male,22.6,0,23,0,RLQ,0,0,38.8,0,0,0,0,16.6,74.9,250.0,Appendicolith Seen,Appendicitis,1
+29,Male,21.6,0,26,0,Periumbilical,0,0,38.0,0,0,0,0,17.5,82.7,81.5,Periappendiceal Fluid,Appendicitis,1
+5,Male,28.9,0,40,0,Epigastric,0,0,38.0,0,0,0,0,6.5,65.0,3.7,Ovarian Cyst,Other (Mesenteric Adenitis),0
+42,Male,22.5,0,14,0,RLQ,0,0,37.1,0,0,0,0,11.9,78.6,63.3,Enlarged (>6mm),Appendicitis,1
+22,Male,20.3,0,7,0,RLQ,0,0,37.2,0,0,0,0,16.6,79.7,6.4,Enlarged (>6mm),Appendicitis,1
+5,Female,20.3,0,34,0,LLQ,0,0,38.1,0,0,0,0,11.9,70.4,25.8,Normal,Other (PID),0
+5,Female,29.9,0,8,0,LLQ,0,0,36.5,0,0,0,0,10.8,72.7,22.7,Normal,Other (Gastroenteritis),0
+29,Male,18.6,0,15,0,RLQ,0,0,36.9,0,0,0,0,18.8,79.5,58.5,Periappendiceal Fluid,Appendicitis,1
+5,Female,20.4,0,49,0,RLQ,0,0,38.3,0,0,0,0,10.5,76.3,44.3,Enlarged (>6mm),Appendicitis,1
+29,Male,20.7,0,23,0,RLQ,0,0,37.4,0,0,0,0,11.0,74.6,76.7,Enlarged (>6mm),Appendicitis,1
+44,Female,25.9,0,39,0,Pelvic,0,0,38.0,0,0,0,0,9.4,70.4,9.3,Normal,Other (Ectopic Pregnancy (if pregnant)),0
+11,Male,26.6,0,22,0,RLQ,0,0,38.9,0,0,0,0,13.5,87.3,30.6,Enlarged (>6mm),Appendicitis,1
+23,Female,16.2,0,9,0,RLQ,0,0,38.6,0,0,0,0,16.3,87.9,49.8,Non-visualized,Appendicitis,1
+17,Male,26.5,0,27,0,RLQ,0,0,37.2,0,0,0,0,7.9,63.9,44.1,Other Mild Inflammation,Other (Kidney Stones),0
+22,Female,21.4,0,38,0,RLQ,0,0,38.7,0,0,0,0,14.1,79.8,32.4,Enlarged (>6mm),Appendicitis,1
+28,Female,30.9,0,45,0,RLQ,0,0,36.5,0,0,0,0,11.3,80.9,57.3,Appendicolith Seen,Appendicitis,1
+36,Female,26.0,0,31,0,Pelvic,0,0,37.2,0,0,0,0,8.0,74.5,15.8,Other Mild Inflammation,Other (Ectopic Pregnancy (if pregnant)),0
+29,Male,20.7,0,57,0,RLQ,0,0,38.3,0,0,0,0,14.6,84.2,73.6,Appendicolith Seen,Appendicitis,1
+14,Male,23.1,0,17,0,Periumbilical,0,0,38.3,0,0,0,0,16.0,75.9,42.1,Enlarged (>6mm),Appendicitis,1
+5,Female,22.9,0,13,0,RLQ,0,0,37.7,0,0,0,0,7.9,47.0,6.3,Other Mild Inflammation,Other (Ovarian Cyst Rupture),0
+30,Female,22.8,0,22,0,RLQ,0,0,37.7,0,0,0,0,11.7,90.2,25.3,Appendicolith Seen,Appendicitis,1
+18,Male,25.7,0,4,0,RLQ,0,0,38.2,0,0,0,0,18.2,75.6,91.7,Appendicolith Seen,Appendicitis,1
+45,Female,20.4,0,25,0,RLQ,0,0,37.6,0,0,0,0,5.3,84.5,7.3,Normal,Other (PID),0
+33,Female,34.2,0,43,0,Generalized,0,0,37.8,0,0,0,0,16.0,85.5,50.4,Appendicolith Seen,Appendicitis,1
+31,Female,27.5,0,2,0,RLQ,0,0,37.4,0,0,0,0,18.1,85.5,66.7,Target Sign,Appendicitis,1
+14,Female,23.6,0,35,0,RLQ,0,0,38.7,0,0,0,0,18.9,74.2,42.9,Target Sign,Appendicitis,1
+28,Male,32.6,0,10,0,RLQ,0,0,37.1,0,0,0,0,6.6,52.7,9.0,Non-visualized,Other (UTI),0
+14,Male,23.7,0,5,0,RLQ,0,0,38.0,0,0,0,0,15.2,75.7,115.1,Target Sign,Appendicitis,1
+40,Female,16.5,0,49,0,Pelvic,0,0,37.8,0,0,0,0,7.9,71.1,21.5,Other Mild Inflammation,Other (UTI),0
+16,Female,25.8,0,19,0,RLQ,0,0,37.5,0,0,0,0,13.6,75.4,10.2,Enlarged (>6mm),Appendicitis,1
+51,Male,26.5,0,17,0,RLQ,0,0,38.2,0,0,0,0,13.5,64.3,14.3,Normal,Other (Mesenteric Adenitis),0
+31,Male,24.5,0,35,0,RLQ,0,0,38.2,0,0,0,0,11.5,81.6,49.0,Enlarged (>6mm),Appendicitis,1
+24,Male,24.4,0,28,0,LLQ,0,0,37.3,0,0,0,0,11.7,58.2,8.6,Other Mild Inflammation,Other (Mesenteric Adenitis),0
+44,Female,27.7,0,8,0,Periumbilical,0,0,36.7,0,0,0,0,16.6,90.6,103.9,Target Sign,Appendicitis,1
+29,Male,24.9,0,18,0,RLQ,0,0,38.6,0,0,0,0,18.1,72.5,8.6,Enlarged (>6mm),Appendicitis,1
+37,Male,25.3,0,7,0,RLQ,0,0,37.1,0,0,0,0,13.0,87.4,19.9,Periappendiceal Fluid,Appendicitis,1
+13,Female,24.3,0,31,0,Periumbilical,0,0,39.0,0,0,0,0,19.5,84.6,83.3,Target Sign,Appendicitis,1
+38,Male,25.3,0,26,0,Generalized,0,0,37.9,0,0,0,0,11.8,64.3,30.0,Normal,Other (Mesenteric Adenitis),0
+18,Female,24.0,0,25,0,RLQ,0,0,38.4,0,0,0,0,11.5,87.7,50.0,Enlarged (>6mm),Appendicitis,1
+24,Male,25.9,0,96,0,RLQ,0,0,37.4,0,0,0,0,14.5,87.6,40.7,Target Sign,Appendicitis,1
+18,Female,24.1,0,2,0,Periumbilical,0,0,37.3,0,0,0,0,14.2,92.9,80.2,Non-visualized,Appendicitis,1
+25,Male,25.8,0,33,0,Generalized,0,0,37.2,0,0,0,0,11.8,76.2,12.2,Normal,Other (UTI),0
+14,Male,23.2,0,96,0,RLQ,0,0,38.6,0,0,0,0,12.6,77.7,25.9,Enlarged (>6mm),Appendicitis,1
+8,Male,26.3,0,57,0,RLQ,0,0,38.4,0,0,0,0,17.7,79.0,14.9,Appendicolith Seen,Appendicitis,1
+5,Male,25.7,0,65,0,RLQ,0,0,37.6,0,0,0,0,14.1,79.2,129.6,Enlarged (>6mm),Appendicitis,1
+44,Female,18.9,0,40,0,Generalized,0,0,37.8,0,0,0,0,19.3,98.0,28.9,Periappendiceal Fluid,Appendicitis,1
+26,Male,24.9,0,11,0,RLQ,0,0,38.1,0,0,0,0,14.3,83.6,62.5,Enlarged (>6mm),Appendicitis,1
+5,Female,29.2,0,15,0,RLQ,0,0,37.8,0,0,0,0,17.5,87.7,30.8,Enlarged (>6mm),Appendicitis,1
+41,Female,22.9,0,26,0,RLQ,0,0,38.0,0,0,0,0,14.7,82.2,62.2,Non-visualized,Appendicitis,1
+58,Female,16.0,0,32,0,RLQ,0,0,37.8,0,0,0,0,10.4,88.3,32.1,Appendicolith Seen,Appendicitis,1
+49,Male,16.0,0,6,0,Epigastric,0,0,36.9,0,0,0,0,10.4,68.2,25.6,Other Mild Inflammation,Other (Kidney Stones),0
+32,Female,19.4,0,36,0,RLQ,0,0,39.2,0,0,0,0,18.6,87.2,103.2,Non-visualized,Appendicitis,1
+13,Female,26.0,0,14,0,RLQ,0,0,38.5,0,0,0,0,15.2,84.7,89.6,Target Sign,Appendicitis,1
+55,Female,21.9,0,38,0,RLQ,0,0,38.6,0,0,0,0,13.0,84.2,109.9,Enlarged (>6mm),Appendicitis,1
+5,Female,23.2,0,29,0,RLQ,0,0,37.3,0,0,0,0,14.4,73.8,21.8,Appendicolith Seen,Appendicitis,1
+33,Female,27.1,0,5,0,Pelvic,0,0,37.4,0,0,0,0,11.6,62.0,23.6,Non-visualized,Other (Ovarian Cyst Rupture),0
+48,Male,19.2,0,18,0,Periumbilical,0,0,39.2,0,0,0,0,13.8,84.5,27.5,Enlarged (>6mm),Appendicitis,1
+25,Male,26.7,0,47,0,Generalized,0,0,38.0,0,0,0,0,19.2,86.9,85.5,Target Sign,Appendicitis,1
+12,Female,23.1,0,16,0,RLQ,0,0,36.8,0,0,0,0,19.2,81.9,17.9,Enlarged (>6mm),Appendicitis,1
+9,Female,30.8,0,31,0,Periumbilical,0,0,37.8,0,0,0,0,13.9,86.2,37.5,Target Sign,Appendicitis,1
+15,Male,28.8,0,40,0,Periumbilical,0,0,38.6,0,0,0,0,20.0,77.1,50.1,Non-visualized,Appendicitis,1
+22,Male,21.4,0,13,0,RLQ,0,0,38.1,0,0,0,0,13.7,75.7,91.8,Periappendiceal Fluid,Appendicitis,1
+23,Male,24.0,0,44,0,RLQ,0,0,37.4,0,0,0,0,14.5,86.2,14.2,Non-visualized,Appendicitis,1
+18,Male,25.4,0,12,0,RLQ,0,0,37.4,0,0,0,0,18.9,84.1,25.1,Enlarged (>6mm),Appendicitis,1
+5,Female,26.8,0,59,0,LLQ,0,0,38.0,0,0,0,0,8.9,78.4,1.2,Normal,Other (PID),0
+25,Male,23.0,0,23,0,Periumbilical,0,0,38.6,0,0,0,0,22.0,82.0,62.4,Enlarged (>6mm),Appendicitis,1
+20,Male,26.8,0,9,0,Epigastric,0,0,37.5,0,0,0,0,5.5,62.2,5.9,Normal,Other (Mesenteric Adenitis),0
+36,Male,27.4,0,34,0,RLQ,0,0,37.8,0,0,0,0,17.0,90.4,74.0,Enlarged (>6mm),Appendicitis,1
+31,Male,20.9,0,38,0,LLQ,0,0,38.1,0,0,0,0,4.0,57.7,22.3,Normal,Other (Mesenteric Adenitis),0
+8,Male,24.5,0,23,0,RLQ,0,0,37.8,0,0,0,0,16.4,78.9,38.9,Non-visualized,Appendicitis,1
+30,Male,21.3,0,36,0,Generalized,0,0,38.1,0,0,0,0,9.7,83.1,37.5,Enlarged (>6mm),Appendicitis,1
+30,Female,22.1,0,17,0,Periumbilical,0,0,38.1,0,0,0,0,11.6,88.9,98.7,Enlarged (>6mm),Appendicitis,1
+11,Female,21.1,0,19,0,RLQ,0,0,37.9,0,0,0,0,15.3,75.9,102.7,Non-visualized,Appendicitis,1
+24,Female,20.8,0,28,0,RLQ,0,0,37.0,0,0,0,0,10.8,59.4,2.6,Normal,Other (UTI),0
+12,Male,21.7,0,18,0,Generalized,0,0,36.5,0,0,0,0,7.6,57.5,5.8,Normal,Other (Kidney Stones),0
+24,Female,21.9,0,12,0,Pelvic,0,0,37.3,0,0,0,0,4.0,71.8,20.0,Normal,Other (UTI),0
+28,Male,26.6,0,24,0,RLQ,0,0,37.4,0,0,0,0,16.1,73.1,83.2,Appendicolith Seen,Appendicitis,1
+20,Male,24.2,0,26,0,Periumbilical,0,0,38.5,0,0,0,0,14.4,88.1,19.6,Periappendiceal Fluid,Appendicitis,1
+22,Female,26.9,0,48,0,Periumbilical,0,0,37.3,0,0,0,0,16.2,78.0,77.0,Target Sign,Appendicitis,1
+29,Female,25.4,0,23,0,RLQ,0,0,36.5,0,0,0,0,9.7,60.0,10.4,Normal,Other (UTI),0
+52,Male,22.3,0,27,0,RLQ,0,0,36.8,0,0,0,0,9.2,88.6,35.8,Periappendiceal Fluid,Appendicitis,1
+19,Male,17.9,0,45,0,RLQ,0,0,38.2,0,0,0,0,16.4,83.4,14.1,Enlarged (>6mm),Appendicitis,1
+14,Male,20.5,0,36,0,RLQ,0,0,37.7,0,0,0,0,16.6,88.2,88.3,Enlarged (>6mm),Appendicitis,1
+5,Male,28.1,0,64,0,RLQ,0,0,38.4,0,0,0,0,14.4,82.8,85.2,Periappendiceal Fluid,Appendicitis,1
+44,Female,26.7,0,66,0,RLQ,0,0,39.3,0,0,0,0,10.2,82.9,41.6,Target Sign,Appendicitis,1
+65,Female,26.1,0,14,0,RLQ,0,0,38.2,0,0,0,0,11.5,86.9,53.4,Periappendiceal Fluid,Appendicitis,1
+14,Male,29.2,0,96,0,RLQ,0,0,37.2,0,0,0,0,9.3,76.5,89.0,Periappendiceal Fluid,Appendicitis,1
+21,Female,20.2,0,30,0,RLQ,0,0,38.6,0,0,0,0,14.7,85.6,111.9,Enlarged (>6mm),Appendicitis,1
+39,Male,24.6,0,60,0,RLQ,0,0,36.9,0,0,0,0,12.0,79.6,56.3,Non-visualized,Appendicitis,1
+39,Male,27.7,0,20,0,RLQ,0,0,37.4,0,0,0,0,16.4,76.0,40.2,Periappendiceal Fluid,Appendicitis,1
+57,Male,26.6,0,22,0,RLQ,0,0,37.8,0,0,0,0,13.5,85.2,65.3,Enlarged (>6mm),Appendicitis,1
+12,Male,19.3,0,17,0,RLQ,0,0,37.6,0,0,0,0,19.1,79.1,165.8,Target Sign,Appendicitis,1
+69,Male,18.7,0,6,0,RLQ,0,0,37.9,0,0,0,0,17.2,78.7,6.3,Non-visualized,Appendicitis,1
+23,Male,26.3,0,40,0,RLQ,0,0,38.8,0,0,0,0,13.5,79.8,50.1,Enlarged (>6mm),Appendicitis,1
+21,Male,21.2,0,31,0,RLQ,0,0,37.5,0,0,0,0,10.9,53.1,15.4,Ovarian Cyst,Other (Kidney Stones),0
+21,Female,23.7,0,17,0,RLQ,0,0,36.8,0,0,0,0,12.9,69.0,23.2,Non-visualized,Other (UTI),0
+19,Female,18.3,0,57,0,Generalized,0,0,38.6,0,0,0,0,20.8,79.1,132.9,Enlarged (>6mm),Appendicitis,1
+18,Female,28.5,0,11,0,Generalized,0,0,38.8,0,0,0,0,14.3,77.2,164.7,Non-visualized,Appendicitis,1
+28,Female,28.8,0,32,0,RLQ,0,0,38.0,0,0,0,0,12.0,73.9,144.5,Non-visualized,Appendicitis,1
+20,Male,25.7,0,47,0,RLQ,0,0,39.3,0,0,0,0,14.4,75.1,4.3,Target Sign,Appendicitis,1
+25,Female,31.7,0,53,0,RLQ,0,0,37.3,0,0,0,0,14.4,86.7,96.7,Enlarged (>6mm),Appendicitis,1
+11,Male,22.1,0,20,0,Generalized,0,0,37.5,0,0,0,0,11.9,92.9,53.6,Non-visualized,Appendicitis,1
+30,Male,23.7,0,32,0,Periumbilical,0,0,38.7,0,0,0,0,9.3,78.9,69.1,Enlarged (>6mm),Appendicitis,1
+34,Male,23.4,0,54,0,RLQ,0,0,38.7,0,0,0,0,13.1,84.1,6.9,Enlarged (>6mm),Appendicitis,1
+24,Female,20.1,0,13,0,RLQ,0,0,36.8,0,0,0,0,14.0,94.1,43.3,Periappendiceal Fluid,Appendicitis,1
+38,Female,20.2,0,22,0,Generalized,0,0,37.4,0,0,0,0,5.0,61.0,15.8,Normal,Other (Gastroenteritis),0
+5,Female,26.5,0,5,0,RLQ,0,0,39.0,0,0,0,0,11.5,87.3,44.7,Periappendiceal Fluid,Appendicitis,1
+15,Female,25.3,0,31,0,RLQ,0,0,38.5,0,0,0,0,13.1,72.3,107.2,Periappendiceal Fluid,Appendicitis,1
+44,Male,24.2,0,20,0,RLQ,0,0,36.6,0,0,0,0,8.4,81.6,20.1,Non-visualized,Other (Gastroenteritis),0
+5,Female,16.5,0,19,0,RLQ,0,0,38.7,0,0,0,0,11.7,75.6,29.8,Appendicolith Seen,Appendicitis,1
+19,Female,21.4,0,15,0,Periumbilical,0,0,37.4,0,0,0,0,18.9,79.4,21.4,Enlarged (>6mm),Appendicitis,1
+34,Male,22.6,0,2,0,RLQ,0,0,37.3,0,0,0,0,14.2,84.9,29.5,Enlarged (>6mm),Appendicitis,1
+38,Male,20.6,0,28,0,Periumbilical,0,0,38.5,0,0,0,0,18.5,70.4,53.7,Target Sign,Appendicitis,1
+25,Male,21.0,0,16,0,RLQ,0,0,38.5,0,0,0,0,17.8,82.8,57.2,Periappendiceal Fluid,Appendicitis,1
+34,Female,31.0,0,16,0,RLQ,0,0,37.7,0,0,0,0,17.8,75.0,18.1,Appendicolith Seen,Appendicitis,1
+5,Male,33.6,0,42,0,RLQ,0,0,36.9,0,0,0,0,22.4,75.5,132.7,Enlarged (>6mm),Appendicitis,1
+12,Male,32.1,0,9,0,Generalized,0,0,37.0,0,0,0,0,8.8,74.3,42.2,Normal,Other (UTI),0
+57,Male,27.8,0,19,0,Periumbilical,0,0,37.2,0,0,0,0,12.7,83.5,67.7,Periappendiceal Fluid,Appendicitis,1
+5,Male,27.3,0,28,0,LLQ,0,0,36.5,0,0,0,0,5.4,69.4,11.0,Non-visualized,Other (Mesenteric Adenitis),0
+20,Male,19.2,0,25,0,RLQ,0,0,38.2,0,0,0,0,10.9,87.7,66.2,Non-visualized,Appendicitis,1
+11,Female,31.4,0,20,0,RLQ,0,0,37.4,0,0,0,0,15.0,85.3,54.8,Enlarged (>6mm),Appendicitis,1
+5,Female,21.8,0,29,0,RLQ,0,0,38.1,0,0,0,0,14.0,79.0,46.4,Appendicolith Seen,Appendicitis,1
+39,Female,21.1,0,21,0,RLQ,0,0,37.2,0,0,0,0,15.3,83.9,19.3,Periappendiceal Fluid,Appendicitis,1
+5,Female,23.3,0,33,0,RLQ,0,0,37.8,0,0,0,0,17.4,81.9,24.2,Enlarged (>6mm),Appendicitis,1
+5,Female,20.6,0,64,0,Generalized,0,0,37.5,0,0,0,0,14.4,74.7,42.3,Enlarged (>6mm),Appendicitis,1
+41,Male,29.8,0,53,0,RLQ,0,0,37.8,0,0,0,0,6.3,66.0,43.1,Ovarian Cyst,Other (Mesenteric Adenitis),0
+33,Male,29.1,0,38,0,Periumbilical,0,0,37.6,0,0,0,0,19.6,77.6,66.7,Enlarged (>6mm),Appendicitis,1
+18,Male,22.8,0,85,0,Periumbilical,0,0,37.8,0,0,0,0,15.3,67.9,104.9,Appendicolith Seen,Appendicitis,1
+25,Female,25.0,0,28,0,RLQ,0,0,37.2,0,0,0,0,13.1,69.5,9.0,Normal,Other (Mesenteric Adenitis),0
+51,Male,16.0,0,44,0,RLQ,0,0,37.5,0,0,0,0,14.3,84.7,6.3,Non-visualized,Appendicitis,1
+55,Female,22.9,0,17,0,LLQ,0,0,36.7,0,0,0,0,14.4,70.4,6.3,Normal,Other (UTI),0
+34,Male,21.3,0,51,0,RLQ,0,0,38.9,0,0,0,0,12.3,91.7,82.7,Target Sign,Appendicitis,1
+13,Male,27.2,0,37,0,RLQ,0,0,37.8,0,0,0,0,14.1,92.1,39.3,Appendicolith Seen,Appendicitis,1
+10,Male,21.3,0,53,0,RLQ,0,0,38.0,0,0,0,0,18.3,71.9,220.1,Enlarged (>6mm),Appendicitis,1
+37,Female,24.8,0,23,0,Pelvic,0,0,36.5,0,0,0,0,10.7,53.8,59.8,Normal,Other (Mesenteric Adenitis),0
+23,Male,31.5,0,88,0,RLQ,0,0,38.3,0,0,0,0,14.3,91.3,81.6,Enlarged (>6mm),Appendicitis,1
+24,Female,25.1,0,46,0,RLQ,0,0,37.4,0,0,0,0,11.6,73.0,61.7,Periappendiceal Fluid,Appendicitis,1
+25,Female,22.8,0,30,0,RLQ,0,0,37.2,0,0,0,0,13.4,82.3,76.0,Enlarged (>6mm),Appendicitis,1
+23,Female,22.4,0,24,0,RLQ,0,0,38.7,0,0,0,0,18.8,83.8,14.8,Appendicolith Seen,Appendicitis,1
+37,Female,23.4,0,22,0,RLQ,0,0,38.4,0,0,0,0,13.6,85.3,77.9,Appendicolith Seen,Appendicitis,1
+33,Male,21.2,0,25,0,RLQ,0,0,36.5,0,0,0,0,5.9,81.3,18.4,Normal,Other (Mesenteric Adenitis),0
+45,Female,22.9,0,30,0,Generalized,0,0,37.3,0,0,0,0,7.4,67.5,4.2,Other Mild Inflammation,Other (UTI),0
+14,Male,28.0,0,19,0,RLQ,0,0,37.0,0,0,0,0,16.8,86.3,32.5,Enlarged (>6mm),Appendicitis,1
+23,Female,20.3,0,29,0,RLQ,0,0,37.4,0,0,0,0,18.2,79.6,50.1,Enlarged (>6mm),Appendicitis,1
+23,Male,25.2,0,45,0,RLQ,0,0,38.1,0,0,0,0,8.5,74.0,75.4,Enlarged (>6mm),Appendicitis,1
+31,Female,26.9,0,39,0,Pelvic,0,0,37.9,0,0,0,0,9.8,69.4,2.4,Normal,Other (Ectopic Pregnancy (if pregnant)),0
+24,Male,22.9,0,14,0,RLQ,0,0,38.3,0,0,0,0,11.5,82.8,196.7,Target Sign,Appendicitis,1
+33,Male,20.0,0,14,0,Generalized,0,0,37.2,0,0,0,0,10.3,62.1,3.1,Other Mild Inflammation,Other (Kidney Stones),0
+9,Male,23.9,0,11,0,Generalized,0,0,38.2,0,0,0,0,8.7,69.8,8.3,Other Mild Inflammation,Other (UTI),0
+13,Male,26.9,0,15,0,RLQ,0,0,37.6,0,0,0,0,12.7,81.9,30.0,Periappendiceal Fluid,Appendicitis,1
+42,Female,30.4,0,23,0,RLQ,0,0,38.6,0,0,0,0,6.9,77.6,56.0,Enlarged (>6mm),Appendicitis,1
+22,Male,24.8,0,14,0,Periumbilical,0,0,39.0,0,0,0,0,13.7,84.4,48.9,Target Sign,Appendicitis,1
+14,Male,27.9,0,25,0,Periumbilical,0,0,37.8,0,0,0,0,9.3,79.8,27.7,Enlarged (>6mm),Appendicitis,1
+32,Male,25.6,0,70,0,Generalized,0,0,37.5,0,0,0,0,12.8,90.9,10.1,Target Sign,Appendicitis,1
+46,Male,21.8,0,27,0,LLQ,0,0,37.0,0,0,0,0,6.1,61.3,31.7,Normal,Other (Mesenteric Adenitis),0
+10,Male,23.2,0,23,0,RLQ,0,0,38.4,0,0,0,0,16.5,77.2,16.3,Periappendiceal Fluid,Appendicitis,1
+15,Male,28.7,0,24,0,RLQ,0,0,37.4,0,0,0,0,19.7,91.5,73.8,Target Sign,Appendicitis,1
+21,Male,19.1,0,9,0,RLQ,0,0,37.3,0,0,0,0,15.6,85.9,8.1,Target Sign,Appendicitis,1
+5,Male,24.3,0,24,0,RLQ,0,0,38.0,0,0,0,0,8.1,67.3,10.1,Other Mild Inflammation,Other (Mesenteric Adenitis),0
+37,Male,27.2,0,23,0,RLQ,0,0,37.9,0,0,0,0,14.3,80.8,4.5,Periappendiceal Fluid,Appendicitis,1
+9,Female,17.9,0,18,0,Periumbilical,0,0,39.0,0,0,0,0,13.0,83.5,106.7,Periappendiceal Fluid,Appendicitis,1
+38,Female,26.5,0,19,0,RLQ,0,0,38.4,0,0,0,0,12.9,83.1,11.6,Enlarged (>6mm),Appendicitis,1
+14,Female,23.8,0,30,0,RLQ,0,0,37.9,0,0,0,0,14.5,76.4,18.2,Appendicolith Seen,Appendicitis,1
+18,Female,20.8,0,96,0,RLQ,0,0,39.0,0,0,0,0,13.7,78.5,63.0,Enlarged (>6mm),Appendicitis,1
+47,Female,29.1,0,33,0,Generalized,0,0,37.7,0,0,0,0,15.8,83.2,79.7,Non-visualized,Appendicitis,1
+5,Female,24.6,0,14,0,RLQ,0,0,37.4,0,0,0,0,12.4,88.2,16.8,Appendicolith Seen,Appendicitis,1
+28,Male,28.1,0,24,0,RLQ,0,0,38.6,0,0,0,0,10.4,79.6,34.6,Target Sign,Appendicitis,1
+32,Female,23.1,0,22,0,Periumbilical,0,0,38.8,0,0,0,0,13.9,82.2,55.4,Periappendiceal Fluid,Appendicitis,1
+22,Female,21.7,0,27,0,RLQ,0,0,38.6,0,0,0,0,11.4,83.9,36.2,Enlarged (>6mm),Appendicitis,1
+5,Female,20.0,0,52,0,Pelvic,0,0,37.3,0,0,0,0,7.0,78.1,3.7,Normal,Other (Ovarian Cyst Rupture),0
+10,Male,19.0,0,68,0,RLQ,0,0,37.4,0,0,0,0,12.4,86.2,56.9,Periappendiceal Fluid,Appendicitis,1
+30,Male,25.4,0,19,0,RLQ,0,0,38.0,0,0,0,0,10.9,76.9,35.2,Target Sign,Appendicitis,1
+22,Female,19.1,0,31,0,RLQ,0,0,37.5,0,0,0,0,15.3,87.1,34.1,Target Sign,Appendicitis,1
+37,Male,20.7,0,24,0,Periumbilical,0,0,38.5,0,0,0,0,13.8,77.2,23.3,Non-visualized,Appendicitis,1
+16,Female,25.5,0,42,0,RLQ,0,0,37.9,0,0,0,0,14.7,80.0,85.2,Enlarged (>6mm),Appendicitis,1
+46,Female,16.6,0,18,0,LLQ,0,0,36.5,0,0,0,0,5.1,53.7,14.7,Ovarian Cyst,Other (Ectopic Pregnancy (if pregnant)),0
+29,Male,29.9,0,46,0,Epigastric,0,0,37.7,0,0,0,0,9.1,62.6,12.2,Normal,Other (Mesenteric Adenitis),0
+33,Male,24.8,0,21,0,RLQ,0,0,37.3,0,0,0,0,20.0,87.2,111.7,Target Sign,Appendicitis,1
+5,Male,19.2,0,16,0,RLQ,0,0,38.3,0,0,0,0,17.4,78.6,63.8,Non-visualized,Appendicitis,1
+33,Female,26.4,0,80,0,Periumbilical,0,0,37.7,0,0,0,0,18.2,84.8,27.3,Appendicolith Seen,Appendicitis,1
+26,Male,22.2,0,11,0,RLQ,0,0,37.1,0,0,0,0,13.5,83.9,100.0,Target Sign,Appendicitis,1
+43,Male,28.5,0,55,0,Periumbilical,0,0,36.7,0,0,0,0,20.4,82.8,12.9,Enlarged (>6mm),Appendicitis,1
+34,Male,19.3,0,29,0,RLQ,0,0,38.7,0,0,0,0,17.2,64.6,34.5,Enlarged (>6mm),Appendicitis,1
+23,Female,18.4,0,7,0,RLQ,0,0,37.9,0,0,0,0,17.9,90.5,81.1,Target Sign,Appendicitis,1
+27,Female,23.8,0,12,0,RLQ,0,0,38.2,0,0,0,0,15.3,78.0,130.1,Appendicolith Seen,Appendicitis,1
+19,Male,18.5,0,6,0,RLQ,0,0,36.9,0,0,0,0,13.9,85.7,55.0,Appendicolith Seen,Appendicitis,1
+36,Female,29.9,0,24,0,RLQ,0,0,38.3,0,0,0,0,15.9,80.2,26.2,Target Sign,Appendicitis,1
+7,Female,18.9,0,11,0,RLQ,0,0,38.3,0,0,0,0,16.2,91.1,79.7,Enlarged (>6mm),Appendicitis,1
+21,Male,22.2,0,35,0,RLQ,0,0,38.6,0,0,0,0,13.7,71.4,82.5,Target Sign,Appendicitis,1
+33,Male,23.8,0,6,0,Periumbilical,0,0,38.7,0,0,0,0,9.8,80.4,30.2,Periappendiceal Fluid,Appendicitis,1
+30,Female,21.6,0,91,0,Periumbilical,0,0,38.7,0,0,0,0,11.5,75.9,67.1,Enlarged (>6mm),Appendicitis,1
+16,Male,24.5,0,17,0,RLQ,0,0,38.0,0,0,0,0,17.2,78.1,73.1,Non-visualized,Appendicitis,1
+27,Female,19.6,0,9,0,RLQ,0,0,37.7,0,0,0,0,14.7,78.2,44.5,Enlarged (>6mm),Appendicitis,1
+22,Male,30.2,0,28,0,Epigastric,0,0,37.4,0,0,0,0,8.9,65.7,35.6,Normal,Other (UTI),0
+29,Female,27.6,0,10,0,Periumbilical,0,0,37.6,0,0,0,0,15.0,88.6,13.4,Appendicolith Seen,Appendicitis,1
+48,Male,22.4,0,47,0,Generalized,0,0,38.0,0,0,0,0,10.2,76.7,151.3,Appendicolith Seen,Appendicitis,1
+30,Male,20.6,0,13,0,RLQ,0,0,38.1,0,0,0,0,18.8,75.1,102.3,Target Sign,Appendicitis,1
+35,Male,23.2,0,12,0,RLQ,0,0,36.9,0,0,0,0,13.6,80.1,39.3,Appendicolith Seen,Appendicitis,1
+29,Female,28.9,0,17,0,RLQ,0,0,38.0,0,0,0,0,13.0,84.0,40.1,Enlarged (>6mm),Appendicitis,1
+20,Male,27.1,0,6,0,RLQ,0,0,37.3,0,0,0,0,14.6,82.6,46.2,Enlarged (>6mm),Appendicitis,1
+30,Female,27.5,0,35,0,LLQ,0,0,37.1,0,0,0,0,6.6,79.5,21.8,Normal,Other (Mesenteric Adenitis),0
+33,Male,17.9,0,39,0,RLQ,0,0,37.5,0,0,0,0,16.9,93.9,22.8,Periappendiceal Fluid,Appendicitis,1
+7,Male,25.6,0,15,0,RLQ,0,0,37.3,0,0,0,0,19.4,82.4,71.3,Non-visualized,Appendicitis,1
+18,Male,24.2,0,53,0,Epigastric,0,0,37.3,0,0,0,0,12.1,58.0,7.1,Other Mild Inflammation,Other (Gastroenteritis),0
+17,Female,22.2,0,79,0,RLQ,0,0,37.3,0,0,0,0,13.9,78.0,4.8,Enlarged (>6mm),Appendicitis,1
+55,Male,23.1,0,39,0,Periumbilical,0,0,37.7,0,0,0,0,13.7,82.7,45.2,Periappendiceal Fluid,Appendicitis,1
+22,Female,25.3,0,11,0,RLQ,0,0,37.4,0,0,0,0,13.1,79.6,15.4,Periappendiceal Fluid,Appendicitis,1
+5,Female,22.4,0,49,0,LLQ,0,0,37.3,0,0,0,0,7.4,45.2,3.3,Normal,Other (Gastroenteritis),0
+32,Male,24.9,0,26,0,RLQ,0,0,38.2,0,0,0,0,10.3,65.0,28.3,Other Mild Inflammation,Other (Gastroenteritis),0
+21,Male,21.5,0,29,0,RLQ,0,0,37.3,0,0,0,0,8.2,76.6,18.9,Other Mild Inflammation,Other (Kidney Stones),0
+53,Female,27.1,0,37,0,Periumbilical,0,0,36.9,0,0,0,0,7.7,73.6,78.8,Enlarged (>6mm),Appendicitis,1
+28,Female,25.3,0,37,0,RLQ,0,0,38.2,0,0,0,0,16.5,79.6,152.3,Enlarged (>6mm),Appendicitis,1
+26,Male,26.0,0,12,0,RLQ,0,0,39.0,0,0,0,0,15.6,76.5,63.9,Enlarged (>6mm),Appendicitis,1
+23,Female,21.1,0,28,0,RLQ,0,0,38.8,0,0,0,0,14.5,89.7,61.7,Non-visualized,Appendicitis,1
+32,Female,20.6,0,12,0,Generalized,0,0,38.4,0,0,0,0,12.0,72.8,36.0,Periappendiceal Fluid,Appendicitis,1
+5,Male,23.1,0,9,0,RLQ,0,0,39.2,0,0,0,0,12.8,86.3,6.9,Enlarged (>6mm),Appendicitis,1
+5,Male,30.7,0,14,0,RLQ,0,0,37.9,0,0,0,0,13.6,87.5,33.0,Enlarged (>6mm),Appendicitis,1
+8,Female,27.5,0,31,0,RLQ,0,0,37.7,0,0,0,0,15.5,70.6,22.2,Non-visualized,Appendicitis,1
+23,Male,22.5,0,29,0,RLQ,0,0,38.3,0,0,0,0,15.0,88.9,44.1,Enlarged (>6mm),Appendicitis,1
+5,Male,21.6,0,43,0,RLQ,0,0,38.4,0,0,0,0,23.7,71.4,30.6,Enlarged (>6mm),Appendicitis,1
+45,Male,27.8,0,80,0,RLQ,0,0,38.9,0,0,0,0,19.2,87.5,13.3,Periappendiceal Fluid,Appendicitis,1
+5,Male,24.5,0,21,0,Periumbilical,0,0,38.0,0,0,0,0,12.9,78.3,39.3,Enlarged (>6mm),Appendicitis,1
+32,Female,22.3,0,42,0,RLQ,0,0,37.4,0,0,0,0,9.8,83.9,69.1,Enlarged (>6mm),Appendicitis,1
+41,Female,21.0,0,14,0,RLQ,0,0,36.6,0,0,0,0,4.2,66.4,11.4,Other Mild Inflammation,Other (Gastroenteritis),0
+5,Male,22.5,0,30,0,RLQ,0,0,38.0,0,0,0,0,15.0,74.4,80.8,Target Sign,Appendicitis,1
+5,Male,30.3,0,39,0,RLQ,0,0,38.2,0,0,0,0,15.3,84.1,84.9,Enlarged (>6mm),Appendicitis,1
+42,Male,27.3,0,51,0,RLQ,0,0,38.5,0,0,0,0,9.9,81.1,68.6,Appendicolith Seen,Appendicitis,1
+43,Female,23.1,0,5,0,Periumbilical,0,0,38.3,0,0,0,0,15.9,77.1,66.6,Non-visualized,Appendicitis,1
+39,Male,23.0,0,94,0,Epigastric,0,0,37.8,0,0,0,0,10.2,68.0,7.3,Ovarian Cyst,Other (UTI),0
+5,Male,16.6,0,10,0,RLQ,0,0,37.7,0,0,0,0,12.3,68.7,33.4,Enlarged (>6mm),Appendicitis,1
+12,Female,23.7,0,33,0,Pelvic,0,0,37.7,0,0,0,0,9.5,64.2,0.9,Non-visualized,Other (Mesenteric Adenitis),0
+29,Female,30.0,0,59,0,Periumbilical,0,0,37.6,0,0,0,0,13.9,79.8,56.9,Target Sign,Appendicitis,1
+26,Male,23.2,0,7,0,RLQ,0,0,36.5,0,0,0,0,10.0,83.2,21.7,Enlarged (>6mm),Appendicitis,1
+54,Female,21.3,0,34,0,Pelvic,0,0,37.4,0,0,0,0,10.3,56.8,14.0,Other Mild Inflammation,Other (UTI),0
+15,Female,17.5,0,50,0,RLQ,0,0,38.5,0,0,0,0,9.4,53.0,1.3,Normal,Other (Ectopic Pregnancy (if pregnant)),0
+20,Male,28.0,0,32,0,Periumbilical,0,0,38.5,0,0,0,0,15.5,83.7,29.1,Appendicolith Seen,Appendicitis,1
+9,Female,23.3,0,63,0,Generalized,0,0,36.5,0,0,0,0,7.2,55.3,40.9,Normal,Other (Gastroenteritis),0
+13,Male,28.0,0,23,0,RLQ,0,0,37.7,0,0,0,0,7.7,61.9,6.8,Normal,Other (Mesenteric Adenitis),0
+24,Female,20.7,0,8,0,RLQ,0,0,37.4,0,0,0,0,12.4,88.4,79.4,Enlarged (>6mm),Appendicitis,1
+26,Female,27.7,0,23,0,RLQ,0,0,36.6,0,0,0,0,13.3,94.8,80.6,Appendicolith Seen,Appendicitis,1
+51,Male,24.4,0,12,0,RLQ,0,0,37.1,0,0,0,0,15.4,78.1,52.0,Enlarged (>6mm),Appendicitis,1
+41,Male,23.8,0,49,0,RLQ,0,0,37.7,0,0,0,0,19.0,86.4,70.6,Enlarged (>6mm),Appendicitis,1
+24,Male,19.8,0,10,0,Generalized,0,0,37.0,0,0,0,0,8.1,68.0,1.5,Normal,Other (UTI),0
+19,Female,23.2,0,13,0,RLQ,0,0,37.4,0,0,0,0,14.1,77.9,14.0,Periappendiceal Fluid,Appendicitis,1
+24,Female,21.2,0,59,0,Generalized,0,0,37.6,0,0,0,0,4.1,57.8,4.0,Non-visualized,Other (Ectopic Pregnancy (if pregnant)),0
+29,Male,20.2,0,61,0,Periumbilical,0,0,37.0,0,0,0,0,14.3,79.3,92.8,Non-visualized,Appendicitis,1
+37,Female,30.3,0,27,0,RLQ,0,0,37.2,0,0,0,0,18.5,86.3,25.4,Periappendiceal Fluid,Appendicitis,1
+36,Male,26.1,0,7,0,RLQ,0,0,39.0,0,0,0,0,16.2,78.9,83.5,Enlarged (>6mm),Appendicitis,1
+35,Male,26.9,0,21,0,RLQ,0,0,36.9,0,0,0,0,15.8,87.6,82.0,Target Sign,Appendicitis,1
+37,Female,19.5,0,29,0,RLQ,0,0,39.1,0,0,0,0,14.6,82.4,46.2,Non-visualized,Appendicitis,1
+10,Male,22.8,0,26,0,RLQ,0,0,37.6,0,0,0,0,14.3,86.9,11.9,Non-visualized,Appendicitis,1
+43,Male,27.2,0,29,0,Epigastric,0,0,37.1,0,0,0,0,12.0,54.1,6.3,Normal,Other (Mesenteric Adenitis),0
+57,Female,24.5,0,34,0,RLQ,0,0,39.0,0,0,0,0,10.7,76.1,23.1,Enlarged (>6mm),Appendicitis,1
+6,Male,25.5,0,27,0,RLQ,0,0,37.2,0,0,0,0,12.6,63.3,1.3,Non-visualized,Other (UTI),0
+30,Male,31.2,0,48,0,RLQ,0,0,38.2,0,0,0,0,14.8,44.7,0.1,Normal,Other (Gastroenteritis),0
+47,Male,25.6,0,29,0,RLQ,0,0,37.6,0,0,0,0,19.2,85.2,19.5,Target Sign,Appendicitis,1
+18,Female,24.1,0,30,0,RLQ,0,0,38.3,0,0,0,0,10.2,83.4,21.1,Target Sign,Appendicitis,1
+15,Male,21.8,0,50,0,Generalized,0,0,37.2,0,0,0,0,17.4,88.1,22.5,Non-visualized,Appendicitis,1
+30,Male,28.7,0,61,0,RLQ,0,0,37.3,0,0,0,0,15.5,81.6,25.2,Target Sign,Appendicitis,1
+18,Male,24.7,0,90,0,RLQ,0,0,37.8,0,0,0,0,15.1,88.0,41.2,Non-visualized,Appendicitis,1
+19,Male,24.7,0,36,0,RLQ,0,0,38.6,0,0,0,0,13.3,79.9,41.1,Target Sign,Appendicitis,1
+37,Male,19.3,0,34,0,RLQ,0,0,39.1,0,0,0,0,12.7,85.0,71.8,Target Sign,Appendicitis,1
+34,Male,22.5,0,2,0,RLQ,0,0,38.5,0,0,0,0,11.7,81.4,79.9,Target Sign,Appendicitis,1
+27,Female,30.1,0,24,0,RLQ,0,0,37.8,0,0,0,0,18.0,80.5,114.9,Non-visualized,Appendicitis,1
+25,Male,16.2,0,25,0,RLQ,0,0,38.9,0,0,0,0,20.1,84.3,33.1,Enlarged (>6mm),Appendicitis,1
+32,Male,26.8,0,15,0,RLQ,0,0,37.7,0,0,0,0,9.6,59.2,6.0,Normal,Other (Kidney Stones),0
+51,Male,24.8,0,19,0,RLQ,0,0,38.6,0,0,0,0,20.6,87.8,71.3,Non-visualized,Appendicitis,1
+22,Male,28.0,0,40,0,RLQ,0,0,38.7,0,0,0,0,16.4,81.7,36.4,Non-visualized,Appendicitis,1
+16,Female,21.1,0,19,0,RLQ,0,0,38.2,0,0,0,0,16.1,78.4,19.3,Target Sign,Appendicitis,1
+8,Female,26.6,0,29,0,RLQ,0,0,38.3,0,0,0,0,14.6,77.1,28.3,Enlarged (>6mm),Appendicitis,1
+16,Female,25.3,0,81,0,Periumbilical,0,0,38.5,0,0,0,0,10.4,78.6,47.2,Enlarged (>6mm),Appendicitis,1
+5,Male,19.1,0,21,0,LLQ,0,0,36.5,0,0,0,0,8.4,53.0,41.9,Normal,Other (Mesenteric Adenitis),0
+34,Female,22.9,0,26,0,RLQ,0,0,37.7,0,0,0,0,8.9,61.1,9.5,Other Mild Inflammation,Other (Mesenteric Adenitis),0
+23,Male,22.0,0,28,0,RLQ,0,0,37.3,0,0,0,0,16.0,75.3,97.9,Periappendiceal Fluid,Appendicitis,1
+19,Male,25.5,0,50,0,Periumbilical,0,0,37.4,0,0,0,0,20.1,75.3,38.7,Appendicolith Seen,Appendicitis,1
+22,Male,18.6,0,32,0,Generalized,0,0,37.9,0,0,0,0,4.0,66.7,12.5,Normal,Other (Kidney Stones),0
+74,Female,23.4,0,23,0,Periumbilical,0,0,37.3,0,0,0,0,14.7,74.3,82.1,Periappendiceal Fluid,Appendicitis,1
+6,Male,23.8,0,14,0,RLQ,0,0,37.7,0,0,0,0,15.0,80.7,37.5,Non-visualized,Appendicitis,1
+52,Male,24.5,0,8,0,Generalized,0,0,37.0,0,0,0,0,8.8,55.2,26.0,Ovarian Cyst,Other (Gastroenteritis),0
+11,Male,26.3,0,11,0,Periumbilical,0,0,37.4,0,0,0,0,12.1,82.2,50.7,Appendicolith Seen,Appendicitis,1
+20,Female,20.8,0,5,0,RLQ,0,0,38.0,0,0,0,0,15.4,77.8,41.1,Periappendiceal Fluid,Appendicitis,1
+28,Male,22.0,0,28,0,RLQ,0,0,37.9,0,0,0,0,13.5,89.1,71.2,Enlarged (>6mm),Appendicitis,1
+52,Male,30.4,0,37,0,RLQ,0,0,38.7,0,0,0,0,15.2,90.1,48.1,Enlarged (>6mm),Appendicitis,1
+5,Male,20.2,0,8,0,Generalized,0,0,37.4,0,0,0,0,9.3,61.6,19.5,Other Mild Inflammation,Other (Mesenteric Adenitis),0
+13,Male,21.5,0,29,0,RLQ,0,0,38.6,0,0,0,0,14.3,85.1,105.6,Enlarged (>6mm),Appendicitis,1
+35,Female,18.2,0,58,0,RLQ,0,0,39.3,0,0,0,0,10.2,78.2,137.1,Non-visualized,Appendicitis,1
+5,Female,25.9,0,7,0,RLQ,0,0,38.3,0,0,0,0,11.2,82.1,21.3,Appendicolith Seen,Appendicitis,1
+8,Male,22.8,0,10,0,RLQ,0,0,38.8,0,0,0,0,12.5,91.3,9.3,Appendicolith Seen,Appendicitis,1
+25,Female,28.5,0,70,0,Pelvic,0,0,36.9,0,0,0,0,11.1,61.0,21.6,Normal,Other (Ovarian Cyst Rupture),0
+32,Female,20.5,0,47,0,RLQ,0,0,38.0,0,0,0,0,14.4,81.0,28.2,Enlarged (>6mm),Appendicitis,1
+5,Female,25.4,0,42,0,RLQ,0,0,37.6,0,0,0,0,12.4,80.1,54.9,Enlarged (>6mm),Appendicitis,1
+25,Female,23.1,0,14,0,RLQ,0,0,38.5,0,0,0,0,12.4,83.2,203.9,Target Sign,Appendicitis,1
+40,Male,23.1,0,23,0,RLQ,0,0,38.4,0,0,0,0,13.1,86.9,80.0,Enlarged (>6mm),Appendicitis,1
+38,Male,22.3,0,17,0,Periumbilical,0,0,37.5,0,0,0,0,11.7,73.7,58.8,Target Sign,Appendicitis,1
+49,Male,22.4,0,36,0,RLQ,0,0,38.5,0,0,0,0,8.8,74.6,69.1,Periappendiceal Fluid,Appendicitis,1
+35,Female,23.2,0,19,0,RLQ,0,0,38.2,0,0,0,0,15.1,82.3,28.8,Enlarged (>6mm),Appendicitis,1
+20,Female,20.7,0,2,0,RLQ,0,0,37.3,0,0,0,0,11.6,56.6,14.1,Normal,Other (PID),0
+27,Male,21.4,0,15,0,RLQ,0,0,39.3,0,0,0,0,14.3,71.9,151.5,Non-visualized,Appendicitis,1
+33,Female,22.0,0,34,0,RLQ,0,0,37.3,0,0,0,0,13.4,76.3,60.8,Non-visualized,Appendicitis,1
+11,Male,27.9,0,26,0,Generalized,0,0,37.7,0,0,0,0,5.3,44.6,31.5,Normal,Other (UTI),0
+49,Male,23.4,0,36,0,LLQ,0,0,37.6,0,0,0,0,5.9,50.7,14.2,Normal,Other (Kidney Stones),0
+27,Male,18.0,0,15,0,RLQ,0,0,38.0,0,0,0,0,10.4,87.3,1.5,Target Sign,Appendicitis,1
+26,Female,27.6,0,21,0,RLQ,0,0,38.6,0,0,0,0,13.3,86.3,21.6,Target Sign,Appendicitis,1
+28,Female,22.7,0,16,0,RLQ,0,0,38.0,0,0,0,0,16.9,89.7,82.3,Non-visualized,Appendicitis,1
+39,Female,26.0,0,55,0,RLQ,0,0,37.0,0,0,0,0,15.5,92.1,46.2,Appendicolith Seen,Appendicitis,1
+5,Female,28.1,0,37,0,Periumbilical,0,0,37.7,0,0,0,0,10.7,83.3,30.1,Periappendiceal Fluid,Appendicitis,1
+12,Male,26.0,0,34,0,RLQ,0,0,38.8,0,0,0,0,11.4,77.8,69.8,Periappendiceal Fluid,Appendicitis,1
+24,Female,20.8,0,54,0,Periumbilical,0,0,38.0,0,0,0,0,8.4,86.3,42.5,Target Sign,Appendicitis,1
+22,Male,28.4,0,20,0,RLQ,0,0,38.1,0,0,0,0,10.9,87.7,81.9,Enlarged (>6mm),Appendicitis,1
+23,Female,16.3,0,43,0,Periumbilical,0,0,37.4,0,0,0,0,11.8,86.2,37.5,Non-visualized,Appendicitis,1
+5,Female,19.5,0,64,0,RLQ,0,0,38.5,0,0,0,0,16.5,74.6,52.0,Target Sign,Appendicitis,1
+5,Female,20.5,0,76,0,RLQ,0,0,38.3,0,0,0,0,16.8,86.2,61.3,Enlarged (>6mm),Appendicitis,1
+32,Male,24.8,0,61,0,RLQ,0,0,37.8,0,0,0,0,16.8,93.9,49.4,Target Sign,Appendicitis,1
+19,Male,23.7,0,34,0,Generalized,0,0,37.8,0,0,0,0,9.8,58.1,14.2,Normal,Other (Gastroenteritis),0
+23,Female,26.3,0,8,0,RLQ,0,0,37.7,0,0,0,0,8.5,56.3,26.2,Normal,Other (UTI),0
+33,Female,23.4,0,19,0,Periumbilical,0,0,38.9,0,0,0,0,14.3,82.9,6.2,Enlarged (>6mm),Appendicitis,1
+35,Female,31.9,0,22,0,RLQ,0,0,37.6,0,0,0,0,16.9,83.0,29.0,Enlarged (>6mm),Appendicitis,1
+33,Female,17.1,0,33,0,LLQ,0,0,36.9,0,0,0,0,9.1,45.9,16.3,Normal,Other (Gastroenteritis),0
+6,Female,26.5,0,23,0,Periumbilical,0,0,38.5,0,0,0,0,11.7,82.9,23.0,Non-visualized,Appendicitis,1
+10,Female,20.7,0,15,0,RLQ,0,0,37.7,0,0,0,0,7.4,64.8,2.3,Normal,Other (Gastroenteritis),0
+10,Female,22.0,0,17,0,RLQ,0,0,38.0,0,0,0,0,17.3,86.0,84.5,Enlarged (>6mm),Appendicitis,1
+29,Male,31.9,0,25,0,RLQ,0,0,36.9,0,0,0,0,12.9,77.2,46.3,Periappendiceal Fluid,Appendicitis,1
+26,Female,29.3,0,71,0,RLQ,0,0,37.5,0,0,0,0,14.0,67.8,54.8,Enlarged (>6mm),Appendicitis,1
+48,Female,21.1,0,23,0,RLQ,0,0,38.8,0,0,0,0,12.8,80.1,37.8,Target Sign,Appendicitis,1
+15,Female,27.8,0,30,0,Periumbilical,0,0,39.3,0,0,0,0,16.5,74.8,142.5,Enlarged (>6mm),Appendicitis,1
+22,Male,29.6,0,25,0,Generalized,0,0,36.5,0,0,0,0,8.0,77.2,8.8,Normal,Other (UTI),0
+36,Female,27.0,0,35,0,RLQ,0,0,37.9,0,0,0,0,16.0,81.9,9.5,Periappendiceal Fluid,Appendicitis,1
+22,Female,18.1,0,96,0,RLQ,0,0,37.8,0,0,0,0,15.9,90.3,43.2,Enlarged (>6mm),Appendicitis,1
+20,Male,23.5,0,55,0,RLQ,0,0,38.6,0,0,0,0,10.1,68.9,46.5,Enlarged (>6mm),Appendicitis,1
+19,Female,34.2,0,27,0,RLQ,0,0,38.0,0,0,0,0,12.1,79.1,24.9,Enlarged (>6mm),Appendicitis,1
+24,Male,25.0,0,11,0,RLQ,0,0,37.5,0,0,0,0,11.5,81.9,17.2,Enlarged (>6mm),Appendicitis,1
+40,Female,27.5,0,15,0,RLQ,0,0,37.7,0,0,0,0,12.8,80.2,146.8,Non-visualized,Appendicitis,1
+5,Male,16.8,0,29,0,RLQ,0,0,38.8,0,0,0,0,12.6,85.7,7.9,Appendicolith Seen,Appendicitis,1
+44,Female,24.2,0,71,0,Generalized,0,0,38.1,0,0,0,0,15.4,79.8,101.8,Target Sign,Appendicitis,1
+5,Male,29.7,0,13,0,RLQ,0,0,36.8,0,0,0,0,12.0,76.5,10.7,Enlarged (>6mm),Appendicitis,1
+8,Female,27.4,0,18,0,RLQ,0,0,37.8,0,0,0,0,10.5,52.3,13.7,Normal,Other (Gastroenteritis),0
+40,Female,21.8,0,30,0,RLQ,0,0,37.5,0,0,0,0,18.1,91.5,22.8,Periappendiceal Fluid,Appendicitis,1
+30,Male,27.8,0,10,0,RLQ,0,0,37.8,0,0,0,0,13.9,85.8,72.2,Appendicolith Seen,Appendicitis,1
+17,Male,22.9,0,2,0,Generalized,0,0,37.7,0,0,0,0,6.8,64.6,4.1,Ovarian Cyst,Other (Kidney Stones),0
+32,Male,24.2,0,16,0,RLQ,0,0,37.9,0,0,0,0,10.7,83.1,79.0,Enlarged (>6mm),Appendicitis,1
+45,Female,27.0,0,32,0,RLQ,0,0,38.3,0,0,0,0,16.7,83.7,57.7,Enlarged (>6mm),Appendicitis,1
+16,Female,22.6,0,89,0,RLQ,0,0,38.7,0,0,0,0,14.5,87.4,19.1,Target Sign,Appendicitis,1
+47,Female,23.3,0,17,0,RLQ,0,0,36.5,0,0,0,0,11.1,70.2,28.4,Normal,Other (Ovarian Cyst Rupture),0
+18,Female,27.4,0,10,0,RLQ,0,0,37.3,0,0,0,0,10.1,77.8,153.6,Periappendiceal Fluid,Appendicitis,1
+26,Female,27.7,0,47,0,Periumbilical,0,0,37.5,0,0,0,0,17.8,84.5,26.8,Appendicolith Seen,Appendicitis,1
+21,Female,22.4,0,33,0,RLQ,0,0,37.8,0,0,0,0,13.1,74.0,91.4,Enlarged (>6mm),Appendicitis,1
+41,Female,21.6,0,42,0,RLQ,0,0,37.5,0,0,0,0,14.8,79.5,18.8,Appendicolith Seen,Appendicitis,1
+49,Male,23.1,0,16,0,Periumbilical,0,0,36.9,0,0,0,0,18.4,87.6,26.6,Enlarged (>6mm),Appendicitis,1
+20,Male,22.9,0,11,0,RLQ,0,0,38.0,0,0,0,0,14.1,92.6,108.7,Non-visualized,Appendicitis,1
+22,Male,27.3,0,35,0,Periumbilical,0,0,36.7,0,0,0,0,9.7,84.3,123.3,Non-visualized,Appendicitis,1
+26,Male,21.0,0,58,0,Generalized,0,0,37.2,0,0,0,0,7.9,66.5,15.8,Normal,Other (Mesenteric Adenitis),0
+14,Female,22.1,0,21,0,Periumbilical,0,0,38.7,0,0,0,0,17.9,80.3,87.3,Non-visualized,Appendicitis,1
+26,Male,18.9,0,52,0,RLQ,0,0,38.0,0,0,0,0,13.1,78.7,114.8,Target Sign,Appendicitis,1
+29,Male,24.0,0,14,0,RLQ,0,0,36.9,0,0,0,0,10.7,89.4,167.9,Enlarged (>6mm),Appendicitis,1
+5,Male,23.3,0,36,0,Epigastric,0,0,38.5,0,0,0,0,10.1,75.7,21.0,Normal,Other (Gastroenteritis),0
+20,Female,24.2,0,27,0,RLQ,0,0,38.7,0,0,0,0,16.1,81.0,60.0,Enlarged (>6mm),Appendicitis,1
+14,Male,25.9,0,17,0,Epigastric,0,0,37.0,0,0,0,0,7.9,54.2,18.1,Normal,Other (Mesenteric Adenitis),0
+5,Female,18.0,0,56,0,RLQ,0,0,38.9,0,0,0,0,15.3,69.2,12.2,Target Sign,Appendicitis,1
+29,Male,21.8,0,25,0,RLQ,0,0,37.4,0,0,0,0,17.3,75.7,63.2,Enlarged (>6mm),Appendicitis,1
+21,Female,21.6,0,35,0,Generalized,0,0,37.9,0,0,0,0,22.9,78.4,71.5,Periappendiceal Fluid,Appendicitis,1
+31,Female,25.2,0,75,0,RLQ,0,0,38.3,0,0,0,0,10.8,77.1,22.5,Target Sign,Appendicitis,1
+40,Male,21.3,0,36,0,RLQ,0,0,38.9,0,0,0,0,12.0,81.1,111.0,Enlarged (>6mm),Appendicitis,1
+28,Male,29.4,0,96,0,RLQ,0,0,38.4,0,0,0,0,17.6,87.5,51.1,Non-visualized,Appendicitis,1
+25,Female,24.8,0,11,0,Pelvic,0,0,37.2,0,0,0,0,13.8,54.5,13.0,Normal,Other (Gastroenteritis),0
+34,Female,28.2,0,24,0,Generalized,0,0,38.3,0,0,0,0,16.8,88.8,10.4,Target Sign,Appendicitis,1
+27,Male,17.8,0,29,0,RLQ,0,0,38.4,0,0,0,0,12.8,82.5,80.1,Non-visualized,Appendicitis,1
+36,Male,16.0,0,38,0,RLQ,0,0,37.9,0,0,0,0,16.1,80.1,39.4,Target Sign,Appendicitis,1
+31,Female,23.3,0,19,0,Periumbilical,0,0,37.6,0,0,0,0,9.1,89.9,21.3,Enlarged (>6mm),Appendicitis,1
+25,Female,28.1,0,27,0,RUQ,0,0,38.4,0,0,0,0,22.1,87.5,68.9,Periappendiceal Fluid,Appendicitis,1
+5,Female,18.0,0,19,0,Periumbilical,0,0,38.7,0,0,0,0,11.3,89.6,61.7,Periappendiceal Fluid,Appendicitis,1
+14,Female,26.4,0,18,0,RLQ,0,0,37.6,0,0,0,0,10.1,94.6,13.2,Enlarged (>6mm),Appendicitis,1
+11,Male,26.4,0,33,0,Epigastric,0,0,38.0,0,0,0,0,10.6,58.4,11.6,Normal,Other (Mesenteric Adenitis),0
+40,Female,26.0,0,29,0,Periumbilical,0,0,38.2,0,0,0,0,17.9,75.7,77.5,Periappendiceal Fluid,Appendicitis,1
+10,Male,23.1,0,37,0,RLQ,0,0,37.5,0,0,0,0,17.5,81.0,78.8,Periappendiceal Fluid,Appendicitis,1
+15,Female,22.9,0,49,0,RLQ,0,0,37.6,0,0,0,0,8.6,89.6,28.2,Enlarged (>6mm),Appendicitis,1
+24,Male,18.0,0,10,0,Periumbilical,0,0,38.1,0,0,0,0,14.7,76.9,47.6,Appendicolith Seen,Appendicitis,1
+28,Male,29.3,0,48,0,LLQ,0,0,36.5,0,0,0,0,8.8,76.5,23.3,Non-visualized,Other (UTI),0
+30,Male,23.6,0,91,0,RLQ,0,0,38.3,0,0,0,0,14.5,95.3,23.9,Enlarged (>6mm),Appendicitis,1
+5,Female,23.6,0,17,0,RLQ,0,0,38.2,0,0,0,0,11.0,80.0,16.0,Enlarged (>6mm),Appendicitis,1
+40,Female,23.7,0,18,0,Generalized,0,0,37.2,0,0,0,0,7.1,53.0,4.2,Normal,Other (Ectopic Pregnancy (if pregnant)),0
+30,Female,28.5,0,26,0,Periumbilical,0,0,38.0,0,0,0,0,9.2,78.5,27.4,Enlarged (>6mm),Appendicitis,1
+57,Female,26.4,0,12,0,RLQ,0,0,37.5,0,0,0,0,14.7,76.4,52.2,Target Sign,Appendicitis,1
+30,Male,20.0,0,24,0,RLQ,0,0,37.8,0,0,0,0,18.6,83.0,63.1,Appendicolith Seen,Appendicitis,1
+12,Female,22.2,0,26,0,RLQ,0,0,37.2,0,0,0,0,9.9,74.7,65.4,Enlarged (>6mm),Appendicitis,1
+37,Male,27.2,0,36,0,RLQ,0,0,36.9,0,0,0,0,12.9,78.8,11.7,Enlarged (>6mm),Appendicitis,1
+30,Female,24.1,0,35,0,Periumbilical,0,0,36.8,0,0,0,0,13.6,91.3,35.8,Enlarged (>6mm),Appendicitis,1
+31,Male,21.9,0,27,0,RLQ,0,0,39.1,0,0,0,0,14.5,71.8,33.2,Non-visualized,Appendicitis,1
+30,Male,20.7,0,78,0,RLQ,0,0,37.6,0,0,0,0,12.4,89.7,93.9,Enlarged (>6mm),Appendicitis,1
+32,Female,28.6,0,16,0,Pelvic,0,0,37.0,0,0,0,0,8.2,57.5,22.8,Normal,Other (PID),0
+31,Male,21.6,0,17,0,RLQ,0,0,38.0,0,0,0,0,15.9,78.9,163.7,Target Sign,Appendicitis,1
+51,Male,18.5,0,25,0,RLQ,0,0,38.2,0,0,0,0,11.8,84.5,108.6,Enlarged (>6mm),Appendicitis,1
+14,Female,26.5,0,2,0,Periumbilical,0,0,38.5,0,0,0,0,6.9,82.2,92.0,Enlarged (>6mm),Appendicitis,1
+58,Male,23.7,0,10,0,Generalized,0,0,37.4,0,0,0,0,9.2,67.4,25.1,Normal,Other (Gastroenteritis),0
+18,Male,16.6,0,82,0,Generalized,0,0,36.5,0,0,0,0,13.0,57.8,25.3,Other Mild Inflammation,Other (UTI),0
+33,Female,18.5,0,64,0,RLQ,0,0,38.5,0,0,0,0,12.0,82.4,51.8,Enlarged (>6mm),Appendicitis,1
+54,Female,23.7,0,13,0,RLQ,0,0,38.0,0,0,0,0,15.5,80.3,174.6,Non-visualized,Appendicitis,1
+24,Male,27.0,0,37,0,RLQ,0,0,37.5,0,0,0,0,11.5,58.6,10.6,Non-visualized,Other (Gastroenteritis),0
+25,Male,31.0,0,44,0,RLQ,0,0,36.8,0,0,0,0,16.6,77.8,97.1,Appendicolith Seen,Appendicitis,1
+41,Male,23.8,0,59,0,RLQ,0,0,37.5,0,0,0,0,11.9,79.6,53.7,Periappendiceal Fluid,Appendicitis,1
+55,Female,27.4,0,25,0,RLQ,0,0,37.8,0,0,0,0,12.2,76.6,39.4,Periappendiceal Fluid,Appendicitis,1
+44,Female,26.4,0,13,0,LLQ,0,0,36.9,0,0,0,0,9.9,73.1,26.4,Normal,Other (Gastroenteritis),0
+40,Male,25.0,0,30,0,RLQ,0,0,38.1,0,0,0,0,15.1,79.1,59.8,Enlarged (>6mm),Appendicitis,1
+56,Female,20.2,0,39,0,Generalized,0,0,37.7,0,0,0,0,13.0,80.5,35.2,Non-visualized,Appendicitis,1
+42,Female,24.2,0,3,0,RLQ,0,0,38.1,0,0,0,0,11.7,87.7,77.4,Enlarged (>6mm),Appendicitis,1
+39,Male,23.4,0,41,0,RLQ,0,0,36.9,0,0,0,0,16.1,80.3,34.2,Appendicolith Seen,Appendicitis,1
+32,Male,17.8,0,42,0,RLQ,0,0,38.3,0,0,0,0,14.1,86.7,44.0,Enlarged (>6mm),Appendicitis,1
+27,Male,32.6,0,24,0,Periumbilical,0,0,37.9,0,0,0,0,15.6,71.5,54.1,Target Sign,Appendicitis,1
+5,Female,18.1,0,31,0,RLQ,0,0,37.1,0,0,0,0,14.9,83.8,31.8,Enlarged (>6mm),Appendicitis,1
+38,Male,19.1,0,39,0,Periumbilical,0,0,38.1,0,0,0,0,15.5,81.7,21.4,Enlarged (>6mm),Appendicitis,1
+31,Female,21.9,0,50,0,Generalized,0,0,36.9,0,0,0,0,10.9,71.5,13.1,Normal,Other (Gastroenteritis),0
+29,Male,27.1,0,26,0,RLQ,0,0,38.0,0,0,0,0,13.8,79.9,75.8,Periappendiceal Fluid,Appendicitis,1
+16,Male,25.9,0,51,0,RLQ,0,0,38.4,0,0,0,0,18.1,77.2,165.7,Target Sign,Appendicitis,1
+5,Male,23.3,0,25,0,RLQ,0,0,37.0,0,0,0,0,8.5,63.2,3.2,Ovarian Cyst,Other (UTI),0
+10,Male,29.7,0,16,0,RLQ,0,0,38.1,0,0,0,0,12.7,71.8,40.4,Appendicolith Seen,Appendicitis,1
+43,Male,25.7,0,29,0,Periumbilical,0,0,37.3,0,0,0,0,14.3,84.5,250.0,Enlarged (>6mm),Appendicitis,1
+20,Male,26.5,0,53,0,Periumbilical,0,0,38.2,0,0,0,0,13.1,81.9,53.6,Target Sign,Appendicitis,1
+42,Female,23.0,0,35,0,RLQ,0,0,37.0,0,0,0,0,10.7,60.1,5.4,Other Mild Inflammation,Other (Gastroenteritis),0
+13,Female,26.6,0,50,0,Periumbilical,0,0,38.2,0,0,0,0,16.3,69.0,60.8,Enlarged (>6mm),Appendicitis,1
+10,Female,22.6,0,11,0,RLQ,0,0,37.5,0,0,0,0,15.2,80.3,17.2,Enlarged (>6mm),Appendicitis,1
+22,Female,20.5,0,18,0,Pelvic,0,0,36.7,0,0,0,0,4.1,75.7,1.9,Other Mild Inflammation,Other (Gastroenteritis),0
+14,Female,20.9,0,14,0,Pelvic,0,0,37.1,0,0,0,0,8.0,78.7,5.9,Non-visualized,Other (Ectopic Pregnancy (if pregnant)),0
+41,Female,29.6,0,72,0,RLQ,0,0,38.4,0,0,0,0,14.1,84.1,29.5,Enlarged (>6mm),Appendicitis,1
+62,Male,26.1,0,24,0,RLQ,0,0,36.9,0,0,0,0,6.5,55.7,7.0,Normal,Other (Kidney Stones),0
+26,Female,21.5,0,35,0,RLQ,0,0,38.6,0,0,0,0,12.5,91.2,82.7,Enlarged (>6mm),Appendicitis,1
+33,Male,22.2,0,15,0,RLQ,0,0,37.5,0,0,0,0,15.3,94.0,35.2,Enlarged (>6mm),Appendicitis,1
+13,Male,17.3,0,26,0,RLQ,0,0,37.5,0,0,0,0,17.9,79.8,113.2,Appendicolith Seen,Appendicitis,1
+23,Male,24.7,0,3,0,Periumbilical,0,0,38.7,0,0,0,0,12.0,78.2,69.4,Enlarged (>6mm),Appendicitis,1
+25,Female,32.7,0,35,0,RLQ,0,0,37.5,0,0,0,0,17.0,83.9,9.7,Non-visualized,Appendicitis,1
+14,Male,22.0,0,52,0,RLQ,0,0,37.2,0,0,0,0,14.6,84.2,60.8,Enlarged (>6mm),Appendicitis,1
+13,Male,22.9,0,46,0,Periumbilical,0,0,38.8,0,0,0,0,19.7,82.2,97.0,Enlarged (>6mm),Appendicitis,1
+33,Female,21.0,0,49,0,RLQ,0,0,38.3,0,0,0,0,13.1,72.7,111.2,Periappendiceal Fluid,Appendicitis,1
+23,Female,24.5,0,8,0,Pelvic,0,0,37.0,0,0,0,0,10.9,75.6,23.6,Normal,Other (UTI),0
+5,Male,21.3,0,39,0,RLQ,0,0,38.3,0,0,0,0,13.6,82.6,58.9,Appendicolith Seen,Appendicitis,1
+11,Female,19.5,0,54,0,Generalized,0,0,38.1,0,0,0,0,4.0,72.4,6.3,Normal,Other (Gastroenteritis),0
+58,Male,24.5,0,61,0,RLQ,0,0,36.8,0,0,0,0,6.8,50.1,12.6,Other Mild Inflammation,Other (Mesenteric Adenitis),0
+58,Female,19.4,0,32,0,RLQ,0,0,37.9,0,0,0,0,15.7,81.1,80.8,Non-visualized,Appendicitis,1
+34,Male,22.8,0,15,0,RLQ,0,0,37.6,0,0,0,0,15.5,87.1,41.9,Target Sign,Appendicitis,1
+36,Male,24.3,0,96,0,RLQ,0,0,37.8,0,0,0,0,9.2,66.2,7.3,Normal,Other (Kidney Stones),0
+42,Male,27.2,0,9,0,RLQ,0,0,37.4,0,0,0,0,13.4,86.9,65.4,Enlarged (>6mm),Appendicitis,1
+25,Female,27.5,0,22,0,RLQ,0,0,38.0,0,0,0,0,13.6,88.3,20.4,Appendicolith Seen,Appendicitis,1
+30,Male,25.7,0,14,0,RLQ,0,0,38.3,0,0,0,0,17.7,84.8,66.7,Enlarged (>6mm),Appendicitis,1
+26,Male,33.0,0,52,0,Generalized,0,0,37.7,0,0,0,0,8.6,68.9,6.8,Ovarian Cyst,Other (Mesenteric Adenitis),0
+39,Female,20.5,0,13,0,RLQ,0,0,38.5,0,0,0,0,15.2,84.5,92.0,Periappendiceal Fluid,Appendicitis,1
+23,Male,22.7,0,35,0,RLQ,0,0,38.9,0,0,0,0,12.5,89.3,22.5,Enlarged (>6mm),Appendicitis,1
+26,Female,24.3,0,36,0,RLQ,0,0,38.1,0,0,0,0,15.1,85.5,89.7,Enlarged (>6mm),Appendicitis,1
+11,Female,28.4,0,23,0,RLQ,0,0,37.9,0,0,0,0,11.4,82.5,23.4,Enlarged (>6mm),Appendicitis,1
+37,Male,18.7,0,17,0,RLQ,0,0,37.3,0,0,0,0,9.2,83.5,8.3,Enlarged (>6mm),Appendicitis,1
+22,Male,22.0,0,48,0,RLQ,0,0,39.2,0,0,0,0,17.4,78.3,34.4,Enlarged (>6mm),Appendicitis,1
+30,Female,30.1,0,44,0,RUQ,0,0,37.4,0,0,0,0,14.7,80.1,103.5,Enlarged (>6mm),Appendicitis,1
+25,Female,16.2,0,21,0,RLQ,0,0,37.9,0,0,0,0,16.7,72.6,30.1,Periappendiceal Fluid,Appendicitis,1
+13,Female,31.4,0,40,0,LLQ,0,0,37.0,0,0,0,0,14.7,58.3,36.3,Normal,Other (PID),0
+23,Male,22.9,0,8,0,RLQ,0,0,38.1,0,0,0,0,19.8,83.7,72.1,Target Sign,Appendicitis,1
+23,Female,26.7,0,39,0,RLQ,0,0,38.2,0,0,0,0,15.7,75.4,99.1,Target Sign,Appendicitis,1
+33,Male,25.2,0,57,0,Periumbilical,0,0,36.5,0,0,0,0,17.2,75.0,132.8,Periappendiceal Fluid,Appendicitis,1
+22,Female,23.9,0,54,0,RLQ,0,0,37.1,0,0,0,0,11.3,68.4,29.0,Non-visualized,Other (PID),0
+16,Female,24.6,0,24,0,Periumbilical,0,0,37.6,0,0,0,0,14.2,83.0,68.8,Appendicolith Seen,Appendicitis,1
+13,Male,29.3,0,26,0,Generalized,0,0,37.4,0,0,0,0,11.3,65.6,3.7,Non-visualized,Other (Mesenteric Adenitis),0
+17,Male,24.9,0,12,0,RLQ,0,0,37.7,0,0,0,0,8.4,66.4,18.6,Normal,Other (Mesenteric Adenitis),0
+9,Female,25.9,0,37,0,RLQ,0,0,37.7,0,0,0,0,11.5,81.3,18.5,Target Sign,Appendicitis,1
+29,Male,24.7,0,53,0,RLQ,0,0,38.0,0,0,0,0,13.5,85.0,75.1,Non-visualized,Appendicitis,1
+14,Male,16.0,0,37,0,RLQ,0,0,39.5,0,0,0,0,14.5,95.1,66.5,Appendicolith Seen,Appendicitis,1
+40,Female,22.4,0,15,0,RLQ,0,0,38.2,0,0,0,0,11.5,87.3,19.2,Appendicolith Seen,Appendicitis,1
+18,Female,16.0,0,75,0,RLQ,0,0,37.7,0,0,0,0,8.5,81.7,100.5,Target Sign,Appendicitis,1
+33,Female,21.3,0,3,0,Periumbilical,0,0,38.0,0,0,0,0,15.8,79.7,99.6,Enlarged (>6mm),Appendicitis,1
+46,Female,26.2,0,19,0,Pelvic,0,0,37.8,0,0,0,0,9.4,73.7,52.6,Non-visualized,Other (Mesenteric Adenitis),0
+5,Male,19.3,0,21,0,RLQ,0,0,37.9,0,0,0,0,13.7,91.5,48.8,Enlarged (>6mm),Appendicitis,1
+26,Male,27.2,0,41,0,RLQ,0,0,38.6,0,0,0,0,14.5,87.6,16.4,Non-visualized,Appendicitis,1
+17,Female,16.5,0,15,0,RLQ,0,0,38.3,0,0,0,0,11.1,83.0,49.7,Enlarged (>6mm),Appendicitis,1
+25,Male,22.8,0,28,0,Periumbilical,0,0,39.4,0,0,0,0,12.7,84.2,75.1,Appendicolith Seen,Appendicitis,1
+5,Male,28.8,0,45,0,RLQ,0,0,37.1,0,0,0,0,11.7,64.7,10.7,Normal,Other (Kidney Stones),0
+26,Male,17.4,0,29,0,RLQ,0,0,38.1,0,0,0,0,16.0,75.3,71.0,Target Sign,Appendicitis,1
+50,Male,18.7,0,96,0,RLQ,0,0,37.3,0,0,0,0,6.8,71.2,6.9,Normal,Other (Gastroenteritis),0
+21,Male,21.6,0,48,0,RLQ,0,0,38.0,0,0,0,0,14.6,77.7,86.9,Appendicolith Seen,Appendicitis,1
+5,Male,22.6,0,38,0,Periumbilical,0,0,37.9,0,0,0,0,13.5,76.7,36.3,Enlarged (>6mm),Appendicitis,1
+19,Male,27.5,0,8,0,Generalized,0,0,38.0,0,0,0,0,10.2,81.1,31.8,Appendicolith Seen,Appendicitis,1
+37,Male,24.7,0,69,0,Generalized,0,0,37.4,0,0,0,0,11.1,70.3,15.4,Normal,Other (Gastroenteritis),0
+27,Male,21.8,0,31,0,RLQ,0,0,37.7,0,0,0,0,13.7,79.8,23.3,Target Sign,Appendicitis,1
+17,Female,22.5,0,44,0,RLQ,0,0,38.1,0,0,0,0,15.3,84.4,38.3,Enlarged (>6mm),Appendicitis,1
+19,Male,23.0,0,17,0,Generalized,0,0,36.8,0,0,0,0,9.4,70.9,24.8,Normal,Other (Gastroenteritis),0
+17,Female,20.1,0,21,0,RLQ,0,0,38.4,0,0,0,0,17.0,77.7,123.2,Appendicolith Seen,Appendicitis,1
+27,Male,30.1,0,57,0,Epigastric,0,0,37.8,0,0,0,0,5.8,53.8,16.2,Normal,Other (Gastroenteritis),0
+17,Male,22.8,0,16,0,RLQ,0,0,38.5,0,0,0,0,19.8,79.3,107.7,Enlarged (>6mm),Appendicitis,1
+5,Female,26.0,0,9,0,RLQ,0,0,37.4,0,0,0,0,15.3,87.4,40.1,Enlarged (>6mm),Appendicitis,1
+24,Female,24.3,0,35,0,RLQ,0,0,38.0,0,0,0,0,23.5,96.6,60.8,Non-visualized,Appendicitis,1
+24,Female,16.0,0,6,0,RLQ,0,0,37.9,0,0,0,0,12.6,73.1,8.8,Enlarged (>6mm),Appendicitis,1
+33,Female,18.4,0,14,0,RLQ,0,0,37.3,0,0,0,0,9.1,80.9,49.9,Enlarged (>6mm),Appendicitis,1
+19,Female,25.5,0,32,0,RLQ,0,0,37.2,0,0,0,0,19.0,82.5,40.2,Target Sign,Appendicitis,1
+6,Female,21.8,0,48,0,RLQ,0,0,37.6,0,0,0,0,13.2,79.6,10.4,Enlarged (>6mm),Appendicitis,1
+39,Female,23.7,0,40,0,RLQ,0,0,38.3,0,0,0,0,19.5,79.7,14.0,Non-visualized,Appendicitis,1
+5,Male,23.4,0,19,0,RLQ,0,0,38.3,0,0,0,0,11.9,80.9,90.9,Non-visualized,Appendicitis,1
+21,Male,28.7,0,74,0,RLQ,0,0,37.2,0,0,0,0,8.7,56.1,13.8,Other Mild Inflammation,Other (Mesenteric Adenitis),0
+11,Male,20.5,0,23,0,RLQ,0,0,38.6,0,0,0,0,12.0,78.5,62.7,Enlarged (>6mm),Appendicitis,1
+6,Female,18.6,0,13,0,RLQ,0,0,38.5,0,0,0,0,13.0,82.9,107.1,Periappendiceal Fluid,Appendicitis,1
+12,Male,23.7,0,34,0,RLQ,0,0,37.2,0,0,0,0,15.4,79.8,58.8,Appendicolith Seen,Appendicitis,1
+41,Female,24.6,0,24,0,Periumbilical,0,0,38.7,0,0,0,0,19.0,87.6,68.8,Periappendiceal Fluid,Appendicitis,1
+24,Male,20.8,0,32,0,Generalized,0,0,38.4,0,0,0,0,12.6,80.3,83.6,Periappendiceal Fluid,Appendicitis,1
+7,Female,19.2,0,21,0,RLQ,0,0,38.1,0,0,0,0,10.1,87.0,69.3,Enlarged (>6mm),Appendicitis,1
+40,Male,27.5,0,15,0,RLQ,0,0,38.0,0,0,0,0,20.2,73.7,95.6,Target Sign,Appendicitis,1
+39,Male,26.5,0,26,0,RLQ,0,0,37.0,0,0,0,0,12.5,87.6,91.5,Appendicolith Seen,Appendicitis,1
+8,Female,20.0,0,25,0,RLQ,0,0,39.1,0,0,0,0,18.6,82.4,20.4,Appendicolith Seen,Appendicitis,1
+32,Male,19.1,0,15,0,RLQ,0,0,38.7,0,0,0,0,12.8,90.0,104.0,Periappendiceal Fluid,Appendicitis,1
+34,Male,18.9,0,28,0,RLQ,0,0,38.3,0,0,0,0,13.9,76.2,123.9,Periappendiceal Fluid,Appendicitis,1
+20,Female,26.5,0,66,0,RLQ,0,0,38.2,0,0,0,0,18.2,78.3,44.4,Enlarged (>6mm),Appendicitis,1
+39,Male,30.7,0,15,0,Periumbilical,0,0,38.8,0,0,0,0,18.0,73.3,69.3,Enlarged (>6mm),Appendicitis,1
+18,Male,26.1,0,11,0,Periumbilical,0,0,38.4,0,0,0,0,11.5,82.9,10.5,Enlarged (>6mm),Appendicitis,1
+14,Female,16.3,0,51,0,Periumbilical,0,0,38.0,0,0,0,0,8.5,84.1,35.5,Periappendiceal Fluid,Appendicitis,1
+43,Male,25.1,0,18,0,Periumbilical,0,0,37.9,0,0,0,0,9.8,79.2,22.3,Target Sign,Appendicitis,1
+39,Male,18.8,0,46,0,RLQ,0,0,37.7,0,0,0,0,16.6,82.2,99.2,Target Sign,Appendicitis,1
+27,Male,25.3,0,52,0,RLQ,0,0,37.7,0,0,0,0,12.9,81.4,27.4,Target Sign,Appendicitis,1
+5,Male,25.0,0,54,0,RLQ,0,0,37.8,0,0,0,0,15.6,81.2,32.1,Enlarged (>6mm),Appendicitis,1
+25,Male,30.7,0,11,0,RLQ,0,0,36.8,0,0,0,0,11.4,79.5,80.6,Target Sign,Appendicitis,1
+46,Male,26.9,0,38,0,Generalized,0,0,38.1,0,0,0,0,5.9,57.9,18.4,Other Mild Inflammation,Other (Gastroenteritis),0
+5,Male,25.2,0,30,0,Periumbilical,0,0,38.9,0,0,0,0,12.4,72.9,95.8,Enlarged (>6mm),Appendicitis,1
+14,Male,20.7,0,23,0,RLQ,0,0,37.4,0,0,0,0,5.8,75.0,26.0,Normal,Other (UTI),0
+37,Male,22.7,0,71,0,Periumbilical,0,0,37.4,0,0,0,0,18.8,81.6,115.9,Enlarged (>6mm),Appendicitis,1
+27,Female,21.3,0,25,0,RLQ,0,0,37.6,0,0,0,0,12.5,88.9,25.5,Target Sign,Appendicitis,1
+49,Male,27.9,0,6,0,Generalized,0,0,37.5,0,0,0,0,14.4,78.8,42.4,Appendicolith Seen,Appendicitis,1
+25,Female,22.7,0,17,0,RLQ,0,0,38.0,0,0,0,0,14.7,89.7,30.1,Appendicolith Seen,Appendicitis,1
+53,Female,26.5,0,17,0,RLQ,0,0,38.1,0,0,0,0,16.3,79.9,98.5,Target Sign,Appendicitis,1
+22,Female,16.0,0,21,0,RLQ,0,0,37.4,0,0,0,0,6.6,64.6,9.1,Normal,Other (PID),0
+30,Male,20.5,0,56,0,Periumbilical,0,0,37.6,0,0,0,0,11.7,75.6,22.7,Periappendiceal Fluid,Appendicitis,1
+22,Female,20.6,0,39,0,RLQ,0,0,38.3,0,0,0,0,13.8,82.7,42.7,Periappendiceal Fluid,Appendicitis,1
+5,Male,26.0,0,8,0,RLQ,0,0,38.7,0,0,0,0,12.7,92.8,94.7,Appendicolith Seen,Appendicitis,1
+37,Male,25.0,0,31,0,RLQ,0,0,37.4,0,0,0,0,9.4,81.4,79.9,Enlarged (>6mm),Appendicitis,1
+28,Female,19.6,0,14,0,RLQ,0,0,39.3,0,0,0,0,18.9,89.8,96.7,Periappendiceal Fluid,Appendicitis,1
+30,Male,25.5,0,23,0,RLQ,0,0,37.8,0,0,0,0,11.8,83.0,39.7,Target Sign,Appendicitis,1
+44,Male,23.0,0,30,0,RLQ,0,0,38.0,0,0,0,0,10.2,84.7,40.4,Target Sign,Appendicitis,1
+32,Male,31.8,0,22,0,RLQ,0,0,36.7,0,0,0,0,16.6,83.2,35.8,Appendicolith Seen,Appendicitis,1
+19,Male,23.4,0,27,0,RLQ,0,0,38.0,0,0,0,0,7.9,49.0,16.3,Normal,Other (Gastroenteritis),0
+16,Male,26.5,0,40,0,Generalized,0,0,37.9,0,0,0,0,8.2,88.5,51.3,Target Sign,Appendicitis,1
+32,Male,23.2,0,26,0,Epigastric,0,0,37.8,0,0,0,0,10.2,63.8,25.3,Normal,Other (Kidney Stones),0
+28,Female,26.6,0,64,0,RUQ,0,0,38.0,0,0,0,0,14.2,91.8,59.3,Appendicolith Seen,Appendicitis,1
+56,Male,21.9,0,83,0,RLQ,0,0,38.1,0,0,0,0,14.9,67.5,50.7,Target Sign,Appendicitis,1
+30,Female,25.0,0,43,0,RLQ,0,0,37.6,0,0,0,0,13.8,92.7,24.2,Appendicolith Seen,Appendicitis,1
+22,Male,22.2,0,8,0,RLQ,0,0,38.3,0,0,0,0,9.8,79.9,17.1,Appendicolith Seen,Appendicitis,1
+40,Male,28.2,0,2,0,RLQ,0,0,36.5,0,0,0,0,4.0,58.6,8.8,Normal,Other (Gastroenteritis),0
+37,Male,22.1,0,42,0,RLQ,0,0,37.5,0,0,0,0,12.7,73.1,124.7,Target Sign,Appendicitis,1
+28,Female,28.7,0,74,0,RLQ,0,0,38.1,0,0,0,0,17.8,74.6,84.9,Target Sign,Appendicitis,1
+21,Male,26.2,0,17,0,Epigastric,0,0,37.0,0,0,0,0,14.6,64.0,8.3,Normal,Other (UTI),0
+15,Female,32.5,0,9,0,RLQ,0,0,37.0,0,0,0,0,15.5,88.7,20.8,Target Sign,Appendicitis,1
+18,Female,19.4,0,28,0,RLQ,0,0,37.9,0,0,0,0,5.6,82.0,72.3,Enlarged (>6mm),Appendicitis,1
+15,Male,26.3,0,17,0,RLQ,0,0,38.6,0,0,0,0,10.6,84.9,65.4,Enlarged (>6mm),Appendicitis,1
+36,Male,22.4,0,22,0,Generalized,0,0,37.5,0,0,0,0,10.6,63.8,35.7,Normal,Other (Kidney Stones),0
+22,Male,24.2,0,14,0,Epigastric,0,0,37.1,0,0,0,0,10.4,67.0,4.5,Other Mild Inflammation,Other (Mesenteric Adenitis),0
+59,Male,18.4,0,22,0,RLQ,0,0,37.9,0,0,0,0,14.7,72.4,53.0,Enlarged (>6mm),Appendicitis,1
+28,Male,19.5,0,33,0,RLQ,0,0,37.6,0,0,0,0,22.1,80.7,203.9,Target Sign,Appendicitis,1
+30,Female,21.3,0,40,0,Periumbilical,0,0,38.4,0,0,0,0,11.6,85.6,33.7,Enlarged (>6mm),Appendicitis,1
+63,Male,21.3,0,28,0,Periumbilical,0,0,37.8,0,0,0,0,13.5,85.9,95.8,Enlarged (>6mm),Appendicitis,1
+26,Male,25.7,0,34,0,RLQ,0,0,38.1,0,0,0,0,13.0,86.0,25.6,Enlarged (>6mm),Appendicitis,1
+15,Female,27.9,0,21,0,RLQ,0,0,38.1,0,0,0,0,13.6,78.6,58.2,Periappendiceal Fluid,Appendicitis,1
+5,Female,21.2,0,12,0,Pelvic,0,0,37.1,0,0,0,0,11.5,65.4,23.8,Ovarian Cyst,Other (Ovarian Cyst Rupture),0
+32,Male,26.9,0,39,0,Generalized,0,0,38.3,0,0,0,0,18.8,96.7,58.7,Enlarged (>6mm),Appendicitis,1
+19,Female,27.0,0,16,0,RLQ,0,0,37.9,0,0,0,0,17.4,80.1,48.7,Periappendiceal Fluid,Appendicitis,1
+39,Female,29.7,0,58,0,RLQ,0,0,38.7,0,0,0,0,12.1,98.0,66.6,Enlarged (>6mm),Appendicitis,1
+33,Female,25.2,0,50,0,RLQ,0,0,38.5,0,0,0,0,15.0,78.9,43.6,Periappendiceal Fluid,Appendicitis,1
+35,Male,22.5,0,22,0,RLQ,0,0,38.2,0,0,0,0,14.1,89.6,34.6,Enlarged (>6mm),Appendicitis,1
+16,Male,24.2,0,37,0,RLQ,0,0,37.7,0,0,0,0,8.0,62.1,1.5,Other Mild Inflammation,Other (Mesenteric Adenitis),0
+13,Male,25.1,0,8,0,RLQ,0,0,37.9,0,0,0,0,16.5,70.0,15.0,Non-visualized,Appendicitis,1
+22,Female,28.6,0,45,0,RLQ,0,0,38.1,0,0,0,0,20.1,74.5,63.1,Target Sign,Appendicitis,1
+5,Male,28.4,0,26,0,RLQ,0,0,38.0,0,0,0,0,12.3,87.7,72.0,Appendicolith Seen,Appendicitis,1
+52,Female,29.1,0,30,0,RLQ,0,0,37.6,0,0,0,0,12.5,83.5,40.9,Normal,Other (Gastroenteritis),0
+18,Female,23.9,0,11,0,RLQ,0,0,36.9,0,0,0,0,13.6,62.6,22.4,Ovarian Cyst,Other (Gastroenteritis),0
+43,Male,24.5,0,31,0,RLQ,0,0,37.5,0,0,0,0,9.7,90.2,33.5,Enlarged (>6mm),Appendicitis,1
+15,Female,21.0,0,21,0,RLQ,0,0,38.4,0,0,0,0,9.3,79.4,169.6,Periappendiceal Fluid,Appendicitis,1
+31,Female,23.8,0,20,0,RLQ,0,0,39.2,0,0,0,0,13.5,76.7,47.6,Target Sign,Appendicitis,1
+40,Female,22.0,0,27,0,RLQ,0,0,37.7,0,0,0,0,14.0,90.5,14.5,Enlarged (>6mm),Appendicitis,1
+36,Male,26.4,0,22,0,RLQ,0,0,38.2,0,0,0,0,12.8,87.5,123.3,Appendicolith Seen,Appendicitis,1
+51,Female,28.8,0,13,0,RLQ,0,0,36.6,0,0,0,0,12.6,64.9,8.5,Ovarian Cyst,Other (Ectopic Pregnancy (if pregnant)),0
+14,Male,28.1,0,5,0,RLQ,0,0,38.4,0,0,0,0,12.6,87.7,30.4,Non-visualized,Appendicitis,1
+35,Female,20.0,0,13,0,Pelvic,0,0,37.3,0,0,0,0,7.6,70.1,9.3,Normal,Other (Ovarian Cyst Rupture),0
+30,Female,19.1,0,53,0,RLQ,0,0,39.5,0,0,0,0,16.8,89.4,68.0,Enlarged (>6mm),Appendicitis,1
+37,Male,25.8,0,51,0,RLQ,0,0,37.8,0,0,0,0,12.7,79.4,145.9,Non-visualized,Appendicitis,1
+13,Female,23.7,0,32,0,RLQ,0,0,38.4,0,0,0,0,15.1,77.9,37.5,Appendicolith Seen,Appendicitis,1
+42,Female,26.9,0,52,0,Periumbilical,0,0,39.1,0,0,0,0,17.7,80.6,130.5,Appendicolith Seen,Appendicitis,1
+22,Male,24.9,0,42,0,LLQ,0,0,36.5,0,0,0,0,6.2,55.2,37.6,Normal,Other (UTI),0
+14,Female,18.8,0,24,0,Periumbilical,0,0,36.5,0,0,0,0,16.5,79.2,47.5,Appendicolith Seen,Appendicitis,1
+33,Male,24.1,0,42,0,RLQ,0,0,36.7,0,0,0,0,14.8,85.9,50.5,Enlarged (>6mm),Appendicitis,1
+19,Female,25.3,0,13,0,RLQ,0,0,37.7,0,0,0,0,10.8,78.6,4.1,Enlarged (>6mm),Appendicitis,1
+28,Female,21.4,0,28,0,RLQ,0,0,38.3,0,0,0,0,17.5,86.9,32.0,Periappendiceal Fluid,Appendicitis,1
+24,Male,25.1,0,10,0,RLQ,0,0,37.5,0,0,0,0,8.7,77.2,22.3,Normal,Other (Kidney Stones),0
+20,Female,26.6,0,23,0,Pelvic,0,0,37.3,0,0,0,0,4.4,57.0,2.8,Normal,Other (PID),0
+15,Female,16.4,0,58,0,RLQ,0,0,38.0,0,0,0,0,16.0,91.9,73.8,Appendicolith Seen,Appendicitis,1
+5,Female,24.4,0,24,0,RLQ,0,0,37.1,0,0,0,0,14.0,69.3,57.3,Appendicolith Seen,Appendicitis,1
+20,Male,24.9,0,14,0,RLQ,0,0,38.3,0,0,0,0,15.5,83.1,32.4,Enlarged (>6mm),Appendicitis,1
+12,Female,22.3,0,55,0,Pelvic,0,0,36.6,0,0,0,0,4.4,71.6,3.4,Other Mild Inflammation,Other (Gastroenteritis),0
+29,Male,24.8,0,89,0,RLQ,0,0,38.9,0,0,0,0,13.7,83.0,23.9,Enlarged (>6mm),Appendicitis,1
+26,Female,20.3,0,38,0,Periumbilical,0,0,38.2,0,0,0,0,13.4,83.3,149.2,Non-visualized,Appendicitis,1
+41,Male,25.0,0,24,0,RLQ,0,0,38.3,0,0,0,0,15.3,89.5,34.9,Appendicolith Seen,Appendicitis,1
+5,Female,16.0,0,30,0,RLQ,0,0,37.6,0,0,0,0,12.1,82.1,8.1,Target Sign,Appendicitis,1
+5,Female,27.6,0,21,0,RLQ,0,0,38.2,0,0,0,0,14.0,85.7,29.0,Target Sign,Appendicitis,1
+61,Female,23.9,0,17,0,RLQ,0,0,37.5,0,0,0,0,13.2,79.2,15.7,Appendicolith Seen,Appendicitis,1
+42,Male,23.9,0,16,0,RLQ,0,0,38.5,0,0,0,0,14.6,82.2,50.6,Periappendiceal Fluid,Appendicitis,1
+49,Female,21.7,0,50,0,RLQ,0,0,37.8,0,0,0,0,18.0,74.9,13.1,Appendicolith Seen,Appendicitis,1
+50,Female,16.5,0,7,0,RLQ,0,0,38.4,0,0,0,0,10.6,83.1,10.6,Enlarged (>6mm),Appendicitis,1
+8,Male,24.8,0,24,0,Generalized,0,0,38.3,0,0,0,0,18.1,77.9,67.1,Periappendiceal Fluid,Appendicitis,1
+34,Female,23.0,0,21,0,RLQ,0,0,37.4,0,0,0,0,12.5,75.9,131.2,Appendicolith Seen,Appendicitis,1
+16,Male,18.8,0,20,0,RLQ,0,0,38.2,0,0,0,0,13.3,82.1,60.2,Target Sign,Appendicitis,1
+20,Female,33.0,0,22,0,RLQ,0,0,37.4,0,0,0,0,14.7,80.2,104.4,Periappendiceal Fluid,Appendicitis,1
+5,Female,23.8,0,11,0,RLQ,0,0,38.7,0,0,0,0,8.6,86.3,17.1,Enlarged (>6mm),Appendicitis,1
+14,Male,25.3,0,50,0,RLQ,0,0,38.5,0,0,0,0,13.8,79.8,33.5,Enlarged (>6mm),Appendicitis,1
+24,Female,16.1,0,9,0,RLQ,0,0,38.8,0,0,0,0,15.6,82.0,129.2,Periappendiceal Fluid,Appendicitis,1
+36,Male,19.8,0,26,0,RLQ,0,0,38.2,0,0,0,0,13.3,77.7,20.1,Appendicolith Seen,Appendicitis,1
+13,Female,27.6,0,10,0,RLQ,0,0,38.5,0,0,0,0,18.6,70.5,24.6,Non-visualized,Appendicitis,1
+19,Female,25.1,0,11,0,RLQ,0,0,38.9,0,0,0,0,13.7,93.3,37.2,Target Sign,Appendicitis,1
+25,Female,24.3,0,15,0,RLQ,0,0,36.6,0,0,0,0,11.6,72.7,45.2,Normal,Other (PID),0
+18,Male,29.7,0,10,0,Periumbilical,0,0,38.0,0,0,0,0,19.5,82.5,26.9,Enlarged (>6mm),Appendicitis,1
+55,Male,24.0,0,30,0,RLQ,0,0,37.7,0,0,0,0,14.1,77.8,7.1,Enlarged (>6mm),Appendicitis,1
+14,Female,21.6,0,23,0,RLQ,0,0,38.7,0,0,0,0,14.0,87.2,32.4,Target Sign,Appendicitis,1
+28,Female,22.3,0,8,0,RLQ,0,0,36.5,0,0,0,0,11.2,61.7,7.4,Normal,Other (Ovarian Cyst Rupture),0
+42,Female,25.8,0,54,0,Pelvic,0,0,36.5,0,0,0,0,5.9,59.8,9.8,Normal,Other (UTI),0
+20,Female,23.4,0,31,0,RLQ,0,0,38.1,0,0,0,0,12.8,89.9,73.6,Appendicolith Seen,Appendicitis,1
+5,Female,27.9,0,14,0,RLQ,0,0,38.2,0,0,0,0,14.9,71.7,57.9,Non-visualized,Appendicitis,1
+10,Female,23.5,0,15,0,RLQ,0,0,38.4,0,0,0,0,9.0,85.6,56.5,Enlarged (>6mm),Appendicitis,1
+37,Male,17.0,0,19,0,RLQ,0,0,38.6,0,0,0,0,10.0,81.0,45.2,Enlarged (>6mm),Appendicitis,1
+19,Male,19.3,0,16,0,RLQ,0,0,38.3,0,0,0,0,17.0,86.7,28.8,Target Sign,Appendicitis,1
+15,Female,23.1,0,5,0,RLQ,0,0,37.4,0,0,0,0,4.4,61.1,14.3,Non-visualized,Other (Ovarian Cyst Rupture),0
+14,Male,29.1,0,46,0,RLQ,0,0,38.5,0,0,0,0,18.3,81.1,26.6,Non-visualized,Appendicitis,1
+37,Male,26.0,0,42,0,Periumbilical,0,0,37.5,0,0,0,0,10.2,98.0,64.4,Enlarged (>6mm),Appendicitis,1
+41,Male,25.7,0,96,0,RLQ,0,0,37.5,0,0,0,0,14.9,70.7,111.0,Enlarged (>6mm),Appendicitis,1
+38,Male,23.7,0,43,0,RLQ,0,0,37.3,0,0,0,0,16.5,80.3,92.9,Periappendiceal Fluid,Appendicitis,1
+19,Male,29.3,0,21,0,RLQ,0,0,38.6,0,0,0,0,12.6,83.2,14.4,Enlarged (>6mm),Appendicitis,1
+39,Female,24.0,0,2,0,RLQ,0,0,38.9,0,0,0,0,11.4,88.1,32.8,Appendicolith Seen,Appendicitis,1
+15,Female,25.7,0,51,0,Periumbilical,0,0,37.3,0,0,0,0,11.0,79.7,37.3,Appendicolith Seen,Appendicitis,1
+50,Male,22.8,0,61,0,RLQ,0,0,38.4,0,0,0,0,17.3,81.9,95.0,Appendicolith Seen,Appendicitis,1
+38,Male,16.0,0,15,0,RLQ,0,0,38.0,0,0,0,0,13.7,84.1,15.4,Enlarged (>6mm),Appendicitis,1
+17,Female,30.7,0,25,0,RLQ,0,0,38.5,0,0,0,0,15.7,81.4,23.1,Enlarged (>6mm),Appendicitis,1
+10,Male,28.2,0,37,0,RLQ,0,0,38.1,0,0,0,0,19.0,87.3,57.1,Target Sign,Appendicitis,1
+31,Female,17.7,0,18,0,RLQ,0,0,37.8,0,0,0,0,14.3,82.6,16.4,Enlarged (>6mm),Appendicitis,1
+22,Female,26.8,0,35,0,RLQ,0,0,39.2,0,0,0,0,13.0,92.3,52.9,Periappendiceal Fluid,Appendicitis,1
+14,Female,24.1,0,11,0,RLQ,0,0,36.9,0,0,0,0,9.7,62.9,32.6,Other Mild Inflammation,Other (PID),0
+25,Male,25.0,0,52,0,Generalized,0,0,36.5,0,0,0,0,5.6,78.3,6.1,Other Mild Inflammation,Other (Mesenteric Adenitis),0
+36,Female,26.0,0,49,0,RLQ,0,0,39.9,0,0,0,0,17.8,86.0,13.6,Periappendiceal Fluid,Appendicitis,1
+21,Female,35.4,0,26,0,Periumbilical,0,0,37.7,0,0,0,0,12.5,77.9,45.1,Enlarged (>6mm),Appendicitis,1
+28,Male,28.4,0,53,0,Periumbilical,0,0,37.5,0,0,0,0,12.7,77.4,30.6,Periappendiceal Fluid,Appendicitis,1
+46,Female,16.0,0,27,0,Pelvic,0,0,37.5,0,0,0,0,7.9,58.6,32.5,Non-visualized,Other (Gastroenteritis),0
+28,Male,21.2,0,15,0,Periumbilical,0,0,38.0,0,0,0,0,19.5,80.1,33.2,Periappendiceal Fluid,Appendicitis,1
+35,Female,20.7,0,33,0,RLQ,0,0,38.9,0,0,0,0,15.1,95.2,68.2,Non-visualized,Appendicitis,1
+22,Female,26.1,0,39,0,RLQ,0,0,38.7,0,0,0,0,10.2,85.5,12.9,Target Sign,Appendicitis,1
+33,Female,23.5,0,29,0,Periumbilical,0,0,38.2,0,0,0,0,12.3,68.9,99.7,Enlarged (>6mm),Appendicitis,1
+44,Male,23.6,0,21,0,RLQ,0,0,36.9,0,0,0,0,19.2,70.0,39.8,Enlarged (>6mm),Appendicitis,1
+29,Male,23.0,0,71,0,LLQ,0,0,36.7,0,0,0,0,9.9,73.7,16.0,Other Mild Inflammation,Other (Gastroenteritis),0
+27,Male,22.1,0,34,0,RLQ,0,0,38.2,0,0,0,0,22.3,81.5,36.4,Periappendiceal Fluid,Appendicitis,1
+23,Female,32.7,0,47,0,LLQ,0,0,36.5,0,0,0,0,6.9,68.5,34.8,Ovarian Cyst,Other (UTI),0
+25,Female,24.1,0,30,0,RLQ,0,0,37.4,0,0,0,0,14.8,80.6,17.6,Enlarged (>6mm),Appendicitis,1
+12,Male,22.7,0,5,0,RLQ,0,0,39.3,0,0,0,0,11.8,88.2,151.3,Enlarged (>6mm),Appendicitis,1
+32,Female,24.7,0,5,0,RLQ,0,0,38.2,0,0,0,0,6.1,80.4,31.2,Enlarged (>6mm),Appendicitis,1
+33,Male,31.3,0,15,0,Periumbilical,0,0,38.8,0,0,0,0,13.5,76.0,147.7,Enlarged (>6mm),Appendicitis,1
+15,Female,28.5,0,96,0,RLQ,0,0,36.5,0,0,0,0,16.4,80.9,35.9,Non-visualized,Appendicitis,1
+32,Male,29.6,0,49,0,RLQ,0,0,38.1,0,0,0,0,11.3,77.1,8.6,Target Sign,Appendicitis,1
+34,Male,22.1,0,48,0,RLQ,0,0,37.7,0,0,0,0,16.2,84.1,107.6,Target Sign,Appendicitis,1
+18,Male,19.0,0,14,0,RLQ,0,0,37.2,0,0,0,0,18.1,85.5,58.1,Non-visualized,Appendicitis,1
+20,Male,18.3,0,26,0,RLQ,0,0,37.9,0,0,0,0,13.8,77.1,250.0,Enlarged (>6mm),Appendicitis,1
+41,Female,28.0,0,39,0,RLQ,0,0,39.0,0,0,0,0,15.3,74.7,87.4,Enlarged (>6mm),Appendicitis,1
+23,Male,20.7,0,38,0,RLQ,0,0,36.8,0,0,0,0,14.2,82.9,7.0,Target Sign,Appendicitis,1
+5,Male,21.2,0,24,0,RLQ,0,0,37.0,0,0,0,0,8.8,65.2,28.8,Non-visualized,Other (UTI),0
+24,Male,29.7,0,12,0,RLQ,0,0,38.6,0,0,0,0,21.0,83.3,98.2,Enlarged (>6mm),Appendicitis,1
+5,Female,17.6,0,10,0,RLQ,0,0,37.9,0,0,0,0,14.2,82.0,74.1,Enlarged (>6mm),Appendicitis,1
+26,Male,21.0,0,15,0,Periumbilical,0,0,37.7,0,0,0,0,14.7,83.4,35.7,Enlarged (>6mm),Appendicitis,1
+14,Female,23.9,0,19,0,RLQ,0,0,37.9,0,0,0,0,11.8,79.9,79.2,Non-visualized,Appendicitis,1
+5,Male,26.4,0,30,0,RLQ,0,0,37.2,0,0,0,0,18.6,78.1,28.0,Periappendiceal Fluid,Appendicitis,1
+44,Male,30.8,0,24,0,Generalized,0,0,38.2,0,0,0,0,18.7,86.8,70.5,Target Sign,Appendicitis,1
+27,Female,24.8,0,26,0,RLQ,0,0,37.5,0,0,0,0,13.4,97.4,192.0,Target Sign,Appendicitis,1
+5,Female,25.1,0,35,0,RLQ,0,0,38.5,0,0,0,0,14.3,78.0,72.7,Periappendiceal Fluid,Appendicitis,1
+25,Female,33.4,0,12,0,Periumbilical,0,0,37.6,0,0,0,0,17.0,84.0,44.3,Target Sign,Appendicitis,1
+18,Male,18.9,0,34,0,RLQ,0,0,38.1,0,0,0,0,21.3,90.2,197.3,Target Sign,Appendicitis,1
+11,Female,29.6,0,78,0,RLQ,0,0,38.7,0,0,0,0,10.8,76.8,77.3,Target Sign,Appendicitis,1
+6,Male,23.4,0,5,0,RLQ,0,0,37.1,0,0,0,0,15.7,88.5,18.6,Target Sign,Appendicitis,1
+11,Female,27.6,0,17,0,RLQ,0,0,38.2,0,0,0,0,19.0,74.0,119.2,Enlarged (>6mm),Appendicitis,1
+20,Female,19.5,0,16,0,RLQ,0,0,38.4,0,0,0,0,18.7,87.8,124.1,Target Sign,Appendicitis,1
+13,Male,27.1,0,36,0,RLQ,0,0,39.1,0,0,0,0,10.0,82.7,36.7,Appendicolith Seen,Appendicitis,1
+17,Female,23.5,0,41,0,RLQ,0,0,36.8,0,0,0,0,10.4,73.0,13.7,Normal,Other (UTI),0
+43,Male,23.3,0,35,0,RLQ,0,0,37.3,0,0,0,0,16.1,88.2,25.0,Target Sign,Appendicitis,1
+34,Male,24.4,0,16,0,Epigastric,0,0,36.9,0,0,0,0,9.3,64.4,2.8,Normal,Other (Kidney Stones),0
+11,Female,23.2,0,39,0,RLQ,0,0,37.0,0,0,0,0,17.4,92.0,65.5,Target Sign,Appendicitis,1
+29,Female,26.4,0,82,0,RLQ,0,0,37.0,0,0,0,0,20.9,83.9,175.5,Target Sign,Appendicitis,1
+35,Female,25.9,0,9,0,RLQ,0,0,37.3,0,0,0,0,12.2,80.0,62.3,Periappendiceal Fluid,Appendicitis,1
+26,Male,25.6,0,47,0,RLQ,0,0,37.6,0,0,0,0,19.0,83.9,24.2,Target Sign,Appendicitis,1
+22,Female,29.7,0,10,0,RLQ,0,0,38.5,0,0,0,0,17.2,97.0,32.2,Non-visualized,Appendicitis,1
+38,Male,23.2,0,55,0,RLQ,0,0,38.3,0,0,0,0,9.9,83.1,14.1,Non-visualized,Appendicitis,1
+25,Female,16.9,0,21,0,RLQ,0,0,37.6,0,0,0,0,12.4,76.1,43.5,Enlarged (>6mm),Appendicitis,1
+27,Female,29.0,0,21,0,Generalized,0,0,37.8,0,0,0,0,6.1,75.3,3.6,Normal,Other (Ovarian Cyst Rupture),0
+30,Male,22.0,0,13,0,RLQ,0,0,37.5,0,0,0,0,15.3,81.0,23.3,Target Sign,Appendicitis,1
+5,Male,17.0,0,30,0,RLQ,0,0,39.5,0,0,0,0,12.0,86.0,34.1,Enlarged (>6mm),Appendicitis,1
+18,Female,26.8,0,31,0,RLQ,0,0,37.8,0,0,0,0,19.3,89.2,31.7,Target Sign,Appendicitis,1
+33,Male,23.8,0,16,0,RLQ,0,0,37.2,0,0,0,0,7.5,65.3,12.1,Normal,Other (Gastroenteritis),0
+9,Male,19.8,0,4,0,RLQ,0,0,38.3,0,0,0,0,13.5,78.1,24.5,Enlarged (>6mm),Appendicitis,1
+19,Male,29.1,0,19,0,Epigastric,0,0,36.6,0,0,0,0,8.1,68.1,16.4,Ovarian Cyst,Other (Gastroenteritis),0
+47,Male,16.8,0,22,0,RLQ,0,0,36.8,0,0,0,0,19.7,88.8,51.0,Non-visualized,Appendicitis,1
+5,Male,25.2,0,39,0,RLQ,0,0,36.5,0,0,0,0,11.6,60.0,2.6,Other Mild Inflammation,Other (Gastroenteritis),0
+23,Male,22.0,0,13,0,RLQ,0,0,38.6,0,0,0,0,12.2,89.3,14.2,Non-visualized,Appendicitis,1
+33,Female,27.0,0,15,0,Periumbilical,0,0,37.8,0,0,0,0,17.3,82.7,78.9,Appendicolith Seen,Appendicitis,1
+5,Male,23.3,0,16,0,RLQ,0,0,37.9,0,0,0,0,15.1,73.0,34.0,Appendicolith Seen,Appendicitis,1
+5,Male,19.6,0,27,0,RLQ,0,0,38.4,0,0,0,0,11.7,75.4,78.4,Periappendiceal Fluid,Appendicitis,1
+10,Male,20.9,0,35,0,RLQ,0,0,38.2,0,0,0,0,16.2,90.4,60.0,Periappendiceal Fluid,Appendicitis,1
+10,Female,16.0,0,17,0,Pelvic,0,0,38.0,0,0,0,0,12.5,64.0,16.8,Normal,Other (Gastroenteritis),0
+22,Female,24.4,0,36,0,RLQ,0,0,39.7,0,0,0,0,16.8,79.9,45.1,Periappendiceal Fluid,Appendicitis,1
+27,Female,21.5,0,45,0,RLQ,0,0,38.0,0,0,0,0,17.7,77.8,53.1,Enlarged (>6mm),Appendicitis,1
+54,Male,25.2,0,21,0,RLQ,0,0,36.9,0,0,0,0,10.1,75.9,9.1,Target Sign,Appendicitis,1
+22,Male,25.6,0,35,0,RLQ,0,0,37.0,0,0,0,0,16.2,89.8,31.7,Periappendiceal Fluid,Appendicitis,1
+5,Female,26.3,0,10,0,Periumbilical,0,0,38.2,0,0,0,0,12.8,83.4,42.1,Appendicolith Seen,Appendicitis,1
+27,Female,20.9,0,4,0,RLQ,0,0,38.0,0,0,0,0,20.6,72.4,52.3,Enlarged (>6mm),Appendicitis,1
+14,Female,26.5,0,17,0,RLQ,0,0,38.0,0,0,0,0,12.6,82.4,85.8,Enlarged (>6mm),Appendicitis,1
+11,Male,30.6,0,8,0,Generalized,0,0,39.0,0,0,0,0,14.1,67.6,113.1,Target Sign,Appendicitis,1
+19,Female,21.3,0,16,0,RLQ,0,0,37.6,0,0,0,0,17.8,78.2,126.9,Enlarged (>6mm),Appendicitis,1
+27,Male,27.8,0,60,0,RLQ,0,0,37.6,0,0,0,0,14.5,90.8,122.9,Enlarged (>6mm),Appendicitis,1
+12,Male,23.3,0,29,0,RLQ,0,0,38.0,0,0,0,0,14.9,75.9,31.4,Target Sign,Appendicitis,1
+11,Male,25.4,0,24,0,RLQ,0,0,37.4,0,0,0,0,15.4,80.6,7.8,Enlarged (>6mm),Appendicitis,1
+17,Male,23.6,0,11,0,Periumbilical,0,0,37.6,0,0,0,0,12.4,81.3,71.5,Appendicolith Seen,Appendicitis,1
+41,Female,18.9,0,10,0,RLQ,0,0,38.2,0,0,0,0,6.7,81.5,32.0,Enlarged (>6mm),Appendicitis,1
+35,Female,27.8,0,10,0,RLQ,0,0,38.6,0,0,0,0,17.4,70.5,72.6,Enlarged (>6mm),Appendicitis,1
+34,Female,27.6,0,69,0,RLQ,0,0,38.5,0,0,0,0,9.6,88.1,39.7,Target Sign,Appendicitis,1
+37,Male,25.8,0,73,0,RLQ,0,0,37.4,0,0,0,0,17.8,93.2,101.4,Enlarged (>6mm),Appendicitis,1
+11,Female,22.4,0,53,0,Generalized,0,0,36.6,0,0,0,0,5.2,59.3,4.3,Normal,Other (Ectopic Pregnancy (if pregnant)),0
+23,Male,24.8,0,34,0,Epigastric,0,0,37.2,0,0,0,0,9.0,58.2,24.2,Ovarian Cyst,Other (UTI),0
+29,Female,27.0,0,21,0,Periumbilical,0,0,38.4,0,0,0,0,14.0,73.5,3.1,Target Sign,Appendicitis,1
+25,Female,20.8,0,6,0,Generalized,0,0,37.6,0,0,0,0,4.2,57.4,5.0,Normal,Other (Ovarian Cyst Rupture),0
+34,Male,17.6,0,52,0,RLQ,0,0,37.9,0,0,0,0,18.0,84.5,77.8,Enlarged (>6mm),Appendicitis,1
+5,Male,29.7,0,47,0,RLQ,0,0,37.9,0,0,0,0,11.6,73.4,163.6,Non-visualized,Appendicitis,1
+33,Female,25.4,0,21,0,Pelvic,0,0,37.7,0,0,0,0,7.7,77.5,15.9,Normal,Other (Ovarian Cyst Rupture),0
+16,Male,22.9,0,23,0,Generalized,0,0,36.7,0,0,0,0,5.3,76.2,20.3,Non-visualized,Other (Kidney Stones),0
+31,Female,23.7,0,25,0,RLQ,0,0,38.3,0,0,0,0,11.7,91.0,29.9,Target Sign,Appendicitis,1
+5,Male,22.9,0,12,0,RLQ,0,0,38.3,0,0,0,0,23.8,80.1,83.5,Appendicolith Seen,Appendicitis,1
+23,Female,20.1,0,17,0,RLQ,0,0,36.5,0,0,0,0,16.9,88.7,40.9,Enlarged (>6mm),Appendicitis,1
+9,Male,22.5,0,27,0,RLQ,0,0,38.0,0,0,0,0,12.8,81.8,53.4,Periappendiceal Fluid,Appendicitis,1
+25,Female,21.1,0,17,0,Periumbilical,0,0,37.9,0,0,0,0,14.6,91.2,41.0,Periappendiceal Fluid,Appendicitis,1
+34,Male,26.2,0,10,0,RLQ,0,0,37.5,0,0,0,0,13.4,86.6,83.6,Enlarged (>6mm),Appendicitis,1
+27,Female,20.0,0,25,0,RLQ,0,0,38.4,0,0,0,0,20.7,70.5,48.2,Enlarged (>6mm),Appendicitis,1
+18,Female,27.1,0,39,0,RLQ,0,0,37.2,0,0,0,0,17.7,88.5,110.7,Periappendiceal Fluid,Appendicitis,1
+7,Female,24.1,0,17,0,Periumbilical,0,0,37.7,0,0,0,0,12.8,82.8,46.1,Target Sign,Appendicitis,1
+33,Female,25.5,0,31,0,Periumbilical,0,0,37.8,0,0,0,0,17.9,82.8,37.4,Target Sign,Appendicitis,1
+40,Male,25.7,0,13,0,RLQ,0,0,37.7,0,0,0,0,14.4,78.6,99.7,Enlarged (>6mm),Appendicitis,1
+10,Male,24.5,0,18,0,RLQ,0,0,37.7,0,0,0,0,4.8,65.0,15.8,Normal,Other (Kidney Stones),0
+13,Female,23.0,0,31,0,RLQ,0,0,37.5,0,0,0,0,11.5,74.9,38.0,Periappendiceal Fluid,Appendicitis,1
+31,Male,25.1,0,13,0,RLQ,0,0,37.3,0,0,0,0,13.9,82.5,97.2,Enlarged (>6mm),Appendicitis,1
+22,Male,27.1,0,4,0,Epigastric,0,0,36.5,0,0,0,0,6.1,50.3,3.7,Normal,Other (Kidney Stones),0
+16,Male,34.6,0,58,0,RLQ,0,0,37.7,0,0,0,0,19.0,84.0,21.7,Enlarged (>6mm),Appendicitis,1
+24,Female,32.0,0,16,0,RLQ,0,0,38.0,0,0,0,0,18.7,71.9,52.6,Enlarged (>6mm),Appendicitis,1
+40,Female,21.7,0,15,0,RLQ,0,0,38.0,0,0,0,0,8.4,71.2,119.2,Enlarged (>6mm),Appendicitis,1
+5,Female,16.0,0,96,0,RLQ,0,0,38.6,0,0,0,0,16.3,76.1,41.8,Enlarged (>6mm),Appendicitis,1
+35,Female,16.8,0,44,0,RLQ,0,0,37.8,0,0,0,0,12.6,86.7,36.4,Target Sign,Appendicitis,1
+27,Male,22.2,0,40,0,RLQ,0,0,37.9,0,0,0,0,11.9,76.6,25.2,Target Sign,Appendicitis,1
+43,Male,30.1,0,15,0,Periumbilical,0,0,37.9,0,0,0,0,18.5,83.6,66.0,Target Sign,Appendicitis,1
+24,Male,22.2,0,40,0,Periumbilical,0,0,37.9,0,0,0,0,15.7,78.2,8.8,Target Sign,Appendicitis,1
+33,Male,27.1,0,46,0,Periumbilical,0,0,37.4,0,0,0,0,15.8,78.3,66.0,Target Sign,Appendicitis,1
+32,Male,27.0,0,17,0,Periumbilical,0,0,36.9,0,0,0,0,14.6,69.8,47.3,Periappendiceal Fluid,Appendicitis,1
+24,Female,27.1,0,71,0,RLQ,0,0,39.7,0,0,0,0,17.0,77.6,113.1,Periappendiceal Fluid,Appendicitis,1
+24,Female,16.1,0,12,0,RLQ,0,0,37.3,0,0,0,0,13.1,72.6,22.6,Appendicolith Seen,Appendicitis,1
+9,Female,28.3,0,6,0,RLQ,0,0,38.0,0,0,0,0,13.3,88.5,143.3,Enlarged (>6mm),Appendicitis,1
+9,Male,25.5,0,21,0,RLQ,0,0,38.2,0,0,0,0,7.9,74.9,17.3,Normal,Other (Gastroenteritis),0
+45,Male,32.0,0,10,0,RLQ,0,0,37.1,0,0,0,0,15.4,87.6,61.8,Enlarged (>6mm),Appendicitis,1
+17,Male,30.1,0,4,0,Epigastric,0,0,37.1,0,0,0,0,10.2,74.3,9.1,Ovarian Cyst,Other (UTI),0
+60,Female,28.0,0,6,0,RLQ,0,0,38.6,0,0,0,0,16.0,67.2,66.3,Target Sign,Appendicitis,1
+31,Male,22.2,0,18,0,RLQ,0,0,37.8,0,0,0,0,16.4,75.4,80.7,Periappendiceal Fluid,Appendicitis,1
+12,Female,25.3,0,30,0,RLQ,0,0,37.9,0,0,0,0,11.6,78.6,66.9,Enlarged (>6mm),Appendicitis,1
+38,Male,19.1,0,11,0,Periumbilical,0,0,37.7,0,0,0,0,12.0,83.4,97.3,Enlarged (>6mm),Appendicitis,1
+31,Male,20.0,0,58,0,Generalized,0,0,38.6,0,0,0,0,12.2,73.4,34.4,Enlarged (>6mm),Appendicitis,1
+41,Male,25.6,0,91,0,Generalized,0,0,38.2,0,0,0,0,9.9,52.8,34.1,Normal,Other (Gastroenteritis),0
+29,Female,25.3,0,12,0,Periumbilical,0,0,37.8,0,0,0,0,16.3,90.3,35.5,Appendicolith Seen,Appendicitis,1
+41,Male,21.0,0,11,0,Periumbilical,0,0,38.6,0,0,0,0,17.2,81.7,95.3,Target Sign,Appendicitis,1
+5,Male,19.7,0,14,0,RLQ,0,0,38.2,0,0,0,0,14.9,85.4,33.7,Enlarged (>6mm),Appendicitis,1
+30,Female,20.1,0,25,0,LLQ,0,0,38.6,0,0,0,0,7.6,62.5,22.6,Normal,Other (UTI),0
+55,Female,23.2,0,9,0,RLQ,0,0,38.6,0,0,0,0,17.6,77.0,162.8,Periappendiceal Fluid,Appendicitis,1
+5,Female,21.3,0,5,0,Periumbilical,0,0,36.9,0,0,0,0,16.7,77.5,134.0,Enlarged (>6mm),Appendicitis,1
+34,Female,33.9,0,33,0,RLQ,0,0,38.2,0,0,0,0,11.7,55.3,16.9,Normal,Other (Gastroenteritis),0
+36,Male,24.5,0,22,0,RLQ,0,0,38.4,0,0,0,0,17.3,89.1,127.8,Appendicolith Seen,Appendicitis,1
+11,Male,25.6,0,85,0,Generalized,0,0,38.6,0,0,0,0,17.2,81.3,71.1,Enlarged (>6mm),Appendicitis,1
+28,Male,21.6,0,30,0,LLQ,0,0,37.2,0,0,0,0,5.5,54.1,27.5,Normal,Other (Gastroenteritis),0
+24,Female,28.1,0,37,0,RLQ,0,0,37.9,0,0,0,0,12.7,76.3,90.5,Target Sign,Appendicitis,1
+43,Male,26.4,0,37,0,RLQ,0,0,37.8,0,0,0,0,12.7,73.8,16.7,Appendicolith Seen,Appendicitis,1
+42,Male,26.0,0,33,0,RLQ,0,0,38.3,0,0,0,0,10.6,90.7,116.6,Enlarged (>6mm),Appendicitis,1
+7,Female,27.0,0,27,0,RLQ,0,0,37.8,0,0,0,0,12.4,70.8,73.3,Target Sign,Appendicitis,1
+13,Female,24.8,0,27,0,RLQ,0,0,38.1,0,0,0,0,14.1,82.1,18.0,Enlarged (>6mm),Appendicitis,1
+25,Male,22.5,0,29,0,RLQ,0,0,37.9,0,0,0,0,12.4,85.4,58.1,Enlarged (>6mm),Appendicitis,1
+51,Female,17.8,0,22,0,RLQ,0,0,37.2,0,0,0,0,9.7,72.8,32.2,Other Mild Inflammation,Other (Ovarian Cyst Rupture),0
+36,Male,30.3,0,54,0,Epigastric,0,0,37.7,0,0,0,0,7.1,69.2,3.3,Normal,Other (UTI),0
+26,Female,24.3,0,23,0,RLQ,0,0,36.5,0,0,0,0,4.1,60.6,38.8,Normal,Other (Gastroenteritis),0
+18,Male,29.3,0,17,0,RLQ,0,0,36.8,0,0,0,0,10.5,64.5,27.2,Normal,Other (Mesenteric Adenitis),0
+33,Female,24.8,0,11,0,RLQ,0,0,38.5,0,0,0,0,7.4,73.9,20.2,Target Sign,Appendicitis,1
+18,Female,16.0,0,5,0,RLQ,0,0,38.0,0,0,0,0,15.9,82.3,64.8,Target Sign,Appendicitis,1
+9,Male,20.4,0,32,0,Epigastric,0,0,36.9,0,0,0,0,12.9,62.8,27.1,Other Mild Inflammation,Other (Kidney Stones),0
+50,Male,20.6,0,19,0,RLQ,0,0,37.6,0,0,0,0,12.2,77.2,15.8,Enlarged (>6mm),Appendicitis,1
+13,Female,20.3,0,17,0,RLQ,0,0,38.3,0,0,0,0,17.8,89.6,30.5,Appendicolith Seen,Appendicitis,1
+6,Female,24.3,0,23,0,RLQ,0,0,36.6,0,0,0,0,11.4,77.1,43.0,Target Sign,Appendicitis,1
+19,Female,18.5,0,19,0,RLQ,0,0,38.3,0,0,0,0,14.0,82.4,15.9,Enlarged (>6mm),Appendicitis,1
+29,Female,24.0,0,4,0,Periumbilical,0,0,38.1,0,0,0,0,20.2,86.5,30.2,Target Sign,Appendicitis,1
+32,Male,22.6,0,38,0,Periumbilical,0,0,36.5,0,0,0,0,7.5,81.2,19.4,Enlarged (>6mm),Appendicitis,1
+28,Female,26.5,0,62,0,Periumbilical,0,0,37.9,0,0,0,0,13.5,72.1,6.6,Enlarged (>6mm),Appendicitis,1
+24,Male,24.0,0,5,0,RLQ,0,0,38.5,0,0,0,0,13.6,75.0,77.2,Target Sign,Appendicitis,1
+22,Male,20.4,0,28,0,Epigastric,0,0,37.1,0,0,0,0,5.4,75.0,3.8,Other Mild Inflammation,Other (Mesenteric Adenitis),0
+31,Male,16.9,0,29,0,RLQ,0,0,38.2,0,0,0,0,13.0,92.5,58.7,Appendicolith Seen,Appendicitis,1
+20,Male,19.7,0,48,0,RLQ,0,0,38.3,0,0,0,0,11.5,88.2,179.7,Non-visualized,Appendicitis,1
+22,Male,23.3,0,43,0,RLQ,0,0,38.3,0,0,0,0,14.5,79.1,54.6,Non-visualized,Appendicitis,1
+30,Male,23.6,0,60,0,RLQ,0,0,38.7,0,0,0,0,13.2,84.6,56.8,Appendicolith Seen,Appendicitis,1
+33,Female,27.3,0,46,0,RLQ,0,0,38.1,0,0,0,0,7.7,62.2,24.9,Normal,Other (PID),0
+36,Female,28.1,0,26,0,Periumbilical,0,0,38.0,0,0,0,0,17.2,81.8,30.5,Enlarged (>6mm),Appendicitis,1
+22,Male,31.9,0,11,0,RLQ,0,0,38.2,0,0,0,0,12.9,85.4,56.4,Enlarged (>6mm),Appendicitis,1
+36,Male,26.2,0,8,0,RLQ,0,0,38.8,0,0,0,0,4.0,82.9,107.2,Target Sign,Appendicitis,1
+19,Female,19.5,0,85,0,Generalized,0,0,37.5,0,0,0,0,12.5,64.3,8.6,Non-visualized,Other (Gastroenteritis),0
+52,Male,21.6,0,32,0,RLQ,0,0,39.4,0,0,0,0,20.0,79.7,34.3,Periappendiceal Fluid,Appendicitis,1
+25,Male,27.7,0,47,0,RLQ,0,0,38.3,0,0,0,0,10.3,79.1,13.1,Enlarged (>6mm),Appendicitis,1
+52,Male,26.0,0,15,0,RLQ,0,0,37.4,0,0,0,0,12.7,71.1,58.6,Target Sign,Appendicitis,1
+35,Male,26.0,0,8,0,Periumbilical,0,0,36.6,0,0,0,0,10.2,78.0,48.8,Target Sign,Appendicitis,1
+7,Female,22.0,0,9,0,RLQ,0,0,38.4,0,0,0,0,16.1,80.2,89.4,Enlarged (>6mm),Appendicitis,1
+7,Male,23.3,0,43,0,RLQ,0,0,38.4,0,0,0,0,16.2,82.4,41.6,Target Sign,Appendicitis,1
+23,Male,31.2,0,12,0,RLQ,0,0,37.8,0,0,0,0,14.7,72.4,20.0,Non-visualized,Appendicitis,1
+14,Male,19.5,0,36,0,RLQ,0,0,37.7,0,0,0,0,8.6,79.8,34.6,Periappendiceal Fluid,Appendicitis,1
+23,Female,23.9,0,59,0,RLQ,0,0,37.4,0,0,0,0,18.2,75.4,41.0,Non-visualized,Appendicitis,1
+19,Male,30.1,0,31,0,RLQ,0,0,38.4,0,0,0,0,12.6,80.5,56.5,Enlarged (>6mm),Appendicitis,1
+17,Male,20.6,0,48,0,RLQ,0,0,37.4,0,0,0,0,15.0,85.5,43.6,Enlarged (>6mm),Appendicitis,1
+34,Male,27.6,0,31,0,Epigastric,0,0,37.3,0,0,0,0,8.2,73.1,26.5,Normal,Other (Gastroenteritis),0
+14,Male,24.7,0,29,0,RLQ,0,0,37.4,0,0,0,0,15.2,81.0,38.7,Enlarged (>6mm),Appendicitis,1
+10,Female,20.8,0,18,0,RLQ,0,0,39.0,0,0,0,0,11.3,75.1,35.0,Enlarged (>6mm),Appendicitis,1
+47,Male,30.1,0,29,0,RLQ,0,0,38.2,0,0,0,0,11.6,83.2,9.6,Target Sign,Appendicitis,1
+33,Female,19.8,0,42,0,RLQ,0,0,38.1,0,0,0,0,18.1,74.4,21.7,Periappendiceal Fluid,Appendicitis,1
+32,Female,29.6,0,39,0,RLQ,0,0,38.0,0,0,0,0,10.3,86.0,113.4,Periappendiceal Fluid,Appendicitis,1
+5,Female,26.4,0,31,0,RLQ,0,0,38.7,0,0,0,0,13.6,88.9,40.3,Periappendiceal Fluid,Appendicitis,1
+5,Male,23.2,0,26,0,RLQ,0,0,38.5,0,0,0,0,15.5,87.0,108.3,Enlarged (>6mm),Appendicitis,1
+12,Female,27.6,0,26,0,Pelvic,0,0,37.4,0,0,0,0,8.9,59.7,36.1,Non-visualized,Other (Ovarian Cyst Rupture),0
+16,Female,20.9,0,96,0,RLQ,0,0,37.8,0,0,0,0,16.3,91.6,56.2,Enlarged (>6mm),Appendicitis,1
+5,Female,27.5,0,29,0,Periumbilical,0,0,37.7,0,0,0,0,11.8,76.1,26.8,Target Sign,Appendicitis,1
+19,Female,16.0,0,4,0,Periumbilical,0,0,37.2,0,0,0,0,18.3,86.7,71.0,Target Sign,Appendicitis,1
+25,Male,19.8,0,37,0,RLQ,0,0,37.2,0,0,0,0,16.1,83.0,30.1,Enlarged (>6mm),Appendicitis,1
+36,Male,23.6,0,59,0,RLQ,0,0,39.1,0,0,0,0,14.5,79.4,43.5,Periappendiceal Fluid,Appendicitis,1
+18,Male,26.4,0,8,0,RLQ,0,0,37.8,0,0,0,0,15.2,70.7,49.6,Target Sign,Appendicitis,1
+27,Male,22.8,0,15,0,RLQ,0,0,38.0,0,0,0,0,13.5,82.4,17.5,Target Sign,Appendicitis,1
+33,Female,18.3,0,16,0,RLQ,0,0,38.7,0,0,0,0,10.0,95.3,77.2,Enlarged (>6mm),Appendicitis,1
+14,Male,20.6,0,29,0,RLQ,0,0,37.9,0,0,0,0,13.1,76.0,86.6,Appendicolith Seen,Appendicitis,1
+33,Male,21.1,0,15,0,Generalized,0,0,39.2,0,0,0,0,15.4,92.3,67.2,Enlarged (>6mm),Appendicitis,1
+38,Male,26.1,0,40,0,RLQ,0,0,38.6,0,0,0,0,20.0,85.6,26.5,Appendicolith Seen,Appendicitis,1
+5,Female,26.1,0,8,0,Periumbilical,0,0,38.1,0,0,0,0,14.5,81.6,39.3,Target Sign,Appendicitis,1
+31,Male,23.0,0,36,0,RLQ,0,0,37.7,0,0,0,0,15.8,62.2,55.3,Enlarged (>6mm),Appendicitis,1
+42,Male,19.3,0,37,0,Generalized,0,0,37.2,0,0,0,0,14.3,77.3,26.5,Periappendiceal Fluid,Appendicitis,1
+27,Male,24.1,0,15,0,RLQ,0,0,36.9,0,0,0,0,11.2,77.2,95.4,Enlarged (>6mm),Appendicitis,1
+18,Male,32.6,0,17,0,RLQ,0,0,37.7,0,0,0,0,12.4,75.1,3.0,Non-visualized,Appendicitis,1
+22,Female,26.1,0,8,0,RLQ,0,0,37.9,0,0,0,0,9.2,79.8,10.8,Periappendiceal Fluid,Appendicitis,1
+5,Female,28.1,0,47,0,RLQ,0,0,38.5,0,0,0,0,12.2,84.6,41.8,Enlarged (>6mm),Appendicitis,1
+8,Male,25.2,0,21,0,RLQ,0,0,37.9,0,0,0,0,14.1,76.5,71.4,Target Sign,Appendicitis,1
+13,Female,20.3,0,52,0,RLQ,0,0,38.4,0,0,0,0,12.2,85.5,157.0,Target Sign,Appendicitis,1
+18,Male,23.3,0,29,0,Generalized,0,0,36.7,0,0,0,0,8.0,58.2,12.6,Ovarian Cyst,Other (Gastroenteritis),0
+34,Female,21.7,0,21,0,RLQ,0,0,37.6,0,0,0,0,8.9,75.2,41.7,Normal,Other (PID),0
+38,Female,22.0,0,32,0,Pelvic,0,0,37.4,0,0,0,0,10.1,76.0,36.5,Normal,Other (Gastroenteritis),0
+27,Male,25.2,0,57,0,Periumbilical,0,0,37.8,0,0,0,0,13.5,93.9,15.1,Enlarged (>6mm),Appendicitis,1
+41,Male,22.4,0,21,0,RLQ,0,0,38.7,0,0,0,0,19.2,78.0,92.2,Non-visualized,Appendicitis,1
+35,Male,25.5,0,14,0,RLQ,0,0,38.3,0,0,0,0,15.0,82.1,31.7,Enlarged (>6mm),Appendicitis,1
+45,Male,28.8,0,21,0,RLQ,0,0,37.8,0,0,0,0,15.1,84.9,12.6,Non-visualized,Appendicitis,1
+33,Male,20.8,0,5,0,RLQ,0,0,38.2,0,0,0,0,12.8,77.7,116.2,Enlarged (>6mm),Appendicitis,1
+39,Female,19.1,0,66,0,Periumbilical,0,0,37.2,0,0,0,0,10.5,81.8,34.8,Target Sign,Appendicitis,1
+5,Female,21.5,0,17,0,RLQ,0,0,38.7,0,0,0,0,13.5,86.5,78.7,Appendicolith Seen,Appendicitis,1
+39,Female,24.6,0,19,0,RLQ,0,0,37.7,0,0,0,0,16.6,89.4,88.6,Periappendiceal Fluid,Appendicitis,1
+5,Male,25.9,0,23,0,RLQ,0,0,38.4,0,0,0,0,15.2,80.4,43.0,Enlarged (>6mm),Appendicitis,1
+26,Male,29.5,0,24,0,RLQ,0,0,38.5,0,0,0,0,11.2,87.7,9.3,Target Sign,Appendicitis,1
+44,Male,20.4,0,59,0,Periumbilical,0,0,37.3,0,0,0,0,19.5,66.0,108.3,Appendicolith Seen,Appendicitis,1
+33,Male,22.7,0,33,0,RLQ,0,0,37.0,0,0,0,0,9.6,83.8,24.7,Non-visualized,Appendicitis,1
+26,Male,28.0,0,12,0,RLQ,0,0,37.8,0,0,0,0,20.9,80.4,49.6,Appendicolith Seen,Appendicitis,1
+8,Male,26.7,0,96,0,RLQ,0,0,36.5,0,0,0,0,12.3,93.3,37.9,Target Sign,Appendicitis,1
+39,Female,28.2,0,56,0,RLQ,0,0,38.4,0,0,0,0,16.9,80.2,58.4,Enlarged (>6mm),Appendicitis,1
+24,Male,28.1,0,22,0,RLQ,0,0,38.7,0,0,0,0,12.7,81.6,40.6,Non-visualized,Appendicitis,1
+29,Male,18.8,0,45,0,RLQ,0,0,38.5,0,0,0,0,11.9,85.2,81.6,Appendicolith Seen,Appendicitis,1
+56,Male,26.6,0,38,0,RLQ,0,0,38.7,0,0,0,0,10.6,85.0,31.9,Enlarged (>6mm),Appendicitis,1
+21,Male,19.4,0,38,0,RLQ,0,0,38.3,0,0,0,0,14.1,81.3,20.3,Target Sign,Appendicitis,1
+31,Male,22.3,0,8,0,RLQ,0,0,36.5,0,0,0,0,9.1,73.9,12.0,Non-visualized,Other (Kidney Stones),0
+19,Female,23.7,0,10,0,RLQ,0,0,37.3,0,0,0,0,12.9,90.3,85.5,Enlarged (>6mm),Appendicitis,1
+54,Male,22.8,0,14,0,RLQ,0,0,38.7,0,0,0,0,9.4,77.2,36.2,Enlarged (>6mm),Appendicitis,1
+19,Male,25.6,0,69,0,RLQ,0,0,37.5,0,0,0,0,12.1,79.1,26.7,Enlarged (>6mm),Appendicitis,1
+35,Male,21.6,0,38,0,Periumbilical,0,0,38.0,0,0,0,0,13.0,75.7,31.3,Enlarged (>6mm),Appendicitis,1
+5,Male,23.1,0,18,0,RLQ,0,0,37.1,0,0,0,0,16.9,79.6,69.1,Target Sign,Appendicitis,1
+45,Female,33.2,0,13,0,RLQ,0,0,37.5,0,0,0,0,17.3,85.1,27.5,Target Sign,Appendicitis,1
+46,Female,23.6,0,8,0,RLQ,0,0,37.7,0,0,0,0,7.9,84.2,0.2,Non-visualized,Other (UTI),0
+36,Female,18.2,0,58,0,Pelvic,0,0,37.7,0,0,0,0,5.8,63.8,12.2,Normal,Other (Ectopic Pregnancy (if pregnant)),0
+5,Male,25.3,0,28,0,Periumbilical,0,0,38.2,0,0,0,0,13.5,85.4,53.6,Enlarged (>6mm),Appendicitis,1
+5,Female,22.4,0,11,0,RLQ,0,0,39.0,0,0,0,0,19.0,86.7,31.1,Appendicolith Seen,Appendicitis,1
+16,Female,26.8,0,20,0,RLQ,0,0,38.0,0,0,0,0,17.8,81.9,15.3,Periappendiceal Fluid,Appendicitis,1
+29,Female,30.6,0,56,0,RLQ,0,0,37.4,0,0,0,0,17.2,79.2,51.8,Periappendiceal Fluid,Appendicitis,1
+8,Male,32.4,0,33,0,RLQ,0,0,38.9,0,0,0,0,17.6,83.2,17.6,Enlarged (>6mm),Appendicitis,1
+16,Female,25.9,0,21,0,RLQ,0,0,38.0,0,0,0,0,18.9,83.4,61.4,Non-visualized,Appendicitis,1
+14,Female,20.0,0,12,0,RLQ,0,0,38.5,0,0,0,0,18.0,73.9,105.5,Target Sign,Appendicitis,1
+24,Male,23.9,0,26,0,RLQ,0,0,36.7,0,0,0,0,8.9,72.4,4.0,Normal,Other (Gastroenteritis),0
+39,Male,23.6,0,63,0,RLQ,0,0,39.0,0,0,0,0,15.9,84.4,94.2,Enlarged (>6mm),Appendicitis,1
+6,Male,29.3,0,76,0,RLQ,0,0,38.0,0,0,0,0,11.0,83.8,29.8,Enlarged (>6mm),Appendicitis,1
+19,Male,26.1,0,8,0,RLQ,0,0,38.4,0,0,0,0,10.4,95.7,31.7,Periappendiceal Fluid,Appendicitis,1
+11,Male,24.9,0,19,0,Generalized,0,0,37.8,0,0,0,0,7.9,60.1,5.9,Other Mild Inflammation,Other (Mesenteric Adenitis),0
+21,Female,28.6,0,12,0,RLQ,0,0,37.2,0,0,0,0,11.9,70.4,14.0,Other Mild Inflammation,Other (Mesenteric Adenitis),0
+45,Male,22.6,0,26,0,Epigastric,0,0,37.6,0,0,0,0,8.6,58.5,23.0,Normal,Other (Gastroenteritis),0
+8,Female,23.5,0,22,0,RLQ,0,0,38.9,0,0,0,0,13.9,83.0,22.9,Non-visualized,Appendicitis,1
+22,Female,21.4,0,71,0,RLQ,0,0,37.8,0,0,0,0,5.7,59.1,22.9,Ovarian Cyst,Other (Ovarian Cyst Rupture),0
+30,Male,28.6,0,51,0,RLQ,0,0,38.2,0,0,0,0,13.5,78.0,69.5,Non-visualized,Appendicitis,1
+31,Male,33.9,0,16,0,Periumbilical,0,0,38.0,0,0,0,0,12.2,81.5,61.6,Appendicolith Seen,Appendicitis,1
+56,Female,23.1,0,28,0,RLQ,0,0,38.5,0,0,0,0,16.8,79.0,170.7,Periappendiceal Fluid,Appendicitis,1
+14,Male,26.3,0,14,0,Generalized,0,0,38.7,0,0,0,0,12.5,88.4,50.4,Appendicolith Seen,Appendicitis,1
+30,Female,27.8,0,21,0,Pelvic,0,0,37.3,0,0,0,0,9.0,61.7,2.2,Non-visualized,Other (UTI),0
+11,Female,22.1,0,16,0,RLQ,0,0,37.4,0,0,0,0,13.6,60.5,4.8,Normal,Other (Gastroenteritis),0
+10,Male,22.8,0,9,0,RLQ,0,0,37.9,0,0,0,0,9.6,79.5,58.1,Enlarged (>6mm),Appendicitis,1
+25,Male,23.6,0,26,0,RLQ,0,0,38.2,0,0,0,0,11.9,78.4,32.1,Periappendiceal Fluid,Appendicitis,1
+41,Male,21.1,0,15,0,RLQ,0,0,38.5,0,0,0,0,17.0,76.4,26.1,Appendicolith Seen,Appendicitis,1
+17,Female,25.4,0,36,0,Periumbilical,0,0,37.6,0,0,0,0,16.9,79.6,42.9,Non-visualized,Appendicitis,1
+6,Female,21.1,0,37,0,RLQ,0,0,38.0,0,0,0,0,10.8,81.0,47.1,Enlarged (>6mm),Appendicitis,1
+6,Male,17.7,0,39,0,RLQ,0,0,38.3,0,0,0,0,13.8,73.1,9.0,Appendicolith Seen,Appendicitis,1
+15,Female,27.5,0,51,0,Periumbilical,0,0,38.3,0,0,0,0,13.2,71.6,6.5,Non-visualized,Appendicitis,1
+10,Female,21.9,0,24,0,RLQ,0,0,37.5,0,0,0,0,15.8,84.4,130.6,Enlarged (>6mm),Appendicitis,1
+25,Female,25.1,0,43,0,RLQ,0,0,38.8,0,0,0,0,10.3,79.8,5.8,Enlarged (>6mm),Appendicitis,1
+26,Male,24.5,0,15,0,Periumbilical,0,0,38.4,0,0,0,0,15.6,81.1,90.6,Enlarged (>6mm),Appendicitis,1
+23,Male,18.9,0,20,0,RLQ,0,0,38.0,0,0,0,0,13.3,82.7,42.4,Non-visualized,Appendicitis,1
+22,Male,23.3,0,25,0,Generalized,0,0,37.9,0,0,0,0,8.6,62.0,12.7,Normal,Other (Kidney Stones),0
+14,Female,22.3,0,15,0,Periumbilical,0,0,37.9,0,0,0,0,12.8,72.7,92.2,Appendicolith Seen,Appendicitis,1
+35,Female,31.5,0,16,0,RLQ,0,0,39.1,0,0,0,0,14.1,76.5,101.0,Non-visualized,Appendicitis,1
+44,Male,20.9,0,20,0,RLQ,0,0,39.3,0,0,0,0,10.9,73.7,147.7,Enlarged (>6mm),Appendicitis,1
+5,Male,26.5,0,23,0,LLQ,0,0,37.2,0,0,0,0,15.4,65.8,30.2,Normal,Other (Mesenteric Adenitis),0
+10,Female,23.9,0,25,0,RLQ,0,0,38.4,0,0,0,0,11.6,82.1,25.7,Enlarged (>6mm),Appendicitis,1
+41,Male,22.0,0,17,0,RLQ,0,0,38.4,0,0,0,0,16.6,79.9,17.4,Periappendiceal Fluid,Appendicitis,1
+6,Female,16.0,0,16,0,RLQ,0,0,37.2,0,0,0,0,9.5,86.7,57.4,Appendicolith Seen,Appendicitis,1
+24,Male,25.0,0,20,0,RLQ,0,0,37.7,0,0,0,0,5.0,65.2,54.8,Normal,Other (UTI),0
+37,Male,18.2,0,11,0,RLQ,0,0,38.0,0,0,0,0,14.4,86.7,70.6,Target Sign,Appendicitis,1
+41,Male,24.9,0,21,0,Generalized,0,0,38.7,0,0,0,0,14.5,83.3,78.5,Periappendiceal Fluid,Appendicitis,1
+53,Male,20.0,0,10,0,RLQ,0,0,37.0,0,0,0,0,6.7,65.5,8.9,Ovarian Cyst,Other (Mesenteric Adenitis),0
+34,Male,25.0,0,16,0,Epigastric,0,0,36.9,0,0,0,0,10.5,70.0,32.8,Normal,Other (Mesenteric Adenitis),0
+37,Male,27.8,0,16,0,RLQ,0,0,37.9,0,0,0,0,12.9,83.5,44.1,Enlarged (>6mm),Appendicitis,1
+52,Female,29.9,0,13,0,RLQ,0,0,36.6,0,0,0,0,21.7,90.7,35.9,Periappendiceal Fluid,Appendicitis,1
+20,Female,17.9,0,11,0,RLQ,0,0,36.6,0,0,0,0,6.7,73.8,5.8,Normal,Other (Gastroenteritis),0
+46,Male,23.7,0,59,0,RLQ,0,0,37.5,0,0,0,0,9.8,73.7,41.3,Enlarged (>6mm),Appendicitis,1
+39,Male,22.0,0,29,0,RLQ,0,0,38.0,0,0,0,0,13.7,81.2,17.3,Non-visualized,Appendicitis,1
+11,Male,30.1,0,23,0,RLQ,0,0,38.3,0,0,0,0,14.8,86.7,48.7,Appendicolith Seen,Appendicitis,1
+13,Female,20.5,0,16,0,RLQ,0,0,37.3,0,0,0,0,10.2,57.7,25.6,Other Mild Inflammation,Other (UTI),0
+13,Female,25.9,0,92,0,RLQ,0,0,38.0,0,0,0,0,9.5,77.1,21.2,Non-visualized,Appendicitis,1
+44,Female,25.4,0,46,0,RLQ,0,0,36.8,0,0,0,0,13.0,82.3,85.5,Non-visualized,Appendicitis,1
+12,Male,19.3,0,29,0,RLQ,0,0,37.9,0,0,0,0,10.4,80.6,11.7,Non-visualized,Other (Gastroenteritis),0
+13,Male,28.8,0,33,0,Periumbilical,0,0,38.6,0,0,0,0,15.1,83.9,16.2,Enlarged (>6mm),Appendicitis,1
+24,Female,21.6,0,17,0,RLQ,0,0,37.1,0,0,0,0,16.6,79.9,57.9,Non-visualized,Appendicitis,1
+34,Male,18.0,0,20,0,Generalized,0,0,37.2,0,0,0,0,9.0,53.9,15.9,Normal,Other (Mesenteric Adenitis),0
+16,Male,27.8,0,57,0,RLQ,0,0,38.3,0,0,0,0,17.6,76.6,39.8,Non-visualized,Appendicitis,1
+26,Male,26.5,0,22,0,Generalized,0,0,37.3,0,0,0,0,17.4,82.1,38.9,Enlarged (>6mm),Appendicitis,1
+14,Female,16.1,0,36,0,LLQ,0,0,37.6,0,0,0,0,7.6,71.7,4.1,Normal,Other (Gastroenteritis),0
+8,Male,27.4,0,13,0,RLQ,0,0,38.1,0,0,0,0,14.6,93.5,2.0,Target Sign,Appendicitis,1
+19,Male,23.6,0,29,0,RLQ,0,0,37.5,0,0,0,0,10.4,77.7,23.2,Enlarged (>6mm),Appendicitis,1
+11,Male,21.3,0,50,0,Generalized,0,0,37.7,0,0,0,0,17.9,81.5,39.4,Target Sign,Appendicitis,1
+22,Male,32.6,0,11,0,RLQ,0,0,38.5,0,0,0,0,13.1,88.4,64.2,Target Sign,Appendicitis,1
+71,Female,23.1,0,4,0,RLQ,0,0,36.9,0,0,0,0,12.2,66.4,8.4,Normal,Other (Ovarian Cyst Rupture),0
+34,Female,25.5,0,20,0,RLQ,0,0,38.4,0,0,0,0,13.3,90.1,24.5,Enlarged (>6mm),Appendicitis,1
+20,Male,23.3,0,29,0,Periumbilical,0,0,38.1,0,0,0,0,14.0,84.5,78.6,Non-visualized,Appendicitis,1
+47,Female,21.1,0,23,0,Periumbilical,0,0,37.3,0,0,0,0,13.3,85.3,69.5,Enlarged (>6mm),Appendicitis,1
+5,Male,16.8,0,29,0,RLQ,0,0,38.0,0,0,0,0,10.5,81.5,59.5,Enlarged (>6mm),Appendicitis,1
+27,Male,16.0,0,58,0,Generalized,0,0,37.8,0,0,0,0,4.7,54.2,13.7,Non-visualized,Other (Gastroenteritis),0
+7,Female,21.8,0,42,0,RLQ,0,0,38.8,0,0,0,0,8.5,80.9,58.6,Enlarged (>6mm),Appendicitis,1
+26,Male,22.3,0,17,0,RLQ,0,0,38.6,0,0,0,0,18.7,84.3,62.9,Appendicolith Seen,Appendicitis,1
+41,Male,23.3,0,21,0,Epigastric,0,0,37.8,0,0,0,0,12.2,66.4,13.3,Normal,Other (Mesenteric Adenitis),0
+6,Male,23.3,0,26,0,RLQ,0,0,38.0,0,0,0,0,14.2,87.9,71.2,Enlarged (>6mm),Appendicitis,1
+13,Male,23.0,0,27,0,RLQ,0,0,37.8,0,0,0,0,11.4,84.7,63.3,Non-visualized,Appendicitis,1
+41,Female,18.8,0,27,0,LLQ,0,0,37.8,0,0,0,0,5.6,51.0,2.3,Normal,Other (Gastroenteritis),0
+7,Female,18.7,0,6,0,Generalized,0,0,37.3,0,0,0,0,18.4,75.5,56.2,Periappendiceal Fluid,Appendicitis,1
+23,Female,32.5,0,54,0,RLQ,0,0,38.2,0,0,0,0,17.0,85.1,14.9,Target Sign,Appendicitis,1
+7,Female,17.8,0,24,0,Periumbilical,0,0,37.9,0,0,0,0,16.6,81.2,112.7,Enlarged (>6mm),Appendicitis,1
+16,Male,26.9,0,42,0,RLQ,0,0,39.3,0,0,0,0,12.3,84.1,24.8,Enlarged (>6mm),Appendicitis,1
+5,Male,20.2,0,22,0,RLQ,0,0,38.6,0,0,0,0,11.9,83.4,22.6,Periappendiceal Fluid,Appendicitis,1
+33,Male,26.3,0,12,0,Periumbilical,0,0,37.6,0,0,0,0,13.3,72.1,67.2,Target Sign,Appendicitis,1
+27,Female,27.5,0,38,0,RLQ,0,0,37.6,0,0,0,0,9.2,68.8,28.2,Ovarian Cyst,Other (Mesenteric Adenitis),0
+23,Male,24.0,0,17,0,Generalized,0,0,37.6,0,0,0,0,5.5,65.6,27.3,Normal,Other (Mesenteric Adenitis),0
+7,Female,27.5,0,50,0,Periumbilical,0,0,38.8,0,0,0,0,14.8,82.1,52.7,Appendicolith Seen,Appendicitis,1
+25,Male,30.3,0,18,0,RLQ,0,0,37.6,0,0,0,0,14.3,77.6,21.2,Appendicolith Seen,Appendicitis,1
+15,Male,29.5,0,55,0,RLQ,0,0,38.3,0,0,0,0,18.7,83.5,29.4,Target Sign,Appendicitis,1
+35,Female,24.4,0,12,0,RLQ,0,0,37.6,0,0,0,0,8.7,88.4,41.2,Enlarged (>6mm),Appendicitis,1
+58,Male,27.8,0,82,0,RLQ,0,0,36.5,0,0,0,0,10.4,67.5,11.4,Non-visualized,Other (Gastroenteritis),0
+36,Female,19.0,0,24,0,Generalized,0,0,37.6,0,0,0,0,12.4,65.2,8.0,Other Mild Inflammation,Other (Mesenteric Adenitis),0
+23,Female,30.1,0,34,0,RLQ,0,0,38.0,0,0,0,0,17.6,92.6,74.6,Enlarged (>6mm),Appendicitis,1
+15,Female,23.7,0,29,0,Periumbilical,0,0,37.5,0,0,0,0,16.5,78.9,98.1,Non-visualized,Appendicitis,1
+17,Male,25.5,0,19,0,RLQ,0,0,36.9,0,0,0,0,7.9,65.4,3.0,Ovarian Cyst,Other (UTI),0
+12,Male,22.7,0,38,0,RLQ,0,0,38.0,0,0,0,0,16.0,76.0,45.3,Enlarged (>6mm),Appendicitis,1
+33,Male,26.9,0,14,0,RLQ,0,0,37.4,0,0,0,0,15.3,81.4,45.0,Periappendiceal Fluid,Appendicitis,1
+5,Female,19.2,0,21,0,RLQ,0,0,37.7,0,0,0,0,16.4,83.6,37.6,Target Sign,Appendicitis,1
+6,Female,23.8,0,21,0,RLQ,0,0,38.3,0,0,0,0,17.9,79.5,112.7,Enlarged (>6mm),Appendicitis,1
+28,Male,25.5,0,10,0,RLQ,0,0,38.3,0,0,0,0,13.6,87.5,181.9,Enlarged (>6mm),Appendicitis,1
+5,Male,25.1,0,12,0,Periumbilical,0,0,39.1,0,0,0,0,14.2,85.6,212.9,Periappendiceal Fluid,Appendicitis,1
+18,Male,25.0,0,12,0,LLQ,0,0,37.0,0,0,0,0,7.3,57.7,27.2,Normal,Other (Gastroenteritis),0
+32,Male,21.3,0,18,0,RLQ,0,0,37.0,0,0,0,0,13.8,81.0,61.4,Enlarged (>6mm),Appendicitis,1
+9,Male,17.6,0,14,0,RLQ,0,0,38.6,0,0,0,0,10.9,77.3,72.9,Target Sign,Appendicitis,1
+26,Male,17.5,0,16,0,Periumbilical,0,0,38.4,0,0,0,0,15.6,91.1,12.0,Enlarged (>6mm),Appendicitis,1
+28,Male,24.7,0,35,0,RLQ,0,0,38.0,0,0,0,0,6.5,88.4,114.1,Enlarged (>6mm),Appendicitis,1
+25,Female,23.6,0,18,0,RLQ,0,0,37.7,0,0,0,0,15.8,78.6,57.9,Target Sign,Appendicitis,1
+7,Female,21.2,0,31,0,Generalized,0,0,38.1,0,0,0,0,20.1,89.6,32.0,Non-visualized,Appendicitis,1
+5,Male,20.1,0,6,0,RLQ,0,0,37.6,0,0,0,0,18.1,88.2,103.4,Appendicolith Seen,Appendicitis,1
+18,Female,22.5,0,21,0,LLQ,0,0,38.2,0,0,0,0,8.3,66.9,6.4,Normal,Other (UTI),0
+24,Male,20.5,0,80,0,Generalized,0,0,38.2,0,0,0,0,9.3,61.1,12.7,Normal,Other (Mesenteric Adenitis),0
+10,Female,23.2,0,39,0,RLQ,0,0,37.7,0,0,0,0,16.1,79.7,74.6,Appendicolith Seen,Appendicitis,1
+5,Female,28.8,0,17,0,RLQ,0,0,38.0,0,0,0,0,16.1,80.9,26.9,Enlarged (>6mm),Appendicitis,1
+20,Male,28.2,0,24,0,LLQ,0,0,37.1,0,0,0,0,10.1,65.9,22.0,Normal,Other (Kidney Stones),0
+58,Male,18.3,0,24,0,RLQ,0,0,37.8,0,0,0,0,15.2,85.5,29.1,Periappendiceal Fluid,Appendicitis,1
+5,Male,22.3,0,38,0,RLQ,0,0,38.0,0,0,0,0,12.5,75.2,40.1,Periappendiceal Fluid,Appendicitis,1
+48,Female,26.2,0,55,0,Periumbilical,0,0,38.7,0,0,0,0,9.8,79.6,111.2,Enlarged (>6mm),Appendicitis,1
+22,Male,24.8,0,14,0,RLQ,0,0,37.7,0,0,0,0,10.1,69.0,14.1,Normal,Other (Kidney Stones),0
+37,Male,21.0,0,28,0,RLQ,0,0,37.8,0,0,0,0,13.0,86.6,43.9,Enlarged (>6mm),Appendicitis,1
+7,Male,28.7,0,56,0,RLQ,0,0,37.2,0,0,0,0,16.7,78.2,20.4,Appendicolith Seen,Appendicitis,1
+21,Male,21.3,0,26,0,RLQ,0,0,37.9,0,0,0,0,12.5,96.7,26.6,Non-visualized,Appendicitis,1
+47,Female,20.8,0,79,0,RLQ,0,0,38.5,0,0,0,0,16.1,78.2,20.7,Enlarged (>6mm),Appendicitis,1
+18,Male,29.0,0,5,0,RLQ,0,0,36.9,0,0,0,0,10.4,67.5,6.7,Normal,Other (UTI),0
+10,Male,27.9,0,3,0,RLQ,0,0,38.1,0,0,0,0,12.5,77.1,69.7,Enlarged (>6mm),Appendicitis,1
+23,Female,29.5,0,7,0,RLQ,0,0,39.0,0,0,0,0,14.6,81.9,68.3,Periappendiceal Fluid,Appendicitis,1
+32,Female,26.3,0,40,0,LLQ,0,0,36.9,0,0,0,0,12.6,46.7,15.4,Other Mild Inflammation,Other (Ectopic Pregnancy (if pregnant)),0
+43,Male,19.5,0,44,0,RLQ,0,0,37.1,0,0,0,0,17.6,85.7,33.2,Appendicolith Seen,Appendicitis,1
+42,Male,19.0,0,33,0,RLQ,0,0,37.8,0,0,0,0,12.5,79.5,6.0,Enlarged (>6mm),Appendicitis,1
+35,Male,16.5,0,70,0,RLQ,0,0,38.7,0,0,0,0,13.0,79.2,20.6,Target Sign,Appendicitis,1
+39,Male,24.8,0,5,0,Periumbilical,0,0,37.6,0,0,0,0,13.0,85.0,84.0,Enlarged (>6mm),Appendicitis,1
+68,Male,30.3,0,17,0,RLQ,0,0,37.9,0,0,0,0,12.7,86.2,30.8,Enlarged (>6mm),Appendicitis,1
+22,Female,22.5,0,73,0,RUQ,0,0,37.5,0,0,0,0,20.7,86.6,39.7,Enlarged (>6mm),Appendicitis,1
+28,Male,30.0,0,21,0,RLQ,0,0,37.5,0,0,0,0,17.7,66.7,207.7,Target Sign,Appendicitis,1
+21,Male,27.1,0,24,0,RLQ,0,0,38.7,0,0,0,0,11.8,79.3,75.6,Periappendiceal Fluid,Appendicitis,1
+5,Male,21.7,0,24,0,RLQ,0,0,37.3,0,0,0,0,4.0,70.6,10.7,Ovarian Cyst,Other (UTI),0
+36,Male,16.8,0,46,0,RLQ,0,0,37.9,0,0,0,0,11.9,80.4,34.8,Target Sign,Appendicitis,1
+5,Female,21.7,0,57,0,RLQ,0,0,39.0,0,0,0,0,9.3,76.4,54.4,Enlarged (>6mm),Appendicitis,1
+35,Male,23.6,0,6,0,RLQ,0,0,37.4,0,0,0,0,11.4,70.6,142.0,Enlarged (>6mm),Appendicitis,1
+40,Male,23.5,0,20,0,Generalized,0,0,36.7,0,0,0,0,7.6,58.3,14.2,Normal,Other (Mesenteric Adenitis),0
+18,Male,24.8,0,11,0,Periumbilical,0,0,37.6,0,0,0,0,13.3,82.2,24.0,Enlarged (>6mm),Appendicitis,1
+5,Female,24.0,0,6,0,RLQ,0,0,38.3,0,0,0,0,14.6,87.8,71.1,Periappendiceal Fluid,Appendicitis,1
+21,Male,21.8,0,34,0,RLQ,0,0,36.6,0,0,0,0,18.0,87.6,38.3,Enlarged (>6mm),Appendicitis,1
+13,Male,18.2,0,33,0,RLQ,0,0,36.9,0,0,0,0,19.5,69.4,11.7,Enlarged (>6mm),Appendicitis,1
+41,Male,23.0,0,35,0,LLQ,0,0,36.7,0,0,0,0,7.5,66.8,15.2,Normal,Other (Gastroenteritis),0
+15,Female,34.9,0,34,0,RLQ,0,0,39.1,0,0,0,0,14.0,83.0,100.0,Target Sign,Appendicitis,1
+37,Male,22.8,0,11,0,Epigastric,0,0,37.6,0,0,0,0,9.8,71.9,5.5,Ovarian Cyst,Other (UTI),0
+30,Female,26.1,0,22,0,RLQ,0,0,38.6,0,0,0,0,11.0,87.3,58.8,Enlarged (>6mm),Appendicitis,1
+22,Female,21.2,0,51,0,RLQ,0,0,38.3,0,0,0,0,11.7,89.8,112.5,Non-visualized,Appendicitis,1
+23,Female,16.2,0,33,0,LLQ,0,0,37.1,0,0,0,0,10.8,54.1,3.5,Other Mild Inflammation,Other (Mesenteric Adenitis),0
+36,Female,27.7,0,56,0,Generalized,0,0,37.4,0,0,0,0,9.5,44.2,10.5,Normal,Other (Ovarian Cyst Rupture),0
+41,Male,23.1,0,25,0,RLQ,0,0,38.6,0,0,0,0,15.9,77.9,14.6,Target Sign,Appendicitis,1
+27,Male,27.3,0,22,0,LLQ,0,0,37.8,0,0,0,0,8.9,53.9,19.9,Normal,Other (Kidney Stones),0
+29,Female,16.0,0,12,0,Periumbilical,0,0,37.7,0,0,0,0,17.7,87.5,103.5,Target Sign,Appendicitis,1
+35,Male,22.9,0,14,0,RLQ,0,0,37.7,0,0,0,0,18.6,71.3,138.6,Enlarged (>6mm),Appendicitis,1
+7,Male,19.8,0,90,0,RLQ,0,0,37.9,0,0,0,0,16.3,81.0,46.8,Periappendiceal Fluid,Appendicitis,1
+15,Male,22.2,0,45,0,RLQ,0,0,38.1,0,0,0,0,15.2,82.8,21.6,Periappendiceal Fluid,Appendicitis,1
+26,Female,24.6,0,69,0,RLQ,0,0,38.0,0,0,0,0,6.4,73.9,55.4,Normal,Other (PID),0
+35,Male,22.1,0,58,0,RLQ,0,0,38.2,0,0,0,0,15.6,79.4,34.9,Periappendiceal Fluid,Appendicitis,1
+38,Male,18.1,0,33,0,RLQ,0,0,37.4,0,0,0,0,16.2,87.5,57.3,Appendicolith Seen,Appendicitis,1
+36,Male,30.6,0,44,0,RLQ,0,0,38.3,0,0,0,0,13.7,83.1,29.7,Enlarged (>6mm),Appendicitis,1
+47,Female,21.0,0,29,0,RLQ,0,0,40.0,0,0,0,0,13.6,73.2,40.5,Enlarged (>6mm),Appendicitis,1
+8,Male,28.4,0,38,0,Generalized,0,0,37.6,0,0,0,0,13.4,83.1,73.1,Enlarged (>6mm),Appendicitis,1
+12,Male,26.3,0,12,0,Periumbilical,0,0,38.1,0,0,0,0,16.2,79.9,125.8,Appendicolith Seen,Appendicitis,1
+10,Female,23.2,0,45,0,RLQ,0,0,38.6,0,0,0,0,10.3,79.3,42.5,Non-visualized,Appendicitis,1
+27,Female,20.2,0,19,0,RLQ,0,0,37.7,0,0,0,0,11.1,81.3,68.7,Appendicolith Seen,Appendicitis,1
+5,Female,16.2,0,28,0,Generalized,0,0,37.7,0,0,0,0,10.1,87.8,60.4,Target Sign,Appendicitis,1
+25,Male,23.9,0,32,0,RLQ,0,0,37.5,0,0,0,0,10.0,78.4,29.9,Periappendiceal Fluid,Appendicitis,1
+37,Male,22.0,0,49,0,RLQ,0,0,37.6,0,0,0,0,13.1,88.2,14.8,Target Sign,Appendicitis,1
+29,Female,25.7,0,68,0,RLQ,0,0,38.1,0,0,0,0,16.4,83.6,99.8,Enlarged (>6mm),Appendicitis,1
+16,Female,21.7,0,86,0,RLQ,0,0,38.0,0,0,0,0,12.8,80.0,162.0,Periappendiceal Fluid,Appendicitis,1
+26,Male,22.9,0,2,0,RLQ,0,0,37.3,0,0,0,0,13.1,83.3,19.6,Enlarged (>6mm),Appendicitis,1
+18,Male,16.0,0,27,0,RLQ,0,0,37.5,0,0,0,0,6.9,72.2,18.8,Other Mild Inflammation,Other (Gastroenteritis),0
+20,Male,27.0,0,53,0,Epigastric,0,0,38.3,0,0,0,0,12.2,67.4,7.2,Normal,Other (Kidney Stones),0
+22,Male,25.4,0,14,0,RLQ,0,0,37.5,0,0,0,0,10.0,65.1,2.3,Normal,Other (Kidney Stones),0
+44,Female,18.1,0,46,0,RLQ,0,0,38.1,0,0,0,0,19.7,82.3,24.9,Enlarged (>6mm),Appendicitis,1
+6,Male,18.0,0,10,0,LLQ,0,0,37.7,0,0,0,0,7.8,66.2,13.0,Normal,Other (Gastroenteritis),0
+34,Male,22.3,0,51,0,RLQ,0,0,38.0,0,0,0,0,16.1,74.8,66.0,Enlarged (>6mm),Appendicitis,1
+5,Male,19.3,0,28,0,RLQ,0,0,36.9,0,0,0,0,14.0,84.5,133.8,Non-visualized,Appendicitis,1
+44,Male,26.7,0,5,0,RLQ,0,0,37.6,0,0,0,0,16.1,81.4,42.8,Appendicolith Seen,Appendicitis,1
+9,Male,24.4,0,39,0,RLQ,0,0,37.0,0,0,0,0,18.5,84.7,25.1,Non-visualized,Appendicitis,1
+5,Female,23.2,0,27,0,RLQ,0,0,38.5,0,0,0,0,16.1,88.3,17.4,Target Sign,Appendicitis,1
+57,Female,24.4,0,15,0,RLQ,0,0,36.8,0,0,0,0,7.5,65.4,13.3,Normal,Other (Ovarian Cyst Rupture),0
+45,Male,20.8,0,25,0,RLQ,0,0,38.1,0,0,0,0,19.7,73.1,28.6,Enlarged (>6mm),Appendicitis,1
+6,Male,21.2,0,29,0,RLQ,0,0,37.5,0,0,0,0,14.6,88.9,35.1,Target Sign,Appendicitis,1
+23,Male,31.1,0,42,0,RLQ,0,0,37.1,0,0,0,0,16.2,77.5,87.3,Target Sign,Appendicitis,1
+25,Female,28.8,0,30,0,RLQ,0,0,38.7,0,0,0,0,10.5,76.8,56.6,Enlarged (>6mm),Appendicitis,1
+20,Male,20.0,0,23,0,Generalized,0,0,38.5,0,0,0,0,10.9,87.9,114.5,Enlarged (>6mm),Appendicitis,1
+14,Female,21.7,0,71,0,RLQ,0,0,37.6,0,0,0,0,9.8,84.6,20.2,Enlarged (>6mm),Appendicitis,1
+33,Female,26.0,0,28,0,RLQ,0,0,37.5,0,0,0,0,11.5,61.8,29.8,Other Mild Inflammation,Other (UTI),0
+23,Male,26.1,0,15,0,RLQ,0,0,37.0,0,0,0,0,17.3,74.6,109.9,Periappendiceal Fluid,Appendicitis,1
+18,Female,22.3,0,16,0,RLQ,0,0,37.1,0,0,0,0,17.7,87.4,3.5,Target Sign,Appendicitis,1
+14,Male,26.2,0,28,0,RLQ,0,0,37.5,0,0,0,0,16.5,76.8,60.7,Target Sign,Appendicitis,1
+18,Female,21.0,0,15,0,Periumbilical,0,0,38.2,0,0,0,0,17.3,83.5,115.8,Enlarged (>6mm),Appendicitis,1
+21,Male,22.1,0,51,0,RLQ,0,0,38.3,0,0,0,0,10.8,79.7,19.4,Periappendiceal Fluid,Appendicitis,1
+15,Female,25.8,0,23,0,Periumbilical,0,0,38.4,0,0,0,0,10.6,88.3,26.9,Appendicolith Seen,Appendicitis,1
+26,Female,25.6,0,28,0,LLQ,0,0,38.2,0,0,0,0,6.7,64.7,2.0,Normal,Other (Ectopic Pregnancy (if pregnant)),0
+45,Female,25.7,0,29,0,Pelvic,0,0,38.0,0,0,0,0,6.6,68.6,5.9,Normal,Other (PID),0
+12,Female,25.5,0,5,0,RLQ,0,0,38.0,0,0,0,0,11.6,74.1,37.6,Appendicolith Seen,Appendicitis,1
+23,Female,25.4,0,28,0,LLQ,0,0,36.8,0,0,0,0,8.6,79.0,9.5,Normal,Other (PID),0
+23,Female,20.9,0,18,0,RLQ,0,0,38.7,0,0,0,0,13.3,82.0,12.9,Enlarged (>6mm),Appendicitis,1
+15,Female,23.8,0,5,0,RLQ,0,0,38.7,0,0,0,0,13.6,82.2,50.9,Non-visualized,Appendicitis,1
+16,Male,22.2,0,7,0,RLQ,0,0,38.0,0,0,0,0,14.3,75.6,44.1,Enlarged (>6mm),Appendicitis,1
+16,Female,26.8,0,5,0,LLQ,0,0,37.2,0,0,0,0,8.6,72.5,14.7,Normal,Other (PID),0
+17,Male,28.1,0,42,0,Periumbilical,0,0,39.1,0,0,0,0,10.7,88.2,77.9,Periappendiceal Fluid,Appendicitis,1
+42,Male,23.4,0,30,0,RLQ,0,0,37.7,0,0,0,0,14.0,80.2,178.9,Target Sign,Appendicitis,1
+15,Female,16.1,0,23,0,Generalized,0,0,36.9,0,0,0,0,7.0,65.9,24.3,Ovarian Cyst,Other (Ectopic Pregnancy (if pregnant)),0
+57,Female,16.0,0,13,0,RLQ,0,0,38.6,0,0,0,0,18.2,82.8,66.8,Enlarged (>6mm),Appendicitis,1
+31,Female,22.1,0,47,0,RLQ,0,0,37.2,0,0,0,0,18.7,85.2,48.0,Enlarged (>6mm),Appendicitis,1
+60,Male,20.5,0,39,0,RLQ,0,0,38.2,0,0,0,0,15.0,91.2,89.2,Non-visualized,Appendicitis,1
+23,Female,23.6,0,23,0,RLQ,0,0,37.1,0,0,0,0,14.9,75.4,37.4,Target Sign,Appendicitis,1
+12,Female,21.8,0,17,0,RLQ,0,0,38.1,0,0,0,0,12.3,85.8,68.8,Periappendiceal Fluid,Appendicitis,1
+18,Male,22.6,0,8,0,RLQ,0,0,38.2,0,0,0,0,9.4,62.7,6.3,Normal,Other (Kidney Stones),0
+19,Male,27.4,0,16,0,Periumbilical,0,0,37.0,0,0,0,0,17.7,85.2,53.1,Non-visualized,Appendicitis,1
+16,Female,30.3,0,9,0,RLQ,0,0,38.0,0,0,0,0,15.6,83.1,118.7,Appendicolith Seen,Appendicitis,1
+25,Male,19.0,0,41,0,Periumbilical,0,0,37.4,0,0,0,0,18.3,82.5,59.0,Periappendiceal Fluid,Appendicitis,1
+33,Female,24.7,0,31,0,RLQ,0,0,37.8,0,0,0,0,15.4,83.8,20.9,Periappendiceal Fluid,Appendicitis,1
+52,Female,21.1,0,36,0,RLQ,0,0,38.7,0,0,0,0,15.2,88.2,38.8,Target Sign,Appendicitis,1
+52,Female,23.1,0,36,0,RLQ,0,0,38.1,0,0,0,0,18.9,85.9,57.1,Enlarged (>6mm),Appendicitis,1
+15,Female,22.6,0,74,0,Periumbilical,0,0,37.8,0,0,0,0,17.5,77.0,120.7,Periappendiceal Fluid,Appendicitis,1
+5,Male,30.8,0,17,0,RLQ,0,0,38.2,0,0,0,0,13.2,84.7,23.7,Enlarged (>6mm),Appendicitis,1
+30,Female,27.0,0,45,0,RLQ,0,0,38.3,0,0,0,0,17.1,91.1,22.1,Target Sign,Appendicitis,1
+33,Male,27.9,0,26,0,RLQ,0,0,38.4,0,0,0,0,7.7,84.7,46.1,Target Sign,Appendicitis,1
+5,Female,29.9,0,34,0,RLQ,0,0,36.5,0,0,0,0,15.5,88.2,12.2,Enlarged (>6mm),Appendicitis,1
+39,Male,20.1,0,76,0,RLQ,0,0,38.7,0,0,0,0,13.8,65.0,15.4,Other Mild Inflammation,Other (Gastroenteritis),0
+5,Male,21.9,0,29,0,RLQ,0,0,37.1,0,0,0,0,7.4,66.6,5.3,Normal,Other (Mesenteric Adenitis),0
+11,Male,21.1,0,31,0,Periumbilical,0,0,38.5,0,0,0,0,13.5,83.1,22.4,Periappendiceal Fluid,Appendicitis,1
+32,Male,29.1,0,3,0,RLQ,0,0,37.8,0,0,0,0,19.1,98.0,79.9,Periappendiceal Fluid,Appendicitis,1
+20,Male,21.7,0,23,0,Periumbilical,0,0,37.6,0,0,0,0,16.2,75.4,87.9,Enlarged (>6mm),Appendicitis,1
+29,Female,16.0,0,19,0,Periumbilical,0,0,38.0,0,0,0,0,15.7,91.2,101.2,Non-visualized,Appendicitis,1
+28,Female,16.8,0,45,0,RLQ,0,0,38.7,0,0,0,0,17.5,88.5,16.6,Appendicolith Seen,Appendicitis,1
+21,Male,26.9,0,11,0,RLQ,0,0,38.9,0,0,0,0,14.4,82.4,57.5,Periappendiceal Fluid,Appendicitis,1
+5,Male,18.5,0,12,0,RLQ,0,0,38.4,0,0,0,0,12.5,77.5,3.9,Enlarged (>6mm),Appendicitis,1
+41,Male,22.2,0,23,0,Periumbilical,0,0,38.1,0,0,0,0,16.4,78.2,72.1,Enlarged (>6mm),Appendicitis,1
+13,Male,25.3,0,14,0,Periumbilical,0,0,38.1,0,0,0,0,15.9,78.9,23.6,Periappendiceal Fluid,Appendicitis,1
+51,Male,23.2,0,9,0,RLQ,0,0,36.9,0,0,0,0,7.7,77.3,11.1,Other Mild Inflammation,Other (UTI),0
+37,Male,18.7,0,6,0,LLQ,0,0,37.5,0,0,0,0,6.9,73.3,7.4,Normal,Other (Mesenteric Adenitis),0
+5,Female,31.2,0,7,0,RLQ,0,0,37.2,0,0,0,0,6.3,61.7,9.1,Normal,Other (PID),0
+36,Male,22.4,0,56,0,RLQ,0,0,37.0,0,0,0,0,17.2,89.6,23.2,Enlarged (>6mm),Appendicitis,1
+21,Female,24.5,0,30,0,RLQ,0,0,38.5,0,0,0,0,15.9,85.5,115.5,Appendicolith Seen,Appendicitis,1
+37,Male,25.2,0,4,0,Periumbilical,0,0,38.4,0,0,0,0,16.5,70.8,40.7,Non-visualized,Appendicitis,1
+5,Female,20.4,0,14,0,RLQ,0,0,37.2,0,0,0,0,20.4,82.4,96.5,Non-visualized,Appendicitis,1
+45,Male,26.2,0,28,0,RLQ,0,0,37.3,0,0,0,0,16.2,80.6,66.9,Enlarged (>6mm),Appendicitis,1
+5,Female,17.2,0,41,0,RLQ,0,0,38.8,0,0,0,0,9.8,73.2,121.0,Target Sign,Appendicitis,1
+27,Male,18.6,0,4,0,RLQ,0,0,38.6,0,0,0,0,13.9,82.4,41.5,Enlarged (>6mm),Appendicitis,1
+57,Female,27.8,0,13,0,RLQ,0,0,37.3,0,0,0,0,16.0,89.2,13.9,Non-visualized,Appendicitis,1
+42,Male,23.0,0,16,0,RLQ,0,0,37.5,0,0,0,0,12.6,70.9,19.4,Other Mild Inflammation,Other (Mesenteric Adenitis),0
+17,Male,26.9,0,33,0,RLQ,0,0,38.3,0,0,0,0,17.0,81.9,50.2,Enlarged (>6mm),Appendicitis,1
+43,Female,29.1,0,21,0,RLQ,0,0,38.5,0,0,0,0,13.9,78.6,28.9,Target Sign,Appendicitis,1
+21,Male,23.0,0,9,0,RLQ,0,0,37.8,0,0,0,0,20.6,84.4,99.5,Appendicolith Seen,Appendicitis,1
+42,Male,27.5,0,28,0,RLQ,0,0,37.9,0,0,0,0,14.9,72.5,71.4,Enlarged (>6mm),Appendicitis,1
+12,Female,22.1,0,53,0,RLQ,0,0,38.0,0,0,0,0,11.8,78.4,42.2,Enlarged (>6mm),Appendicitis,1
+36,Male,26.6,0,32,0,RLQ,0,0,37.1,0,0,0,0,16.4,81.2,20.8,Enlarged (>6mm),Appendicitis,1
+31,Female,20.9,0,84,0,RLQ,0,0,38.0,0,0,0,0,10.3,82.9,5.7,Appendicolith Seen,Appendicitis,1
+10,Male,23.1,0,22,0,RLQ,0,0,38.4,0,0,0,0,14.2,80.8,10.4,Target Sign,Appendicitis,1
+31,Male,23.9,0,36,0,RLQ,0,0,38.9,0,0,0,0,14.0,82.5,18.6,Periappendiceal Fluid,Appendicitis,1
+7,Male,26.0,0,61,0,LLQ,0,0,36.9,0,0,0,0,4.8,71.7,30.2,Normal,Other (Gastroenteritis),0
+25,Female,21.6,0,26,0,RLQ,0,0,37.2,0,0,0,0,13.3,81.5,1.0,Enlarged (>6mm),Appendicitis,1
+21,Female,22.2,0,22,0,RUQ,0,0,38.4,0,0,0,0,17.5,78.7,44.7,Non-visualized,Appendicitis,1
+27,Male,20.7,0,20,0,RLQ,0,0,37.7,0,0,0,0,12.4,71.8,14.0,Normal,Other (Mesenteric Adenitis),0
+13,Male,26.3,0,37,0,Periumbilical,0,0,36.8,0,0,0,0,9.4,93.3,109.3,Target Sign,Appendicitis,1
+8,Female,22.5,0,17,0,RLQ,0,0,37.7,0,0,0,0,13.4,87.6,23.7,Target Sign,Appendicitis,1
+10,Female,19.2,0,7,0,RLQ,0,0,38.3,0,0,0,0,21.1,81.2,101.3,Periappendiceal Fluid,Appendicitis,1
+25,Male,21.3,0,32,0,RLQ,0,0,39.1,0,0,0,0,19.9,87.9,27.1,Appendicolith Seen,Appendicitis,1
+38,Male,20.2,0,94,0,Generalized,0,0,38.5,0,0,0,0,15.0,83.4,32.2,Enlarged (>6mm),Appendicitis,1
+30,Female,24.6,0,46,0,Periumbilical,0,0,37.4,0,0,0,0,16.2,76.7,22.3,Enlarged (>6mm),Appendicitis,1
+36,Female,30.7,0,48,0,Epigastric,0,0,36.5,0,0,0,0,9.9,67.0,3.1,Other Mild Inflammation,Other (Ovarian Cyst Rupture),0
+27,Female,28.4,0,9,0,LLQ,0,0,36.5,0,0,0,0,9.8,61.2,14.8,Normal,Other (Mesenteric Adenitis),0
+58,Female,21.8,0,71,0,RLQ,0,0,37.9,0,0,0,0,11.7,73.8,51.1,Appendicolith Seen,Appendicitis,1
+33,Male,20.9,0,30,0,RLQ,0,0,37.6,0,0,0,0,11.0,82.0,87.0,Appendicolith Seen,Appendicitis,1
+26,Female,22.4,0,32,0,RLQ,0,0,36.9,0,0,0,0,10.2,66.2,16.2,Other Mild Inflammation,Other (UTI),0
+9,Male,28.9,0,8,0,Generalized,0,0,38.0,0,0,0,0,7.5,68.1,9.2,Other Mild Inflammation,Other (Mesenteric Adenitis),0
+49,Male,24.7,0,23,0,RLQ,0,0,38.5,0,0,0,0,16.2,87.4,13.3,Target Sign,Appendicitis,1
+17,Male,32.2,0,45,0,Generalized,0,0,37.6,0,0,0,0,15.4,88.2,41.6,Target Sign,Appendicitis,1
+27,Male,31.9,0,30,0,RLQ,0,0,36.8,0,0,0,0,12.0,87.6,124.4,Target Sign,Appendicitis,1
+39,Female,22.7,0,10,0,RLQ,0,0,37.4,0,0,0,0,9.5,48.3,11.4,Non-visualized,Other (PID),0
+30,Male,19.7,0,22,0,RLQ,0,0,38.4,0,0,0,0,9.9,90.0,28.7,Periappendiceal Fluid,Appendicitis,1
+5,Male,21.0,0,9,0,Periumbilical,0,0,37.0,0,0,0,0,13.5,87.9,24.3,Enlarged (>6mm),Appendicitis,1
+12,Male,16.6,0,29,0,RLQ,0,0,37.5,0,0,0,0,13.2,83.9,71.4,Enlarged (>6mm),Appendicitis,1
+27,Male,24.0,0,23,0,RLQ,0,0,37.6,0,0,0,0,13.2,70.9,20.0,Periappendiceal Fluid,Appendicitis,1
+26,Male,24.5,0,39,0,RLQ,0,0,37.4,0,0,0,0,12.5,90.6,97.9,Periappendiceal Fluid,Appendicitis,1
+30,Male,25.6,0,29,0,RLQ,0,0,37.1,0,0,0,0,16.8,81.6,51.9,Enlarged (>6mm),Appendicitis,1
+28,Female,20.0,0,44,0,Periumbilical,0,0,37.5,0,0,0,0,9.9,84.4,93.1,Target Sign,Appendicitis,1
+19,Female,28.3,0,7,0,RLQ,0,0,37.7,0,0,0,0,16.2,85.7,120.7,Appendicolith Seen,Appendicitis,1
+15,Male,28.6,0,30,0,RLQ,0,0,37.8,0,0,0,0,21.1,83.2,38.4,Enlarged (>6mm),Appendicitis,1
+30,Female,25.5,0,24,0,RLQ,0,0,38.4,0,0,0,0,15.4,83.1,102.0,Target Sign,Appendicitis,1
+20,Female,24.2,0,22,0,RLQ,0,0,37.9,0,0,0,0,16.4,82.8,73.9,Enlarged (>6mm),Appendicitis,1
+20,Male,30.1,0,60,0,RLQ,0,0,38.4,0,0,0,0,12.3,85.4,7.5,Enlarged (>6mm),Appendicitis,1
+27,Male,23.5,0,40,0,RLQ,0,0,38.0,0,0,0,0,11.1,87.9,42.3,Enlarged (>6mm),Appendicitis,1
+8,Male,25.8,0,32,0,RLQ,0,0,38.2,0,0,0,0,14.9,88.9,42.2,Periappendiceal Fluid,Appendicitis,1
+27,Female,27.0,0,28,0,Periumbilical,0,0,36.8,0,0,0,0,13.3,75.1,62.5,Enlarged (>6mm),Appendicitis,1
+9,Male,17.2,0,31,0,Periumbilical,0,0,38.1,0,0,0,0,20.8,78.4,147.4,Target Sign,Appendicitis,1
+45,Female,23.3,0,12,0,RLQ,0,0,38.4,0,0,0,0,19.0,82.3,36.6,Target Sign,Appendicitis,1
+36,Male,16.3,0,56,0,RLQ,0,0,38.3,0,0,0,0,14.7,81.3,80.3,Appendicolith Seen,Appendicitis,1
+50,Female,24.5,0,33,0,Generalized,0,0,36.8,0,0,0,0,14.9,82.1,85.3,Appendicolith Seen,Appendicitis,1
+26,Male,22.5,0,41,0,RLQ,0,0,38.1,0,0,0,0,18.0,79.2,46.3,Non-visualized,Appendicitis,1
+36,Female,33.5,0,24,0,Pelvic,0,0,37.6,0,0,0,0,9.5,68.5,1.7,Normal,Other (Mesenteric Adenitis),0
+17,Female,23.0,0,30,0,RLQ,0,0,38.9,0,0,0,0,12.2,80.6,106.0,Non-visualized,Appendicitis,1
+17,Male,24.0,0,4,0,LLQ,0,0,37.3,0,0,0,0,4.9,67.3,17.9,Normal,Other (Gastroenteritis),0
+7,Female,24.7,0,6,0,RLQ,0,0,39.8,0,0,0,0,12.0,75.8,35.3,Target Sign,Appendicitis,1
+48,Male,21.1,0,25,0,RLQ,0,0,38.0,0,0,0,0,10.8,97.6,51.2,Periappendiceal Fluid,Appendicitis,1
+40,Male,25.3,0,33,0,RLQ,0,0,37.7,0,0,0,0,6.7,63.3,13.4,Normal,Other (Kidney Stones),0
+15,Female,21.6,0,36,0,RLQ,0,0,37.8,0,0,0,0,8.5,80.4,16.4,Enlarged (>6mm),Appendicitis,1
+37,Female,27.6,0,46,0,RLQ,0,0,37.3,0,0,0,0,13.9,70.6,71.4,Target Sign,Appendicitis,1
+28,Male,22.0,0,46,0,RLQ,0,0,37.5,0,0,0,0,12.8,87.5,12.4,Enlarged (>6mm),Appendicitis,1
+43,Male,27.5,0,27,0,RLQ,0,0,38.7,0,0,0,0,15.8,83.2,5.7,Periappendiceal Fluid,Appendicitis,1
+5,Male,21.5,0,23,0,RLQ,0,0,37.5,0,0,0,0,12.4,87.0,38.0,Enlarged (>6mm),Appendicitis,1
+10,Female,22.6,0,16,0,RLQ,0,0,37.1,0,0,0,0,16.3,88.1,128.0,Target Sign,Appendicitis,1
+30,Female,22.6,0,39,0,RLQ,0,0,38.1,0,0,0,0,19.1,84.6,57.4,Target Sign,Appendicitis,1
+48,Male,26.6,0,62,0,RLQ,0,0,37.8,0,0,0,0,10.1,80.5,46.2,Enlarged (>6mm),Appendicitis,1
+25,Male,25.1,0,64,0,RLQ,0,0,38.2,0,0,0,0,16.0,72.7,140.4,Periappendiceal Fluid,Appendicitis,1
+23,Female,22.2,0,6,0,LLQ,0,0,37.3,0,0,0,0,9.3,62.1,20.7,Normal,Other (PID),0
+20,Female,24.4,0,23,0,Periumbilical,0,0,38.6,0,0,0,0,14.9,71.7,27.4,Enlarged (>6mm),Appendicitis,1
+31,Male,20.2,0,52,0,Periumbilical,0,0,37.9,0,0,0,0,20.8,77.9,129.3,Enlarged (>6mm),Appendicitis,1
+36,Female,19.4,0,22,0,Generalized,0,0,37.4,0,0,0,0,16.6,77.3,60.5,Non-visualized,Appendicitis,1
+27,Male,27.7,0,13,0,RLQ,0,0,37.5,0,0,0,0,14.6,75.9,41.7,Periappendiceal Fluid,Appendicitis,1
+20,Male,33.1,0,43,0,RLQ,0,0,38.0,0,0,0,0,20.3,67.8,40.1,Enlarged (>6mm),Appendicitis,1
+16,Male,24.6,0,80,0,RLQ,0,0,37.5,0,0,0,0,15.2,84.3,82.6,Appendicolith Seen,Appendicitis,1
+22,Female,26.1,0,8,0,RLQ,0,0,38.1,0,0,0,0,9.2,66.2,5.6,Other Mild Inflammation,Other (Ovarian Cyst Rupture),0
