@@ -1,0 +1,18 @@
+{
+  "run_id": "20260320_133956",
+  "best_model": "RandomForest",
+  "test_metrics": {
+    "accuracy": 0.9966666666666667,
+    "precision": 0.99581589958159,
+    "recall": 1.0,
+    "f1": 0.9979035639412998,
+    "roc_auc": 1.0,
+    "pr_auc": 1.0
+  },
+  "confusion_matrix": {
+    "tn": 61,
+    "fp": 1,
+    "fn": 0,
+    "tp": 238
+  }
+}
