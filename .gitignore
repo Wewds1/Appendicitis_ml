@@ -1,3 +1,5 @@
 /venv
 
 *.md
+
+.pytest_cache/ 

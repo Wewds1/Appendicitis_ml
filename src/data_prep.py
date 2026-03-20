@@ -35,7 +35,7 @@ def drop_leakage_cols(df: pd.DataFrame) -> pd.DataFrame:
 # This function encodes specified boolean columns by mapping "yes" to 1 and "no" to 0. 
 # It also handles any leading/trailing whitespace and case variations in the string values. 
 # By default, it will encode all columns listed in BOOLEAN_COLS, but you can specify a custom list of columns if needed.
-def encode_boolean_cols(df: pd.DataFrame, columns: List[str]) -> pd.DataFrame:
+def encode_boolean_cols(df: pd.DataFrame, columns: List[str]= None) -> pd.DataFrame:
     out = df.copy()
     cols = columns or BOOLEAN_COLS
     for col in cols:
@@ -144,3 +144,23 @@ def save_clean_data(df_clean: pd.DataFrame,
         "y_train": str(path4),
         "y_test": str(path5)
     } 
+    
+# This function takes a fitted ColumnTransformer preprocessor and the original training and testing feature DataFrames,
+def transform_to_dataframes(preprocessor: ColumnTransformer, X_train: pd.DataFrame, X_test: pd.DataFrame):
+    X_train_processed = preprocessor.fit_transform(X_train)
+    X_test_processed = preprocessor.transform(X_test)
+
+    feature_names = preprocessor.get_feature_names_out()
+    
+    X_train_df = pd.DataFrame(
+        X_train_processed.toarray() if hasattr(X_train_processed, "toarray") else X_train_processed,
+        columns=feature_names,
+        index=X_train.index
+    )
+    
+    X_test_df = pd.DataFrame(
+        X_test_processed.toarray() if hasattr(X_test_processed, "toarray") else X_test_processed,
+        columns=feature_names,
+        index=X_test.index
+    )
+    return X_train_df, X_test_df
